@@ -1,0 +1,62 @@
+2016-09-15 17:03:42.0066	WARN	ELAI activated.
+2016-09-15 17:03:42.0126	INFO	Started connection: T01@leidig.msc, http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/
+2016-09-15 17:03:44.2038	INFO	sent Pull request
+2016-09-15 17:03:47.1511	INFO	sent Pull request
+2016-09-15 17:03:47.5532	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:03:47.6742	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:03:49.1553	INFO	sent Pull request
+2016-09-15 17:03:49.5804	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:03:52.1566	INFO	sent Pull request
+2016-09-15 17:03:52.5827	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:03:55.1599	INFO	sent Pull request
+2016-09-15 17:03:55.5770	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:03:58.1622	INFO	sent Pull request
+2016-09-15 17:03:58.5673	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:01.1625	INFO	sent Pull request
+2016-09-15 17:04:01.5766	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:04.1688	INFO	sent Pull request
+2016-09-15 17:04:04.5869	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:07.1761	INFO	sent Pull request
+2016-09-15 17:04:07.6252	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:10.1734	INFO	sent Pull request
+2016-09-15 17:04:10.5785	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:13.1767	INFO	sent Pull request
+2016-09-15 17:04:13.5758	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:16.1780	INFO	sent Pull request
+2016-09-15 17:04:16.5761	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:19.1803	INFO	sent Pull request
+2016-09-15 17:04:19.6104	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:22.1826	INFO	sent Pull request
+2016-09-15 17:04:22.5797	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:25.1849	INFO	sent Pull request
+2016-09-15 17:04:25.5890	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:28.1872	INFO	sent Pull request
+2016-09-15 17:04:28.6033	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:31.1905	INFO	sent Pull request
+2016-09-15 17:04:31.6116	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:34.1928	INFO	sent Pull request
+2016-09-15 17:04:34.5849	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:37.1961	INFO	sent Pull request
+2016-09-15 17:04:37.5882	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:40.1984	INFO	sent Pull request
+2016-09-15 17:04:40.5855	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:43.2007	INFO	sent Pull request
+2016-09-15 17:04:43.5898	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:46.2060	INFO	sent Pull request
+2016-09-15 17:04:46.5931	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:49.2083	INFO	sent Pull request
+2016-09-15 17:04:49.6234	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:52.2096	INFO	sent Pull request
+2016-09-15 17:04:52.6037	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:55.2109	INFO	sent Pull request
+2016-09-15 17:04:55.6110	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:04:58.2162	INFO	sent Pull request
+2016-09-15 17:04:58.6043	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:05:01.2175	INFO	sent Pull request
+2016-09-15 17:05:01.6006	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:05:04.2198	INFO	sent Pull request
+2016-09-15 17:05:04.5999	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:05:07.2221	INFO	sent Pull request
+2016-09-15 17:05:07.6252	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}
+2016-09-15 17:05:10.2284	INFO	sent Pull request
+2016-09-15 17:05:10.6235	ELAI Pull	{"learnerNeedHelp":false,"learnerNeedHelp_new":false,"genreName":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/game/Seek-and-Find_Game/","skillLevel":0.5,"learnerNeedHelp_old":false,"helpingLevel":0.5}

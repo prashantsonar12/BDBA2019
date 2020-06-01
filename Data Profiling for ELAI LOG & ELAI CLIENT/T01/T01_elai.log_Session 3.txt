@@ -1,0 +1,2041 @@
+2016-09-15 17:11:29.6764	GAME SCENE	SeekAndFindScene_Karlsruhe
+2016-09-15 17:11:29.6794	EyeTracking AOI	NULL
+2016-09-15 17:11:29.6814	EyeTracking AOI	NULL
+2016-09-15 17:11:29.6824	EyeTracking AOI	NULL
+2016-09-15 15:11:30.0360	EyeTracking Fixation	Started	841	428	-63609549090036
+2016-09-15 17:11:30.1764	EyeTracking AOI	NULL
+2016-09-15 15:11:30.1520	EyeTracking Fixation	Ended	837	440	116
+2016-09-15 17:11:30.2104	EyeTracking AOI	NULL
+2016-09-15 15:11:30.1700	EyeTracking Fixation	Started	744	564	-63609549090170
+2016-09-15 17:11:30.3114	EyeTracking AOI	NULL
+2016-09-15 15:11:30.3010	EyeTracking Fixation	Ended	760	556	131
+2016-09-15 17:11:30.3634	EyeTracking AOI	NULL
+2016-09-15 15:11:30.4190	EyeTracking Fixation	Started	1267	354	-63609549090419
+2016-09-15 17:11:30.5544	EyeTracking AOI	NULL
+2016-09-15 15:11:30.5520	EyeTracking Fixation	Ended	1269	367	133
+2016-09-15 17:11:30.6085	EyeTracking AOI	NULL
+2016-09-15 15:11:30.6350	EyeTracking Fixation	Started	262	475	-63609549090635
+2016-09-15 17:11:30.7705	EyeTracking AOI	NULL
+2016-09-15 15:11:30.7670	EyeTracking Fixation	Ended	256	477	132
+2016-09-15 17:11:30.8275	EyeTracking AOI	NULL
+2016-09-15 15:11:30.8050	EyeTracking Fixation	Started	134	559	-63609549090805
+2016-09-15 17:11:30.9595	EyeTracking AOI	NULL
+2016-09-15 15:11:31.3020	EyeTracking Fixation	Ended	119	569	497
+2016-09-15 17:11:31.3565	EyeTracking AOI	NULL
+2016-09-15 15:11:31.4020	EyeTracking Fixation	Started	1544	309	-63609549091402
+2016-09-15 17:11:31.5415	EyeTracking AOI	NULL
+2016-09-15 15:11:31.5840	EyeTracking Fixation	Ended	1545	302	182
+2016-09-15 17:11:31.6426	EyeTracking AOI	NULL
+2016-09-15 15:11:31.6170	EyeTracking Fixation	Started	1609	85	-63609549091617
+2016-09-15 17:11:31.7586	EyeTracking AOI	NULL
+2016-09-15 15:11:31.9510	EyeTracking Fixation	Ended	1614	70	334
+2016-09-15 17:11:32.0086	EyeTracking AOI	NULL
+2016-09-15 15:11:32.0180	EyeTracking Fixation	Started	1597	960	-63609549092018
+2016-09-15 17:11:32.1596	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:32.2350	EyeTracking Fixation	Ended	1602	965	217
+2016-09-15 17:11:32.2986	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:32.7340	EyeTracking Fixation	Started	504	975	-63609549092734
+2016-09-15 17:11:32.8767	EyeTracking AOI	NULL
+2016-09-15 15:11:32.8340	EyeTracking Fixation	Ended	516	985	100
+2016-09-15 17:11:32.8947	EyeTracking AOI	NULL
+2016-09-15 15:11:32.8840	EyeTracking Fixation	Started	291	1163	-63609549092884
+2016-09-15 17:11:33.0287	EyeTracking AOI	NULL
+2016-09-15 15:11:32.9850	EyeTracking Fixation	Ended	291	1159	101
+2016-09-15 17:11:33.0457	EyeTracking AOI	NULL
+2016-09-15 15:11:33.0340	EyeTracking Fixation	Started	487	1117	-63609549093034
+2016-09-15 17:11:33.1777	EyeTracking AOI	NULL
+2016-09-15 15:11:33.1350	EyeTracking Fixation	Ended	496	1120	101
+2016-09-15 17:11:33.1967	EyeTracking AOI	NULL
+2016-09-15 15:11:33.3190	EyeTracking Fixation	Started	309	394	-63609549093319
+2016-09-15 17:11:33.4617	EyeTracking AOI	NULL
+2016-09-15 15:11:33.4340	EyeTracking Fixation	Ended	315	377	115
+2016-09-15 17:11:33.4967	EyeTracking AOI	NULL
+2016-09-15 15:11:33.4680	EyeTracking Fixation	Started	262	156	-63609549093468
+2016-09-15 17:11:33.6118	EyeTracking AOI	NULL
+2016-09-15 15:11:33.5830	EyeTracking Fixation	Ended	275	149	115
+2016-09-15 17:11:33.6448	EyeTracking AOI	NULL
+2016-09-15 15:11:33.6690	EyeTracking Fixation	Started	428	1119	-63609549093669
+2016-09-15 17:11:33.8118	EyeTracking AOI	NULL
+2016-09-15 15:11:33.8160	EyeTracking Fixation	Ended	437	1140	147
+2016-09-15 17:11:33.8778	EyeTracking AOI	NULL
+2016-09-15 17:11:33.9758	GAME Move	(-0.6, 0.0, 0.3)
+2016-09-15 17:11:33.9758	IDEAL PATH Gaze Factor	-0.00630528599204064	=	0.0620308339536417	*	-0.101647609586433	(none)	2016-09-15 15:10:17.0500
+2016-09-15 17:11:33.9758	IDEAL PATH Gaze Factor	-0.00284529090394101	=	0.0263862502638625	*	-0.107832332199085	(none)	2016-09-15 15:10:17.3360
+2016-09-15 17:11:33.9758	IDEAL PATH Gaze Factor	-0.00312401962258398	=	0.0270806252708063	*	-0.115359951675553	(none)	2016-09-15 15:10:17.5350
+2016-09-15 17:11:33.9758	IDEAL PATH Gaze Factor	-0.00250731811411714	=	0.0229143752291438	*	-0.109421186004155	(none)	2016-09-15 15:10:17.7520
+2016-09-15 17:11:33.9758	IDEAL PATH Gaze Factor	-0.00337590580798015	=	0.0307839586411729	*	-0.109664447231453	(none)	2016-09-15 15:10:17.8680
+2016-09-15 17:11:33.9758	IDEAL PATH Gaze Factor	-0.00626737386758736	=	0.0536983338703167	*	-0.116714494023656	(none)	2016-09-15 15:10:18.0190
+2016-09-15 17:11:33.9758	IDEAL PATH Gaze Factor	-0.00443919478584117	=	0.0231458335647917	*	-0.191792392069813	(none)	2016-09-15 15:10:18.3340
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0133782250729242	=	0.0469751682549866	*	-0.2847935530599	(none)	2016-09-15 15:10:18.6660
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0245961531927486	=	0.0728925024646344	*	-0.337430495059242	(none)	2016-09-15 15:10:18.9020
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00216689028085777	=	0.0231404769728998	*	0.0936406921687677	(none)	2016-09-15 15:10:19.4660
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00232781473731845	=	0.0231404769728998	*	0.10059493328701	(none)	2016-09-15 15:10:19.4660
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00241224928083942	=	0.0423470728604066	*	0.0569637785542153	(none)	2016-09-15 15:10:19.5830
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00476485783993561	=	0.0499834302614636	*	0.0953287482473816	(none)	2016-09-15 15:10:19.8000
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0151012571901643	=	0.0495206207220056	*	-0.304948867158559	(none)	2016-09-15 15:10:20.1850
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.00807146755317523	=	0.0393388108539297	*	-0.205178229284705	(none)	2016-09-15 15:10:20.5490
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0099600686002923	=	0.0238346912820868	*	-0.417881166674808	(none)	2016-09-15 15:10:20.7990
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0270892682761566	=	0.0886280268062062	*	-0.305651262386671	(none)	2016-09-15 15:10:21.4150
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0082262767630158	=	0.0231404769728998	*	-0.355492964671806	(none)	2016-09-15 15:10:21.8150
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.0012175511414167	=	0.0349421202290787	*	0.0348447985821838	(none)	2016-09-15 15:10:22.1970
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00171584542990723	=	0.0381817870052847	*	0.0449388455723599	(none)	2016-09-15 15:10:22.3980
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00604568847195564	=	0.0502148350311926	*	0.120396461886217	(none)	2016-09-15 15:10:22.6300
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00296270718691562	=	0.0236032865123578	*	0.125520960200371	(none)	2016-09-15 15:10:22.8610
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00544642550571457	=	0.0460495491760706	*	0.118273155832431	(none)	2016-09-15 15:10:22.9810
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00500555462559857	=	0.0233718817426288	*	0.214169944924407	(none)	2016-09-15 15:10:23.2300
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.0125004192229526	=	0.0576197876625205	*	0.216946638126604	(none)	2016-09-15 15:10:23.3470
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.0097736296696332	=	0.0460495491760706	*	0.212241592903846	(none)	2016-09-15 15:10:23.6130
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00585973625584107	=	0.0273057628280218	*	0.214597053843436	(none)	2016-09-15 15:10:23.8450
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.0067471946787634	=	0.0310082391436857	*	0.217593609475801	(none)	2016-09-15 15:10:23.9790
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00576037817006543	=	0.0268429532885638	*	0.214595544243621	(none)	2016-09-15 15:10:24.1460
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00277983471409694	=	0.0347107154593497	*	0.0800857797746189	(none)	2016-09-15 15:10:24.3130
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00748935607212771	=	0.0386445965447427	*	0.193800860709117	(none)	2016-09-15 15:10:24.5120
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00781187701841458	=	0.0386445965447427	*	0.202146683285204	(none)	2016-09-15 15:10:24.5120
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00512232324867486	=	0.0236032865123578	*	0.217017373660783	(none)	2016-09-15 15:10:24.6930
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00482720139189403	=	0.0236032865123578	*	0.204513951451917	(none)	2016-09-15 15:10:24.6930
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00485030921662387	=	0.0233718817426288	*	0.207527543996478	(none)	2016-09-15 15:10:24.8280
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	0.00469508648905598	=	0.0233718817426288	*	0.200886113525572	(none)	2016-09-15 15:10:24.8280
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.019638133306346	=	0.0499834302614636	*	-0.392892868769086	(none)	2016-09-15 15:10:25.1790
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0187066038869844	=	0.0499834302614636	*	-0.374256104255551	(none)	2016-09-15 15:10:25.1790
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0180364419246748	=	0.0421156680906776	*	-0.428259665401514	(none)	2016-09-15 15:10:25.7650
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0177263230169216	=	0.0421156680906776	*	-0.420896160990625	(none)	2016-09-15 15:10:25.7650
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0425784776301356	=	0.0425784776301356	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:25.9960
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0539173113468565	=	0.0539173113468565	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:26.1950
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0305454296042277	=	0.0305454296042277	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:26.4620
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0231404769728998	=	0.0231404769728998	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:27.6600
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0229090722031708	=	0.0229090722031708	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:27.8440
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0231404769728998	=	0.0231404769728998	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:28.0760
+2016-09-15 17:11:33.9768	IDEAL PATH Gaze Factor	-0.0270743580582928	=	0.0270743580582928	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:28.2430
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0233664740883616	=	0.0233664740883616	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:28.4590
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0229037716311664	=	0.0229037716311664	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:28.6600
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0233664740883616	=	0.0233664740883616	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:28.8240
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0460388944909304	=	0.0460388944909304	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:29.3750
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0270680937459239	=	0.0270680937459239	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:29.8920
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0812042812377716	=	0.0812042812377716	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:30.1420
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0229037716311664	=	0.0229037716311664	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:30.6590
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0386356551758059	=	0.0386356551758059	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:30.8740
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0303070109462908	=	0.0303070109462908	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:31.2910
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0307697134034861	=	0.0307697134034861	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:31.4570
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0768086078944165	=	0.0768086078944165	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:31.9080
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0423372748333681	=	0.0423372748333681	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:32.3080
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0349340355182436	=	0.0349340355182436	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:32.7730
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0270680937459239	=	0.0270680937459239	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:33.1560
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0268367425173262	=	0.0268367425173262	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:33.5070
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0305383621748885	=	0.0305383621748885	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:33.6560
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0268367425173262	=	0.0268367425173262	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:34.1730
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0233664740883616	=	0.0233664740883616	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:34.4370
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0455761920337351	=	0.0455761920337351	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:35.0410
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0268367425173262	=	0.0268367425173262	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:35.5720
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0307697134034861	=	0.0307697134034861	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:35.7880
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.023135122859764	=	0.023135122859764	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:36.0380
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0349340355182436	=	0.0349340355182436	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:36.3880
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0266053912887286	=	0.0266053912887286	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:36.6720
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.046270245719528	=	0.046270245719528	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:37.1370
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.034702684289646	=	0.034702684289646	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:37.7200
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0268367425173262	=	0.0268367425173262	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:37.8870
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0310010646320838	=	0.0310010646320838	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:38.1540
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.023135122859764	=	0.023135122859764	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:38.4690
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0229037716311664	=	0.0229037716311664	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:38.6700
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0386356551758059	=	0.0386356551758059	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:38.8520
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0268367425173262	=	0.0268367425173262	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:39.0360
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0272994449745215	=	0.0272994449745215	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:39.2350
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0226724204025687	=	0.0226724204025687	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:39.4690
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.023135122859764	=	0.023135122859764	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:39.6520
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0337772793752554	=	0.0337772793752554	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:39.9880
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0233664740883616	=	0.0233664740883616	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:40.8670
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0268367425173262	=	0.0268367425173262	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:40.9840
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0307697134034861	=	0.0307697134034861	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:41.2680
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0229037716311664	=	0.0229037716311664	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:41.7360
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0349340355182436	=	0.0349340355182436	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:41.8840
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0305383621748885	=	0.0305383621748885	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:42.4010
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.023135122859764	=	0.023135122859764	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:42.5500
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0423372748333681	=	0.0423372748333681	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:42.7000
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.0303070109462908	=	0.0303070109462908	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:42.9330
+2016-09-15 17:11:33.9778	IDEAL PATH Gaze Factor	-0.026374040060131	=	0.026374040060131	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:43.1180
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0231297712236641	=	0.0231297712236641	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:43.3660
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0231297712236641	=	0.0231297712236641	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:43.4830
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0228984735114275	=	0.0228984735114275	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:43.7510
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0233610689359008	=	0.0233610689359008	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:43.8820
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0265992369072137	=	0.0265992369072137	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:44.4990
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0501916035553511	=	0.0501916035553511	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:44.6980
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0346946568354962	=	0.0346946568354962	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:44.9310
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0344633591232595	=	0.0344633591232595	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:45.1650
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.027061832331687	=	0.027061832331687	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:45.3300
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0504229012675878	=	0.0504229012675878	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:45.5300
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0538923669511374	=	0.0538923669511374	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:45.7650
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0235923666481374	=	0.0235923666481374	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:46.0130
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0268305346194504	=	0.0268305346194504	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:46.1980
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0231297712236641	=	0.0231297712236641	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:46.5140
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0233610689359008	=	0.0233610689359008	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:46.6300
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0228984735114275	=	0.0228984735114275	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:46.9150
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0265992369072137	=	0.0265992369072137	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:47.1470
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0268305346194504	=	0.0268305346194504	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:47.2810
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0231297712236641	=	0.0231297712236641	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:47.4470
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0263679391949771	=	0.0263679391949771	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:47.7140
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0231297712236641	=	0.0231297712236641	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:47.8470
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0342320614110229	=	0.0342320614110229	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:47.9820
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0349259545477328	=	0.0349259545477328	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:48.2290
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0578244280591603	=	0.0578244280591603	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:48.4630
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0233610689359008	=	0.0233610689359008	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:48.7290
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0305312980152366	=	0.0305312980152366	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:49.0620
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0228984735114275	=	0.0228984735114275	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:49.2460
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.027061832331687	=	0.027061832331687	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:49.4950
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0430213744760153	=	0.0430213744760153	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:50.1440
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0228984735114275	=	0.0228984735114275	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:50.3620
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0615251914549466	=	0.0615251914549466	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:50.5280
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.042558779051542	=	0.042558779051542	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:50.8110
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0349259545477328	=	0.0349259545477328	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:51.0600
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0501916035553511	=	0.0501916035553511	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:51.2270
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0462595424473282	=	0.0462595424473282	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:51.6110
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0226671757991908	=	0.0226671757991908	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:51.8620
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0423274813393053	=	0.0423274813393053	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:51.9940
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0228984735114275	=	0.0228984735114275	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:52.3610
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0268305346194504	=	0.0268305346194504	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:52.6600
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0423274813393053	=	0.0423274813393053	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:52.8270
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0386267179435191	=	0.0386267179435191	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:53.0420
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0344633591232595	=	0.0344633591232595	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:53.2430
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0538923669511374	=	0.0538923669511374	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:53.4430
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.030300000303	=	0.030300000303	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:53.7270
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0268305346194504	=	0.0268305346194504	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:53.9420
+2016-09-15 17:11:33.9788	IDEAL PATH Gaze Factor	-0.0460282447350916	=	0.0460282447350916	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:54.1750
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0312179697848902	=	0.0312179697848902	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:54.4240
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0342241446530648	=	0.0342241446530648	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:54.6420
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0386177848450123	=	0.0386177848450123	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:54.8410
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0455551114638767	=	0.0455551114638767	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:55.0780
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0696045104092736	=	0.0696045104092736	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:55.3070
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0381552964037546	=	0.0381552964037546	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:55.7270
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0383865406243834	=	0.0383865406243834	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:55.9090
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0423176923750733	=	0.0423176923750733	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:56.1080
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0462488441257632	=	0.0462488441257632	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:56.3070
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0420864481544445	=	0.0420864481544445	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:56.5430
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0460175999051344	=	0.0460175999051344	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:56.7410
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0270555738135715	=	0.0270555738135715	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:57.1080
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0309867255642613	=	0.0309867255642613	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:57.2390
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.100128747532277	=	0.100128747532277	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:57.4750
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0233556662835104	=	0.0233556662835104	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:57.9230
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0696045104092736	=	0.0696045104092736	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:58.0390
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0460175999051344	=	0.0460175999051344	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:58.3740
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0268243295929427	=	0.0268243295929427	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:58.8070
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0349178773149512	=	0.0349178773149512	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:59.0070
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0312179697848902	=	0.0312179697848902	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:59.1890
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0390802732862699	=	0.0390802732862699	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:59.3550
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0733044179393347	=	0.0733044179393347	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:59.5560
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0654421144379549	=	0.0654421144379549	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:10:59.9050
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0654421144379549	=	0.0654421144379549	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:00.2550
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0228931778422528	=	0.0228931778422528	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:00.6550
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0499487516558242	=	0.0499487516558242	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:00.8550
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.022661933621624	=	0.022661933621624	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:01.1070
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0494862632145666	=	0.0494862632145666	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:01.8380
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0425489365957021	=	0.0425489365957021	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:02.0690
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.03514912153558	=	0.03514912153558	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:02.2840
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0231244220628816	=	0.0231244220628816	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:02.4530
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0268243295929427	=	0.0268243295929427	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:02.5850
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0379240521831258	=	0.0379240521831258	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:02.9380
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0379240521831258	=	0.0379240521831258	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:03.1380
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0462488441257632	=	0.0462488441257632	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:03.3200
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0305242371230037	=	0.0305242371230037	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:03.6530
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0425489365957021	=	0.0425489365957021	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:03.8340
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0228931778422528	=	0.0228931778422528	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:04.0360
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0381552964037546	=	0.0381552964037546	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:04.1690
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0425489365957021	=	0.0425489365957021	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:04.3680
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0427801808163309	=	0.0427801808163309	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:04.8010
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.022661933621624	=	0.022661933621624	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:05.0860
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0425489365957021	=	0.0425489365957021	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:05.3170
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0272868180342003	=	0.0272868180342003	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:05.9010
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.03514912153558	=	0.03514912153558	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:06.4680
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0349178773149512	=	0.0349178773149512	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:07.4330
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.026361841151685	=	0.026361841151685	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:07.6340
+2016-09-15 17:11:33.9798	IDEAL PATH Gaze Factor	-0.0460175999051344	=	0.0460175999051344	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:07.8650
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0231244220628816	=	0.0231244220628816	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:08.1330
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0268181274358113	=	0.0268181274358113	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:08.3670
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0228878846219424	=	0.0228878846219424	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:08.6000
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0270493181895683	=	0.0270493181895683	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:08.8990
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0307483702496802	=	0.0307483702496802	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:09.0490
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0233502661294564	=	0.0233502661294564	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:09.6160
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0305171794959232	=	0.0305171794959232	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:09.9660
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0233502661294564	=	0.0233502661294564	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:10.3640
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0231190753756994	=	0.0231190753756994	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:11.7460
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0233502661294564	=	0.0233502661294564	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:12.0300
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0231190753756994	=	0.0231190753756994	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:14.4280
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0425390986912869	=	0.0425390986912869	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:14.9950
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0460069599976419	=	0.0460069599976419	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:15.2440
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0268181274358113	=	0.0268181274358113	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:15.6620
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0228878846219424	=	0.0228878846219424	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:15.9280
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0312107517571942	=	0.0312107517571942	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:16.4250
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0344474223097921	=	0.0344474223097921	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:17.8770
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0233502661294564	=	0.0233502661294564	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:19.0580
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0233502661294564	=	0.0233502661294564	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:19.4080
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0268181274358113	=	0.0268181274358113	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:20.0760
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0300547979884093	=	0.0300547979884093	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:20.3280
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0307483702496802	=	0.0307483702496802	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:20.4910
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0880836771814148	=	0.0880836771814148	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:20.6430
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0351409945710631	=	0.0351409945710631	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:21.1570
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0614967404993605	=	0.0614967404993605	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:21.3580
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0233502661294564	=	0.0233502661294564	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:21.6400
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0305171794959232	=	0.0305171794959232	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:21.7590
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0693572261270983	=	0.0693572261270983	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:21.9740
+2016-09-15 17:11:33.9808	IDEAL PATH Gaze Factor	-0.0885460586889288	=	0.0885460586889288	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:22.2900
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.0305101251317309	=	0.0305101251317309	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:22.7070
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.0302789878201269	=	0.0302789878201269	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:11:22.8730
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.0076899070567628	=	0.0233448684720062	*	-0.329404599815333	(none)	2016-09-15 15:11:23.0570
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.000669133868866799	=	0.0235760057836103	*	-0.0283819861179357	(none)	2016-09-15 15:11:23.2880
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.00031679489618358	=	0.0272742027692746	*	-0.0116151844606971	(none)	2016-09-15 15:11:23.6550
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.00296424195305321	=	0.0268119281460666	*	-0.110556836379113	(none)	2016-09-15 15:11:24.1230
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.00226265578087232	=	0.0429915399583481	*	-0.0526302566287336	(none)	2016-09-15 15:11:24.9530
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	0.00161273977018784	=	0.0302789878201269	*	0.053262671122574	(none)	2016-09-15 15:11:25.2400
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	0.00328722468239882	=	0.0231137311604022	*	0.142219560294549	(none)	2016-09-15 15:11:25.4710
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.00475440340115062	=	0.0233448684720062	*	-0.203659464042465	(none)	2016-09-15 15:11:25.6880
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.00943197108452193	=	0.0353640086754154	*	-0.26671102733551	(none)	2016-09-15 15:11:25.8730
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.00727010256849094	=	0.031203537066543	*	-0.232989694501207	(none)	2016-09-15 15:11:26.2560
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.0108228451491051	=	0.0385999310378717	*	-0.280385090286469	(none)	2016-09-15 15:11:26.4880
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.00645520676717148	=	0.0228825938487982	*	-0.282101181790215	(none)	2016-09-15 15:11:26.6710
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.00761061283946439	=	0.030972399754939	*	-0.245722414139084	(none)	2016-09-15 15:11:26.8040
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.00562899373811535	=	0.0226514565371942	*	-0.248504714426307	(none)	2016-09-15 15:11:26.9720
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.00653540497396794	=	0.0268119281460666	*	-0.24374990632394	(none)	2016-09-15 15:11:27.0880
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.0101533764370053	=	0.0390622056610798	*	-0.259928395367642	(none)	2016-09-15 15:11:27.4870
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.00490848714125741	=	0.0344394594289993	*	-0.142525092514207	(none)	2016-09-15 15:11:27.7210
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	0.000565890571903471	=	0.0270430654576706	*	0.0209255334898788	(none)	2016-09-15 15:11:28.1040
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.00760935509002215	=	0.0270430654576706	*	-0.281379161764511	(none)	2016-09-15 15:11:28.6700
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.00637322004640049	=	0.0233448684720062	*	-0.27300303936357	(none)	2016-09-15 15:11:28.8030
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.00190632535721962	=	0.0374442444798516	*	-0.0509110380968001	(none)	2016-09-15 15:11:28.9710
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	0.00027309829042498	=	0.0268119281460666	*	0.0101857012646457	(none)	2016-09-15 15:11:29.1710
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	0.000259481249203095	=	0.0268119281460666	*	0.00967782875552581	(none)	2016-09-15 15:11:29.1710
+2016-09-15 17:11:33.9818	IDEAL PATH Gaze Factor	-0.000873731234155373	=	0.0268119281460666	*	-0.0325874077162762	(none)	2016-09-15 15:11:30.0360
+2016-09-15 17:11:33.9828	IDEAL PATH Gaze Factor	-0.00412568508929777	=	0.0302719901340118	*	-0.136287210422363	(none)	2016-09-15 15:11:30.1700
+2016-09-15 17:11:33.9828	IDEAL PATH Gaze Factor	0.0104455257174357	=	0.0307341579223173	*	0.339866989160319	(none)	2016-09-15 15:11:30.4190
+2016-09-15 17:11:33.9828	IDEAL PATH Gaze Factor	-0.0161380537427042	=	0.0305030740281645	*	-0.529063193034361	(none)	2016-09-15 15:11:30.6350
+2016-09-15 17:11:33.9828	IDEAL PATH Gaze Factor	-0.0767636060698792	=	0.114848695393923	*	-0.668389012226788	(none)	2016-09-15 15:11:30.8050
+2016-09-15 17:11:33.9828	IDEAL PATH Gaze Factor	0.0241698083675585	=	0.0420572687358026	*	0.574688016936847	(none)	2016-09-15 15:11:31.4020
+2016-09-15 17:11:33.9828	IDEAL PATH Gaze Factor	0.0557808584816668	=	0.0771820206470224	*	0.722718296489932	(none)	2016-09-15 15:11:31.6170
+2016-09-15 17:11:33.9828	IDEAL PATH Gaze Factor	-0.0501452050311493	=	0.0501452050311493	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:32.0180
+2016-09-15 17:11:33.9828	IDEAL PATH Gaze Factor	-0.011900109866013	=	0.0231083894152762	*	-0.514969245677773	(none)	2016-09-15 15:11:32.7340
+2016-09-15 17:11:33.9828	IDEAL PATH Gaze Factor	-0.0178776453500192	=	0.0233394733094289	*	-0.765983238481942	(none)	2016-09-15 15:11:32.8840
+2016-09-15 17:11:33.9828	IDEAL PATH Gaze Factor	-0.0140109682114442	=	0.0233394733094289	*	-0.600312098978853	(none)	2016-09-15 15:11:33.0340
+2016-09-15 17:11:33.9828	IDEAL PATH Gaze Factor	-0.0121268957254829	=	0.0265746478275676	*	-0.456333261842999	(none)	2016-09-15 15:11:33.3190
+2016-09-15 17:11:33.9828	IDEAL PATH Gaze Factor	-0.0121985333744806	=	0.0265746478275676	*	-0.459028975797988	(none)	2016-09-15 15:11:33.4680
+2016-09-15 17:11:33.9828	IDEAL PATH Gaze Factor	-0.0221581852718138	=	0.033969332440456	*	-0.652299697400717	(none)	2016-09-15 15:11:33.6690
+2016-09-15 17:11:33.9828	IDEAL PATH moveDistanceFactor	1
+2016-09-15 17:11:33.9828	IDEAL PATH eyeMovementsFactor	0
+2016-09-15 17:11:33.9828	IDEAL PATH SCORE	0.75
+2016-09-15 17:11:33.9838	TargetDistance	1.47364473342896
+2016-09-15 17:11:33.9848	GAME DoubleClick	(457.0, 34.0, 0.0)
+2016-09-15 15:11:33.9680	EyeTracking Fixation	Started	520	1162	-63609549093968
+2016-09-15 17:11:34.1128	EyeTracking AOI	NULL
+2016-09-15 15:11:34.1190	EyeTracking Fixation	Ended	512	1156	151
+2016-09-15 17:11:34.1718	EyeTracking AOI	NULL
+2016-09-15 15:11:34.1360	EyeTracking Fixation	Started	500	1140	-63609549094136
+2016-09-15 17:11:34.2688	EyeTracking AOI	NULL
+2016-09-15 15:11:34.2350	EyeTracking Fixation	Ended	507	1135	99
+2016-09-15 17:11:34.2958	EyeTracking AOI	NULL
+2016-09-15 15:11:35.1670	EyeTracking Fixation	Started	429	119	-63609549095167
+2016-09-15 17:11:35.3139	EyeTracking AOI	NULL
+2016-09-15 15:11:35.3660	EyeTracking Fixation	Ended	442	101	199
+2016-09-15 17:11:35.4309	EyeTracking AOI	NULL
+2016-09-15 15:11:35.4000	EyeTracking Fixation	Started	388	26	-63609549095400
+2016-09-15 17:11:35.5479	EyeTracking AOI	NULL
+2016-09-15 15:11:35.5160	EyeTracking Fixation	Ended	393	32	116
+2016-09-15 17:11:35.5819	EyeTracking AOI	NULL
+2016-09-15 15:11:35.6000	EyeTracking Fixation	Started	1295	679	-63609549095600
+2016-09-15 17:11:35.7440	EyeTracking AOI	NULL
+2016-09-15 15:11:35.7150	EyeTracking Fixation	Ended	1290	687	115
+2016-09-15 17:11:35.7800	EyeTracking AOI	NULL
+2016-09-15 15:11:35.7340	EyeTracking Fixation	Started	1393	696	-63609549095734
+2016-09-15 15:11:35.8330	EyeTracking Fixation	Ended	1393	695	99
+2016-09-15 17:11:35.8800	EyeTracking AOI	NULL
+2016-09-15 17:11:35.8970	EyeTracking AOI	NULL
+2016-09-15 15:11:36.0490	EyeTracking Fixation	Started	444	797	-63609549096049
+2016-09-15 17:11:36.1850	EyeTracking AOI	NULL
+2016-09-15 15:11:36.1500	EyeTracking Fixation	Ended	452	806	101
+2016-09-15 17:11:36.2140	EyeTracking AOI	NULL
+2016-09-15 15:11:36.1990	EyeTracking Fixation	Started	348	706	-63609549096199
+2016-09-15 15:11:36.2990	EyeTracking Fixation	Ended	356	712	100
+2016-09-15 17:11:36.3460	EyeTracking AOI	NULL
+2016-09-15 17:11:36.3620	EyeTracking AOI	NULL
+2016-09-15 15:11:36.4500	EyeTracking Fixation	Started	566	1125	-63609549096450
+2016-09-15 17:11:36.5981	EyeTracking AOI	NULL
+2016-09-15 15:11:36.5660	EyeTracking Fixation	Ended	565	1126	116
+2016-09-15 17:11:36.6311	EyeTracking AOI	NULL
+2016-09-15 15:11:36.8170	EyeTracking Fixation	Started	599	1170	-63609549096817
+2016-09-15 17:11:36.9521	EyeTracking AOI	NULL
+2016-09-15 15:11:37.0660	EyeTracking Fixation	Ended	596	1180	249
+2016-09-15 17:11:37.1141	EyeTracking AOI	NULL
+2016-09-15 15:11:37.1500	EyeTracking Fixation	Started	1541	584	-63609549097150
+2016-09-15 17:11:37.2821	EyeTracking AOI	NULL
+2016-09-15 15:11:37.2830	EyeTracking Fixation	Ended	1547	578	133
+2016-09-15 17:11:37.3481	EyeTracking AOI	NULL
+2016-09-15 15:11:37.3350	EyeTracking Fixation	Started	906	732	-63609549097335
+2016-09-15 17:11:37.4681	EyeTracking AOI	NULL
+2016-09-15 15:11:37.4810	EyeTracking Fixation	Ended	897	736	146
+2016-09-15 17:11:37.5471	EyeTracking AOI	NULL
+2016-09-15 15:11:37.5490	EyeTracking Fixation	Started	1576	947	-63609549097549
+2016-09-15 17:11:37.6822	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:37.6820	EyeTracking Fixation	Ended	1565	943	133
+2016-09-15 17:11:37.7512	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:37.7130	EyeTracking Fixation	Started	1690	1153	-63609549097713
+2016-09-15 17:11:37.8492	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:37.8140	EyeTracking Fixation	Ended	1690	1151	101
+2016-09-15 17:11:37.8672	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:37.8310	EyeTracking Fixation	Started	1695	1134	-63609549097831
+2016-09-15 17:11:37.9692	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:37.9650	EyeTracking Fixation	Ended	1691	1142	134
+2016-09-15 17:11:38.0162	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:38.0640	EyeTracking Fixation	Started	1485	728	-63609549098064
+2016-09-15 17:11:38.1992	EyeTracking AOI	NULL
+2016-09-15 15:11:38.1640	EyeTracking Fixation	Ended	1481	714	100
+2016-09-15 17:11:38.2152	EyeTracking AOI	NULL
+2016-09-15 17:11:38.3462	EyeTracking AOI	NULL
+2016-09-15 15:11:38.2140	EyeTracking Fixation	Started	698	533	-63609549098214
+2016-09-15 15:11:38.3830	EyeTracking Fixation	Ended	696	534	169
+2016-09-15 17:11:38.4322	EyeTracking AOI	NULL
+2016-09-15 15:11:38.4970	EyeTracking Fixation	Started	792	356	-63609549098497
+2016-09-15 17:11:38.6333	EyeTracking AOI	NULL
+2016-09-15 15:11:38.6460	EyeTracking Fixation	Ended	794	354	149
+2016-09-15 17:11:38.8823	EyeTracking AOI	NULL
+2016-09-15 15:11:38.8460	EyeTracking Fixation	Started	694	511	-63609549098846
+2016-09-15 17:11:38.9843	EyeTracking AOI	NULL
+2016-09-15 15:11:38.9970	EyeTracking Fixation	Ended	706	507	151
+2016-09-15 17:11:39.0493	EyeTracking AOI	NULL
+2016-09-15 15:11:39.0130	EyeTracking Fixation	Started	829	381	-63609549099013
+2016-09-15 17:11:39.1663	EyeTracking AOI	NULL
+2016-09-15 15:11:39.2120	EyeTracking Fixation	Ended	805	383	199
+2016-09-15 17:11:39.2663	EyeTracking AOI	NULL
+2016-09-15 15:11:39.2300	EyeTracking Fixation	Started	806	408	-63609549099230
+2016-09-15 17:11:39.3683	EyeTracking AOI	NULL
+2016-09-15 15:11:39.3790	EyeTracking Fixation	Ended	802	390	149
+2016-09-15 17:11:39.4333	EyeTracking AOI	NULL
+2016-09-15 15:11:39.4460	EyeTracking Fixation	Started	460	196	-63609549099446
+2016-09-15 17:11:39.5823	EyeTracking AOI	NULL
+2016-09-15 15:11:39.5620	EyeTracking Fixation	Ended	455	204	116
+2016-09-15 17:11:39.6174	EyeTracking AOI	NULL
+2016-09-15 15:11:39.5960	EyeTracking Fixation	Started	148	112	-63609549099596
+2016-09-15 17:11:39.7514	EyeTracking AOI	NULL
+2016-09-15 15:11:39.8460	EyeTracking Fixation	Ended	142	113	250
+2016-09-15 17:11:39.9004	EyeTracking AOI	NULL
+2016-09-15 15:11:39.8990	EyeTracking Fixation	Started	387	23	-63609549099899
+2016-09-15 17:11:40.0324	EyeTracking AOI	NULL
+2016-09-15 15:11:40.3630	EyeTracking Fixation	Ended	385	33	464
+2016-09-15 17:11:40.4154	EyeTracking AOI	NULL
+2016-09-15 15:11:40.4110	EyeTracking Fixation	Started	127	490	-63609549100411
+2016-09-15 17:11:40.5514	EyeTracking AOI	NULL
+2016-09-15 15:11:40.5960	EyeTracking Fixation	Ended	122	493	185
+2016-09-15 17:11:40.6495	EyeTracking AOI	NULL
+2016-09-15 15:11:40.6100	EyeTracking Fixation	Started	112	488	-63609549100610
+2016-09-15 17:11:40.7505	EyeTracking AOI	NULL
+2016-09-15 15:11:40.7280	EyeTracking Fixation	Ended	124	498	118
+2016-09-15 17:11:40.7895	EyeTracking AOI	NULL
+2016-09-15 15:11:40.9120	EyeTracking Fixation	Started	464	650	-63609549100912
+2016-09-15 17:11:41.0565	EyeTracking AOI	NULL
+2016-09-15 15:11:41.0440	EyeTracking Fixation	Ended	455	661	132
+2016-09-15 17:11:41.1025	EyeTracking AOI	NULL
+2016-09-15 15:11:41.1280	EyeTracking Fixation	Started	343	709	-63609549101128
+2016-09-15 17:11:41.2685	EyeTracking AOI	NULL
+2016-09-15 15:11:41.2440	EyeTracking Fixation	Ended	349	706	116
+2016-09-15 17:11:41.3015	EyeTracking AOI	NULL
+2016-09-15 15:11:41.6770	EyeTracking Fixation	Started	832	398	-63609549101677
+2016-09-15 17:11:41.8206	EyeTracking AOI	NULL
+2016-09-15 15:11:41.8780	EyeTracking Fixation	Ended	834	392	201
+2016-09-15 17:11:41.9346	EyeTracking AOI	NULL
+2016-09-15 15:11:41.8960	EyeTracking Fixation	Started	794	399	-63609549101896
+2016-09-15 17:11:42.0376	EyeTracking AOI	NULL
+2016-09-15 15:11:42.0780	EyeTracking Fixation	Ended	795	396	182
+2016-09-15 17:11:42.1356	EyeTracking AOI	NULL
+2016-09-15 15:11:42.1110	EyeTracking Fixation	Started	787	385	-63609549102111
+2016-09-15 17:11:42.2596	EyeTracking AOI	NULL
+2016-09-15 15:11:42.3780	EyeTracking Fixation	Ended	793	388	267
+2016-09-15 17:11:42.4356	EyeTracking AOI	NULL
+2016-09-15 15:11:42.3940	EyeTracking Fixation	Started	800	428	-63609549102394
+2016-09-15 15:11:42.4950	EyeTracking Fixation	Ended	797	413	101
+2016-09-15 17:11:42.5526	EyeTracking AOI	NULL
+2016-09-15 17:11:42.5556	EyeTracking AOI	NULL
+2016-09-15 15:11:42.5940	EyeTracking Fixation	Started	791	389	-63609549102594
+2016-09-15 17:11:42.7367	EyeTracking AOI	NULL
+2016-09-15 17:11:43.2697	GAME HELP	VirtualAssistant2D activated	In this mission you have to find a tank of type T42. The sensor took a shot from Karlsruhe (Germany)
+2016-09-15 15:11:43.2250	EyeTracking Fixation	Ended	803	377	631
+2016-09-15 17:11:43.2887	EyeTracking AOI	NULL
+2016-09-15 15:11:43.2430	EyeTracking Fixation	Started	795	362	-63609549103243
+2016-09-15 17:11:43.3897	EyeTracking AOI	NULL
+2016-09-15 15:11:43.4620	EyeTracking Fixation	Ended	800	380	219
+2016-09-15 17:11:43.5197	EyeTracking AOI	NULL
+2016-09-15 15:11:43.4910	EyeTracking Fixation	Started	856	344	-63609549103491
+2016-09-15 17:11:43.6378	EyeTracking AOI	NULL
+2016-09-15 15:11:43.5930	EyeTracking Fixation	Ended	856	345	102
+2016-09-15 17:11:43.6538	EyeTracking AOI	NULL
+2016-09-15 15:11:43.7070	EyeTracking Fixation	Started	899	426	-63609549103707
+2016-09-15 15:11:43.8090	EyeTracking Fixation	Ended	897	409	102
+2016-09-15 17:11:43.8578	EyeTracking AOI	NULL
+2016-09-15 17:11:43.8698	EyeTracking AOI	NULL
+2016-09-15 15:11:43.8760	EyeTracking Fixation	Started	1426	927	-63609549103876
+2016-09-15 17:11:44.0228	EyeTracking AOI	NULL
+2016-09-15 15:11:44.0250	EyeTracking Fixation	Ended	1428	918	149
+2016-09-15 17:11:44.0878	EyeTracking AOI	NULL
+2016-09-15 15:11:44.1280	EyeTracking Fixation	Started	1316	920	-63609549104128
+2016-09-15 17:11:44.2698	EyeTracking AOI	NULL
+2016-09-15 15:11:44.2420	EyeTracking Fixation	Ended	1329	911	114
+2016-09-15 17:11:44.3048	EyeTracking AOI	NULL
+2016-09-15 15:11:44.3570	EyeTracking Fixation	Started	1455	960	-63609549104357
+2016-09-15 15:11:44.4590	EyeTracking Fixation	Ended	1470	964	102
+2016-09-15 17:11:44.5048	EyeTracking AOI	NULL
+2016-09-15 17:11:44.5238	EyeTracking AOI	NULL
+2016-09-15 15:11:44.7750	EyeTracking Fixation	Started	841	313	-63609549104775
+2016-09-15 17:11:44.9219	EyeTracking AOI	NULL
+2016-09-15 15:11:44.9260	EyeTracking Fixation	Ended	838	323	151
+2016-09-15 17:11:44.9909	EyeTracking AOI	NULL
+2016-09-15 17:11:45.1369	GAME HELP	User requested help
+2016-09-15 17:11:45.1559	GAME HELP	VirtualAssistant2D activated	Your target is 14.6km away and in cardinal direction SOUTH-EAST
+2016-09-15 15:11:44.9420	EyeTracking Fixation	Started	849	352	-63609549104942
+2016-09-15 17:11:45.2379	EyeTracking AOI	NULL
+2016-09-15 15:11:45.3420	EyeTracking Fixation	Ended	833	350	400
+2016-09-15 17:11:45.4049	EyeTracking AOI	NULL
+2016-09-15 15:11:45.5760	EyeTracking Fixation	Started	1441	900	-63609549105576
+2016-09-15 17:11:45.7250	EyeTracking AOI	NULL
+2016-09-15 15:11:45.6920	EyeTracking Fixation	Ended	1431	906	116
+2016-09-15 17:11:45.7570	EyeTracking AOI	NULL
+2016-09-15 15:11:45.7260	EyeTracking Fixation	Started	1483	904	-63609549105726
+2016-09-15 17:11:45.8720	EyeTracking AOI	NULL
+2016-09-15 15:11:46.0250	EyeTracking Fixation	Ended	1470	905	299
+2016-09-15 17:11:46.0900	EyeTracking AOI	NULL
+2016-09-15 15:11:46.0420	EyeTracking Fixation	Started	1574	895	-63609549106042
+2016-09-15 17:11:46.1900	EyeTracking AOI	NULL
+2016-09-15 15:11:46.2080	EyeTracking Fixation	Ended	1556	900	166
+2016-09-15 17:11:46.2720	EyeTracking AOI	NULL
+2016-09-15 15:11:46.2410	EyeTracking Fixation	Started	1523	965	-63609549106241
+2016-09-15 17:11:46.3890	EyeTracking AOI	NULL
+2016-09-15 15:11:46.3920	EyeTracking Fixation	Ended	1526	944	151
+2016-09-15 17:11:46.4560	EyeTracking AOI	NULL
+2016-09-15 15:11:46.4590	EyeTracking Fixation	Started	1610	927	-63609549106459
+2016-09-15 17:11:46.6061	EyeTracking AOI	NULL
+2016-09-15 15:11:46.6750	EyeTracking Fixation	Ended	1610	932	216
+2016-09-15 17:11:46.7271	EyeTracking AOI	NULL
+2016-09-15 15:11:46.7420	EyeTracking Fixation	Started	511	806	-63609549106742
+2016-09-15 17:11:46.8731	EyeTracking AOI	NULL
+2016-09-15 15:11:46.8410	EyeTracking Fixation	Ended	517	811	99
+2016-09-15 17:11:46.8921	EyeTracking AOI	NULL
+2016-09-15 15:11:47.2600	EyeTracking Fixation	Started	598	1031	-63609549107260
+2016-09-15 17:11:47.4061	EyeTracking AOI	NULL
+2016-09-15 15:11:47.3770	EyeTracking Fixation	Ended	603	1053	117
+2016-09-15 17:11:47.4411	EyeTracking AOI	NULL
+2016-09-15 15:11:48.1250	EyeTracking Fixation	Started	1509	950	-63609549108125
+2016-09-15 17:11:48.2632	EyeTracking AOI	NULL
+2016-09-15 15:11:48.2580	EyeTracking Fixation	Ended	1494	949	133
+2016-09-15 17:11:48.3072	EyeTracking AOI	NULL
+2016-09-15 15:11:48.2740	EyeTracking Fixation	Started	1494	934	-63609549108274
+2016-09-15 17:11:48.4072	EyeTracking AOI	NULL
+2016-09-15 15:11:48.3900	EyeTracking Fixation	Ended	1498	947	116
+2016-09-15 17:11:48.4402	EyeTracking AOI	NULL
+2016-09-15 15:11:48.7070	EyeTracking Fixation	Started	1621	940	-63609549108707
+2016-09-15 17:11:48.8413	EyeTracking AOI	NULL
+2016-09-15 15:11:48.9400	EyeTracking Fixation	Ended	1622	940	233
+2016-09-15 17:11:48.9913	EyeTracking AOI	NULL
+2016-09-15 15:11:48.9740	EyeTracking Fixation	Started	1609	948	-63609549108974
+2016-09-15 17:11:49.1093	EyeTracking AOI	NULL
+2016-09-15 15:11:49.0720	EyeTracking Fixation	Ended	1616	944	98
+2016-09-15 17:11:49.1273	EyeTracking AOI	NULL
+2016-09-15 17:11:49.6074	GAME Move	(-0.6, 0.0, 0.2)
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.00588800355681847	=	0.00966488935538657	*	-0.609215826515064	(none)	2016-09-15 15:11:33.9680
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.0038079703702408	=	0.00633658308730643	*	-0.600950120557719	(none)	2016-09-15 15:11:34.1360
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.0039308031834195	=	0.0127371720643836	*	-0.308608784080968	(none)	2016-09-15 15:11:35.1670
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.00259227893459953	=	0.00742468321340955	*	-0.349143372193667	(none)	2016-09-15 15:11:35.4000
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	0.00130003487276565	=	0.00736067732363878	*	0.17661891910281	(none)	2016-09-15 15:11:35.6000
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	0.0014500856665934	=	0.00633658308730643	*	0.228843470781318	(none)	2016-09-15 15:11:35.7340
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	0.00145454670128574	=	0.00633658308730643	*	0.229547483437803	(none)	2016-09-15 15:11:35.7340
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.00309864755095031	=	0.00646459486684797	*	-0.479325868793563	(none)	2016-09-15 15:11:36.0490
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.00334244286119445	=	0.0064005889770772	*	-0.522208639418174	(none)	2016-09-15 15:11:36.1990
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.00331520613908003	=	0.0064005889770772	*	-0.517953293197387	(none)	2016-09-15 15:11:36.1990
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.00412993525929821	=	0.00742468321340955	*	-0.556243969013954	(none)	2016-09-15 15:11:36.4500
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.00903027744321527	=	0.0159374665529222	*	-0.566606832599722	(none)	2016-09-15 15:11:36.8170
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	0.00334000757496353	=	0.00851278333951267	*	0.392352000721157	(none)	2016-09-15 15:11:37.1500
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.00105799568717275	=	0.00934485990653271	*	-0.113216859081337	(none)	2016-09-15 15:11:37.3350
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.00851278333951267	=	0.00851278333951267	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:37.5490
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.00646459486684797	=	0.00646459486684797	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:37.7130
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.00857678922928345	=	0.00857678922928345	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:37.8310
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	0.001661748553307	=	0.0064005889770772	*	0.259624318833519	(none)	2016-09-15 15:11:38.0640
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.00194288167991142	=	0.0108169953712605	*	-0.179613803392524	(none)	2016-09-15 15:11:38.2140
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.000406534662762806	=	0.00953687757584503	*	-0.0426276482559109	(none)	2016-09-15 15:11:38.4970
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.00156692000996717	=	0.00966488935538657	*	-0.162124981709581	(none)	2016-09-15 15:11:38.8460
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.000527323300040386	=	0.0127371720643836	*	-0.0414003436064836	(none)	2016-09-15 15:11:39.0130
+2016-09-15 17:11:49.6074	IDEAL PATH Gaze Factor	-0.000438002104179911	=	0.00953687757584503	*	-0.0459272021368169	(none)	2016-09-15 15:11:39.2300
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.0022761616311947	=	0.00742468321340955	*	-0.306566834674343	(none)	2016-09-15 15:11:39.4460
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.00917997145631318	=	0.0160004482173558	*	-0.573732143725548	(none)	2016-09-15 15:11:39.5960
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.0105788215647525	=	0.0296968318914124	*	-0.356227277153145	(none)	2016-09-15 15:11:39.8990
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.00765893692003061	=	0.0118403316808433	*	-0.646851551669127	(none)	2016-09-15 15:11:40.4110
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.00488116377879059	=	0.00755221155859195	*	-0.646322436934042	(none)	2016-09-15 15:11:40.6100
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.00354576972156147	=	0.00844823665876387	*	-0.419705302393869	(none)	2016-09-15 15:11:40.9120
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.00387100309657435	=	0.0074242079728531	*	-0.521402836602749	(none)	2016-09-15 15:11:41.1280
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.000255728582986456	=	0.0128643603667541	*	-0.0198788416754359	(none)	2016-09-15 15:11:41.6770
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.000623363833050687	=	0.011648326302235	*	-0.0535153134344355	(none)	2016-09-15 15:11:41.8960
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.000903305025724191	=	0.017088478696136	*	-0.0528604706004896	(none)	2016-09-15 15:11:42.1110
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.000382086579467796	=	0.00646418107981175	*	-0.0591082729196879	(none)	2016-09-15 15:11:42.3940
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.000368056893966559	=	0.00646418107981175	*	-0.0569378997002474	(none)	2016-09-15 15:11:42.3940
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.00167050385249745	=	0.0403851313006061	*	-0.041364328868045	(none)	2016-09-15 15:11:42.5940
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.000626868349011935	=	0.0140163926384037	*	-0.0447239432558681	(none)	2016-09-15 15:11:43.2430
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	7.80940931492225E-05	=	0.00652818287268118	*	0.011962608075216	(none)	2016-09-15 15:11:43.4910
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	0.000148603399306415	=	0.00652818287268118	*	0.022763363435832	(none)	2016-09-15 15:11:43.7070
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	0.000174999161963228	=	0.00652818287268118	*	0.0268067187111986	(none)	2016-09-15 15:11:43.7070
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	0.000762732239190685	=	0.00953626713754407	*	0.0799822643587473	(none)	2016-09-15 15:11:43.8760
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	0.000297545551949157	=	0.00729620438711426	*	0.0407808685396271	(none)	2016-09-15 15:11:44.1280
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	0.000377068446299128	=	0.00652818287268118	*	0.0577600924565189	(none)	2016-09-15 15:11:44.3570
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	0.000393386825143607	=	0.00652818287268118	*	0.0602597740927009	(none)	2016-09-15 15:11:44.3570
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	2.47161572807649E-05	=	0.00966427072328292	*	0.00255747774337689	(none)	2016-09-15 15:11:44.7750
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.000223439453604092	=	0.0256007171477693	*	-0.00872785915778773	(none)	2016-09-15 15:11:44.9420
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	0.000672432563682562	=	0.0074242079728531	*	0.0905729696879906	(none)	2016-09-15 15:11:45.5760
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	0.00205167032666911	=	0.0191365360679576	*	0.107212210160879	(none)	2016-09-15 15:11:45.7260
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	0.00151334631378948	=	0.0106242976163243	*	0.142442010610115	(none)	2016-09-15 15:11:46.0420
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	0.000931825077385847	=	0.00966427072328292	*	0.0964195958564072	(none)	2016-09-15 15:11:46.2410
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	0.00183018999169592	=	0.0138243872597954	*	0.132388507157821	(none)	2016-09-15 15:11:46.4590
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.00273386190703465	=	0.00633617749407291	*	-0.431468643293533	(none)	2016-09-15 15:11:46.7420
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	-0.00366533519812823	=	0.00748820976572253	*	-0.489480838919122	(none)	2016-09-15 15:11:47.2600
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	0.000690620780061257	=	0.0085122384516333	*	0.0811326872461783	(none)	2016-09-15 15:11:48.1250
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	0.000625028490381948	=	0.0074242079728531	*	0.0841879016142043	(none)	2016-09-15 15:11:48.2740
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	0.0019228359098296	=	0.0149124177385756	*	0.12894192903781	(none)	2016-09-15 15:11:48.7070
+2016-09-15 17:11:49.6084	IDEAL PATH Gaze Factor	0.000777518388234579	=	0.00627217570120348	*	0.123963107105783	(none)	2016-09-15 15:11:48.9740
+2016-09-15 17:11:49.6084	IDEAL PATH moveDistanceFactor	-0.0259199343479748
+2016-09-15 17:11:49.6084	IDEAL PATH eyeMovementsFactor	-0.0995947309382567
+2016-09-15 17:11:49.6084	IDEAL PATH SCORE	-0.0443386334955453
+2016-09-15 17:11:49.6094	TargetDistance	1.47849428653717
+2016-09-15 17:11:49.6094	GAME DoubleClick	(557.0, 40.0, 0.0)
+2016-09-15 15:11:49.5740	EyeTracking Fixation	Started	614	1125	-63609549109574
+2016-09-15 17:11:49.7094	EyeTracking AOI	NULL
+2016-09-15 15:11:49.6730	EyeTracking Fixation	Ended	609	1120	99
+2016-09-15 17:11:49.7254	EyeTracking AOI	NULL
+2016-09-15 15:11:50.4230	EyeTracking Fixation	Started	227	879	-63609549110423
+2016-09-15 17:11:50.5604	EyeTracking AOI	NULL
+2016-09-15 15:11:50.5230	EyeTracking Fixation	Ended	230	862	100
+2016-09-15 17:11:50.5905	EyeTracking AOI	NULL
+2016-09-15 15:11:50.5390	EyeTracking Fixation	Started	223	837	-63609549110539
+2016-09-15 17:11:50.6775	EyeTracking AOI	NULL
+2016-09-15 15:11:50.6890	EyeTracking Fixation	Ended	236	841	150
+2016-09-15 17:11:50.7425	EyeTracking AOI	NULL
+2016-09-15 15:11:50.7400	EyeTracking Fixation	Started	391	1093	-63609549110740
+2016-09-15 17:11:50.8775	EyeTracking AOI	NULL
+2016-09-15 15:11:50.8400	EyeTracking Fixation	Ended	400	1094	100
+2016-09-15 17:11:50.8945	EyeTracking AOI	NULL
+2016-09-15 17:11:51.1645	GAME HELP	VirtualAssistant2D deactivated
+2016-09-15 15:11:51.0560	EyeTracking Fixation	Started	594	1166	-63609549111056
+2016-09-15 17:11:51.1955	EyeTracking AOI	NULL
+2016-09-15 15:11:51.1890	EyeTracking Fixation	Ended	584	1155	133
+2016-09-15 17:11:51.2445	EyeTracking AOI	NULL
+2016-09-15 17:11:51.3905	GAME Move	(-0.7, 0.0, 0.1)
+2016-09-15 17:11:51.3905	IDEAL PATH Gaze Factor	-0.0290748358371293	=	0.0555811908983161	*	-0.523105665193836	(none)	2016-09-15 15:11:49.5740
+2016-09-15 17:11:51.3905	IDEAL PATH Gaze Factor	-0.0379414326957382	=	0.0561426170690062	*	-0.675804490002729	(none)	2016-09-15 15:11:50.4230
+2016-09-15 17:11:51.3905	IDEAL PATH Gaze Factor	-0.0558098015729108	=	0.0842139256035093	*	-0.662714642180095	(none)	2016-09-15 15:11:50.5390
+2016-09-15 17:11:51.3905	IDEAL PATH Gaze Factor	-0.0367323964781146	=	0.0561426170690062	*	-0.654269401673348	(none)	2016-09-15 15:11:50.7400
+2016-09-15 17:11:51.3905	IDEAL PATH Gaze Factor	-0.0418153806130277	=	0.0746696807017782	*	-0.560004813466838	(none)	2016-09-15 15:11:51.0560
+2016-09-15 17:11:51.3905	IDEAL PATH moveDistanceFactor	-0.0857104187710855
+2016-09-15 17:11:51.3915	IDEAL PATH eyeMovementsFactor	-0.201373847196921
+2016-09-15 17:11:51.3915	IDEAL PATH SCORE	-0.114626275877544
+2016-09-15 17:11:51.3925	TargetDistance	1.49397039413452
+2016-09-15 17:11:51.3935	GAME DoubleClick	(536.0, 39.0, 0.0)
+2016-09-15 15:11:51.2730	EyeTracking Fixation	Started	763	605	-63609549111273
+2016-09-15 17:11:51.4105	EyeTracking AOI	NULL
+2016-09-15 15:11:51.4220	EyeTracking Fixation	Ended	759	616	149
+2016-09-15 17:11:51.4765	EyeTracking AOI	NULL
+2016-09-15 15:11:51.4550	EyeTracking Fixation	Started	887	401	-63609549111455
+2016-09-15 17:11:51.5966	EyeTracking AOI	NULL
+2016-09-15 15:11:51.5890	EyeTracking Fixation	Ended	888	415	134
+2016-09-15 17:11:51.6426	EyeTracking AOI	NULL
+2016-09-15 15:11:52.1720	EyeTracking Fixation	Started	1454	925	-63609549112172
+2016-09-15 17:11:52.3096	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:52.2720	EyeTracking Fixation	Ended	1450	904	100
+2016-09-15 17:11:52.3306	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:52.2900	EyeTracking Fixation	Started	1460	883	-63609549112290
+2016-09-15 17:11:52.4296	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:52.5050	EyeTracking Fixation	Ended	1452	876	215
+2016-09-15 17:11:52.5646	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:52.5380	EyeTracking Fixation	Started	1489	920	-63609549112538
+2016-09-15 17:11:52.6787	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:52.6880	EyeTracking Fixation	Ended	1489	923	150
+2016-09-15 17:11:52.7447	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:52.7050	EyeTracking Fixation	Started	1671	1030	-63609549112705
+2016-09-15 17:11:52.8437	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:52.8200	EyeTracking Fixation	Ended	1691	1029	115
+2016-09-15 17:11:52.8797	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:52.8380	EyeTracking Fixation	Started	1709	1022	-63609549112838
+2016-09-15 17:11:52.9797	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:52.9870	EyeTracking Fixation	Ended	1695	1034	149
+2016-09-15 17:11:53.0457	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:53.0040	EyeTracking Fixation	Started	1676	1043	-63609549113004
+2016-09-15 17:11:53.1437	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:53.2370	EyeTracking Fixation	Ended	1684	1037	233
+2016-09-15 17:11:53.2977	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:53.2710	EyeTracking Fixation	Started	1633	973	-63609549113271
+2016-09-15 17:11:53.4287	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:53.4530	EyeTracking Fixation	Ended	1625	980	182
+2016-09-15 17:11:53.5117	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:53.4870	EyeTracking Fixation	Started	1629	980	-63609549113487
+2016-09-15 17:11:53.6308	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 17:11:53.6598	GAME Move	(-0.5, 0.0, 0.0)
+2016-09-15 17:11:53.6598	IDEAL PATH Gaze Factor	-0.0105781465785964	=	0.0657190566783639	*	-0.160960109795351	(none)	2016-09-15 15:11:51.2730
+2016-09-15 17:11:53.6608	IDEAL PATH Gaze Factor	0.00103121209360842	=	0.059076984717754	*	0.017455394829901	(none)	2016-09-15 15:11:51.4550
+2016-09-15 17:11:53.6608	IDEAL PATH Gaze Factor	-0.0440873020281746	=	0.0440873020281746	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:52.1720
+2016-09-15 17:11:53.6608	IDEAL PATH Gaze Factor	-0.0947876993605754	=	0.0947876993605754	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:52.2900
+2016-09-15 17:11:53.6608	IDEAL PATH Gaze Factor	-0.0661309530422619	=	0.0661309530422619	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:52.5380
+2016-09-15 17:11:53.6608	IDEAL PATH Gaze Factor	-0.0507003973324008	=	0.0507003973324008	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:52.7050
+2016-09-15 17:11:53.6608	IDEAL PATH Gaze Factor	-0.0656900800219802	=	0.0656900800219802	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:52.8380
+2016-09-15 17:11:53.6608	IDEAL PATH Gaze Factor	-0.102723413725647	=	0.102723413725647	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:53.0040
+2016-09-15 17:11:53.6608	IDEAL PATH Gaze Factor	-0.0802388896912778	=	0.0802388896912778	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:53.2710
+2016-09-15 17:11:53.6608	IDEAL PATH moveDistanceFactor	0.834065868595902
+2016-09-15 17:11:53.6608	IDEAL PATH eyeMovementsFactor	-0.513905669687305
+2016-09-15 17:11:53.6608	IDEAL PATH SCORE	0.4970729840251
+2016-09-15 17:11:53.6618	TargetDistance	1.34710848331451
+2016-09-15 17:11:53.6618	GAME DoubleClick	(1700.0, 174.0, 0.0)
+2016-09-15 15:11:53.6700	EyeTracking Fixation	Ended	1629	975	183
+2016-09-15 17:11:53.7298	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:53.7040	EyeTracking Fixation	Started	1388	894	-63609549113704
+2016-09-15 17:11:53.8458	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:53.8700	EyeTracking Fixation	Ended	1399	889	166
+2016-09-15 17:11:53.9308	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:53.8860	EyeTracking Fixation	Started	1394	871	-63609549113886
+2016-09-15 15:11:53.9870	EyeTracking Fixation	Ended	1381	866	101
+2016-09-15 17:11:54.0348	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 17:11:54.0638	EyeTracking AOI	NULL
+2016-09-15 15:11:54.9370	EyeTracking Fixation	Started	1762	917	-63609549114937
+2016-09-15 17:11:55.0809	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:55.0530	EyeTracking Fixation	Ended	1743	918	116
+2016-09-15 17:11:55.1139	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:55.0690	EyeTracking Fixation	Started	1705	918	-63609549115069
+2016-09-15 17:11:55.2129	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:55.1690	EyeTracking Fixation	Ended	1706	904	100
+2016-09-15 17:11:55.2319	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:55.2040	EyeTracking Fixation	Started	1659	836	-63609549115204
+2016-09-15 17:11:55.3469	EyeTracking AOI	NULL
+2016-09-15 15:11:55.3020	EyeTracking Fixation	Ended	1650	833	98
+2016-09-15 17:11:55.3689	EyeTracking AOI	NULL
+2016-09-15 15:11:55.3190	EyeTracking Fixation	Started	1626	828	-63609549115319
+2016-09-15 17:11:55.4659	EyeTracking AOI	NULL
+2016-09-15 15:11:55.4190	EyeTracking Fixation	Ended	1618	822	100
+2016-09-15 17:11:55.4819	EyeTracking AOI	NULL
+2016-09-15 15:11:55.4510	EyeTracking Fixation	Started	1841	907	-63609549115451
+2016-09-15 17:11:55.5980	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:11:55.7860	EyeTracking Fixation	Ended	1826	920	335
+2016-09-15 17:11:55.8490	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 17:11:55.9460	GAME Move	(-0.4, 0.0, -0.1)
+2016-09-15 17:11:55.9460	IDEAL PATH Gaze Factor	-0.0801145804859094	=	0.0801145804859094	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:53.4870
+2016-09-15 17:11:55.9460	IDEAL PATH Gaze Factor	-0.0726722424079834	=	0.0726722424079834	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:53.7040
+2016-09-15 17:11:55.9460	IDEAL PATH Gaze Factor	-0.0442162438747369	=	0.0442162438747369	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:53.8860
+2016-09-15 17:11:55.9460	IDEAL PATH Gaze Factor	0.0136211770056545	=	0.0442162438747369	*	0.308058211462801	(none)	2016-09-15 15:11:53.8860
+2016-09-15 17:11:55.9460	IDEAL PATH Gaze Factor	-0.0507830127670245	=	0.0507830127670245	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:54.9370
+2016-09-15 17:11:55.9460	IDEAL PATH Gaze Factor	-0.0437784592819177	=	0.0437784592819177	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:55.0690
+2016-09-15 17:11:55.9460	IDEAL PATH Gaze Factor	0.0201782434310005	=	0.0429028900962793	*	0.470323639869437	(none)	2016-09-15 15:11:55.2040
+2016-09-15 17:11:55.9460	IDEAL PATH Gaze Factor	0.0203767218428945	=	0.0437784592819177	*	0.465450867324399	(none)	2016-09-15 15:11:55.3190
+2016-09-15 17:11:55.9460	IDEAL PATH Gaze Factor	-0.146657838594424	=	0.146657838594424	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:11:55.4510
+2016-09-15 17:11:55.9460	IDEAL PATH moveDistanceFactor	0.969325550250298
+2016-09-15 17:11:55.9460	IDEAL PATH eyeMovementsFactor	-0.384046235132447
+2016-09-15 17:11:55.9460	IDEAL PATH SCORE	0.630982603904612
+2016-09-15 17:11:55.9470	TargetDistance	1.17920291423798
+2016-09-15 17:11:55.9470	GAME DoubleClick	(1894.0, 240.0, 0.0)
+2016-09-15 15:11:55.8360	EyeTracking Fixation	Started	1043	981	-63609549115836
+2016-09-15 17:11:55.9790	EyeTracking AOI	NULL
+2016-09-15 15:11:55.9860	EyeTracking Fixation	Ended	1042	969	150
+2016-09-15 17:11:56.0470	EyeTracking AOI	NULL
+2016-09-15 15:11:57.5000	EyeTracking Fixation	Started	1462	195	-63609549117500
+2016-09-15 17:11:57.6492	EyeTracking AOI	NULL
+2016-09-15 15:11:57.6180	EyeTracking Fixation	Ended	1448	182	118
+2016-09-15 17:11:57.6812	EyeTracking AOI	NULL
+2016-09-15 15:11:57.6850	EyeTracking Fixation	Started	1783	524	-63609549117685
+2016-09-15 17:11:57.8352	EyeTracking AOI	NULL
+2016-09-15 15:11:57.8000	EyeTracking Fixation	Ended	1772	543	115
+2016-09-15 17:11:57.8682	EyeTracking AOI	NULL
+2016-09-15 15:11:57.8340	EyeTracking Fixation	Started	1718	728	-63609549117834
+2016-09-15 17:11:57.9832	EyeTracking AOI	NULL
+2016-09-15 15:11:58.0170	EyeTracking Fixation	Ended	1719	740	183
+2016-09-15 17:11:58.0822	EyeTracking AOI	NULL
+2016-09-15 15:11:58.1160	EyeTracking Fixation	Started	1846	734	-63609549118116
+2016-09-15 17:11:58.2672	EyeTracking AOI	NULL
+2016-09-15 17:11:58.4332	GAME Move	(-0.2, 0.0, -0.1)
+2016-09-15 17:11:58.4332	IDEAL PATH Gaze Factor	0.0100962164025326	=	0.0603318590103982	*	0.167344692640625	(none)	2016-09-15 15:11:55.8360
+2016-09-15 17:11:58.4332	IDEAL PATH Gaze Factor	0.0202946994405809	=	0.0474610624215133	*	0.427607356538686	(none)	2016-09-15 15:11:57.5000
+2016-09-15 17:11:58.4332	IDEAL PATH Gaze Factor	0.0393220010006409	=	0.0462544252413053	*	0.850124086409062	(none)	2016-09-15 15:11:57.6850
+2016-09-15 17:11:58.4332	IDEAL PATH Gaze Factor	0.0585798526493441	=	0.0736048679926859	*	0.795869271243924	(none)	2016-09-15 15:11:57.8340
+2016-09-15 17:11:58.4332	IDEAL PATH moveDistanceFactor	0.943466857097093
+2016-09-15 17:11:58.4332	IDEAL PATH eyeMovementsFactor	0.128292769493099
+2016-09-15 17:11:58.4332	IDEAL PATH SCORE	0.739673335196094
+2016-09-15 17:11:58.4342	TargetDistance	1.01068234443665
+2016-09-15 17:11:58.4342	GAME DoubleClick	(1884.0, 473.0, 0.0)
+2016-09-15 15:11:58.4670	EyeTracking Fixation	Ended	1832	731	351
+2016-09-15 17:11:58.5222	EyeTracking AOI	NULL
+2016-09-15 15:11:58.6170	EyeTracking Fixation	Started	1294	972	-63609549118617
+2016-09-15 17:11:58.7513	EyeTracking AOI	NULL
+2016-09-15 15:11:58.7340	EyeTracking Fixation	Ended	1291	970	117
+2016-09-15 17:11:58.7813	EyeTracking AOI	NULL
+2016-09-15 15:11:59.8820	EyeTracking Fixation	Started	1455	665	-63609549119882
+2016-09-15 17:12:00.0174	EyeTracking AOI	NULL
+2016-09-15 15:11:59.9830	EyeTracking Fixation	Ended	1448	660	101
+2016-09-15 17:12:00.0354	EyeTracking AOI	NULL
+2016-09-15 15:12:00.0990	EyeTracking Fixation	Started	1691	640	-63609549120099
+2016-09-15 17:12:00.2354	EyeTracking AOI	NULL
+2016-09-15 15:12:00.1990	EyeTracking Fixation	Ended	1689	638	100
+2016-09-15 17:12:00.2514	EyeTracking AOI	NULL
+2016-09-15 15:12:00.2330	EyeTracking Fixation	Started	1532	595	-63609549120233
+2016-09-15 17:12:00.3684	EyeTracking AOI	NULL
+2016-09-15 15:12:00.4990	EyeTracking Fixation	Ended	1534	589	266
+2016-09-15 17:12:00.5544	EyeTracking AOI	NULL
+2016-09-15 15:12:00.5330	EyeTracking Fixation	Started	1662	590	-63609549120533
+2016-09-15 17:12:00.6695	EyeTracking AOI	NULL
+2016-09-15 15:12:00.7310	EyeTracking Fixation	Ended	1669	590	198
+2016-09-15 17:12:00.7865	EyeTracking AOI	NULL
+2016-09-15 17:12:00.8675	GAME Move	(0.0, 0.0, -0.1)
+2016-09-15 17:12:00.8685	IDEAL PATH Gaze Factor	0.131462811853207	=	0.144192647292378	*	0.911716473216842	(none)	2016-09-15 15:11:58.1160
+2016-09-15 17:12:00.8685	IDEAL PATH Gaze Factor	0.0201472529334811	=	0.0480642157641261	*	0.419173653687667	(none)	2016-09-15 15:11:58.6170
+2016-09-15 17:12:00.8685	IDEAL PATH Gaze Factor	0.0236564705164523	=	0.0414913315570662	*	0.570154526950185	(none)	2016-09-15 15:11:59.8820
+2016-09-15 17:12:00.8685	IDEAL PATH Gaze Factor	0.0312716069645426	=	0.0410805262941249	*	0.761227028608318	(none)	2016-09-15 15:12:00.0990
+2016-09-15 17:12:00.8685	IDEAL PATH Gaze Factor	0.0677727452750536	=	0.109274199942372	*	0.620208112352182	(none)	2016-09-15 15:12:00.2330
+2016-09-15 17:12:00.8685	IDEAL PATH Gaze Factor	0.0587910395184494	=	0.0813394420623673	*	0.722786363267296	(none)	2016-09-15 15:12:00.5330
+2016-09-15 17:12:00.8685	IDEAL PATH moveDistanceFactor	0.89146500465558
+2016-09-15 17:12:00.8685	IDEAL PATH eyeMovementsFactor	0.333101927061186
+2016-09-15 17:12:00.8685	IDEAL PATH SCORE	0.751874235256981
+2016-09-15 17:12:00.8695	TargetDistance	0.84416252374649
+2016-09-15 17:12:00.8695	GAME DoubleClick	(1808.0, 574.0, 0.0)
+2016-09-15 15:12:00.7490	EyeTracking Fixation	Started	1810	623	-63609549120749
+2016-09-15 17:12:00.8845	EyeTracking AOI	NULL
+2016-09-15 15:12:00.9150	EyeTracking Fixation	Ended	1813	631	166
+2016-09-15 17:12:00.9705	EyeTracking AOI	NULL
+2016-09-15 15:12:00.9330	EyeTracking Fixation	Started	1826	635	-63609549120933
+2016-09-15 17:12:01.0685	EyeTracking AOI	NULL
+2016-09-15 15:12:01.0990	EyeTracking Fixation	Ended	1814	638	166
+2016-09-15 17:12:01.1515	EyeTracking AOI	NULL
+2016-09-15 15:12:02.1150	EyeTracking Fixation	Started	1049	396	-63609549122115
+2016-09-15 17:12:02.2536	EyeTracking AOI	NULL
+2016-09-15 15:12:02.2140	EyeTracking Fixation	Ended	1031	391	99
+2016-09-15 17:12:02.2696	EyeTracking AOI	NULL
+2016-09-15 15:12:02.3130	EyeTracking Fixation	Started	911	395	-63609549122313
+2016-09-15 17:12:02.4486	EyeTracking AOI	NULL
+2016-09-15 15:12:02.4790	EyeTracking Fixation	Ended	899	393	166
+2016-09-15 17:12:02.5376	EyeTracking AOI	NULL
+2016-09-15 15:12:02.4970	EyeTracking Fixation	Started	902	377	-63609549122497
+2016-09-15 17:12:02.6377	EyeTracking AOI	NULL
+2016-09-15 15:12:02.6480	EyeTracking Fixation	Ended	895	392	151
+2016-09-15 17:12:02.7027	EyeTracking AOI	NULL
+2016-09-15 15:12:02.6970	EyeTracking Fixation	Started	1508	646	-63609549122697
+2016-09-15 17:12:02.8377	EyeTracking AOI	NULL
+2016-09-15 15:12:02.8460	EyeTracking Fixation	Ended	1510	657	149
+2016-09-15 17:12:02.9037	EyeTracking AOI	NULL
+2016-09-15 15:12:03.1800	EyeTracking Fixation	Started	1750	379	-63609549123180
+2016-09-15 17:12:03.3187	EyeTracking AOI	NULL
+2016-09-15 15:12:03.3140	EyeTracking Fixation	Ended	1750	371	134
+2016-09-15 17:12:03.3777	EyeTracking AOI	NULL
+2016-09-15 15:12:03.3470	EyeTracking Fixation	Started	1815	409	-63609549123347
+2016-09-15 17:12:03.4887	EyeTracking AOI	NULL
+2016-09-15 15:12:03.5630	EyeTracking Fixation	Ended	1811	409	216
+2016-09-15 17:12:03.6218	EyeTracking AOI	NULL
+2016-09-15 15:12:03.5980	EyeTracking Fixation	Started	1585	828	-63609549123598
+2016-09-15 17:12:03.7528	EyeTracking AOI	NULL
+2016-09-15 15:12:03.7470	EyeTracking Fixation	Ended	1592	843	149
+2016-09-15 17:12:03.8048	EyeTracking AOI	NULL
+2016-09-15 15:12:03.7800	EyeTracking Fixation	Started	1702	813	-63609549123780
+2016-09-15 17:12:03.9218	EyeTracking AOI	NULL
+2016-09-15 15:12:04.0460	EyeTracking Fixation	Ended	1721	813	266
+2016-09-15 17:12:04.1078	EyeTracking AOI	NULL
+2016-09-15 15:12:04.1990	EyeTracking Fixation	Started	854	852	-63609549124199
+2016-09-15 17:12:04.3388	EyeTracking AOI	NULL
+2016-09-15 15:12:04.3460	EyeTracking Fixation	Ended	854	861	147
+2016-09-15 17:12:04.4188	EyeTracking AOI	NULL
+2016-09-15 17:12:04.4528	GAME Move	(0.1, 0.0, -0.2)
+2016-09-15 17:12:04.4528	IDEAL PATH Gaze Factor	0.0373513129704219	=	0.0463252586268027	*	0.806283959930477	(none)	2016-09-15 15:12:00.7490
+2016-09-15 17:12:04.4528	IDEAL PATH Gaze Factor	0.0376206914795276	=	0.0463252586268027	*	0.812098897981352	(none)	2016-09-15 15:12:00.9330
+2016-09-15 17:12:04.4528	IDEAL PATH Gaze Factor	0.00351235541867125	=	0.0276277144822498	*	0.127131595374198	(none)	2016-09-15 15:12:02.1150
+2016-09-15 17:12:04.4528	IDEAL PATH Gaze Factor	0.00100034091269565	=	0.0463252586268027	*	0.0215938548935997	(none)	2016-09-15 15:12:02.3130
+2016-09-15 17:12:04.4528	IDEAL PATH Gaze Factor	0.000758262531106323	=	0.0421392412810073	*	0.0179942141352242	(none)	2016-09-15 15:12:02.4970
+2016-09-15 17:12:04.4528	IDEAL PATH Gaze Factor	0.0253422506044982	=	0.0415811056349012	*	0.609465530498715	(none)	2016-09-15 15:12:02.6970
+2016-09-15 17:12:04.4528	IDEAL PATH Gaze Factor	0.021461135137272	=	0.0373950882891058	*	0.573902512847503	(none)	2016-09-15 15:12:03.1800
+2016-09-15 17:12:04.4528	IDEAL PATH Gaze Factor	0.0375130782499478	=	0.0602786497794541	*	0.622327779192129	(none)	2016-09-15 15:12:03.3470
+2016-09-15 17:12:04.4528	IDEAL PATH Gaze Factor	0.0295100229437168	=	0.0415811056349012	*	0.709697890258779	(none)	2016-09-15 15:12:03.5980
+2016-09-15 17:12:04.4528	IDEAL PATH Gaze Factor	0.061168679776344	=	0.0742320409321055	*	0.824019911190243	(none)	2016-09-15 15:12:03.7800
+2016-09-15 17:12:04.4528	IDEAL PATH Gaze Factor	0.00236917205115891	=	0.0410229699887951	*	0.0577523288003285	(none)	2016-09-15 15:12:04.1990
+2016-09-15 17:12:04.4528	IDEAL PATH moveDistanceFactor	0.844212271346268
+2016-09-15 17:12:04.4528	IDEAL PATH eyeMovementsFactor	0.25760730207536
+2016-09-15 17:12:04.4528	IDEAL PATH SCORE	0.697561029028541
+2016-09-15 17:12:04.4538	TargetDistance	0.684504449367523
+2016-09-15 17:12:04.4538	GAME DoubleClick	(1861.0, 296.0, 0.0)
+2016-09-15 15:12:04.3800	EyeTracking Fixation	Started	741	852	-63609549124380
+2016-09-15 17:12:04.5218	EyeTracking AOI	NULL
+2016-09-15 15:12:04.5500	EyeTracking Fixation	Ended	727	838	170
+2016-09-15 17:12:04.6059	EyeTracking AOI	NULL
+2016-09-15 15:12:06.1790	EyeTracking Fixation	Started	822	791	-63609549126179
+2016-09-15 17:12:06.3230	EyeTracking AOI	NULL
+2016-09-15 15:12:06.2790	EyeTracking Fixation	Ended	812	788	100
+2016-09-15 17:12:06.3400	EyeTracking AOI	NULL
+2016-09-15 15:12:06.3130	EyeTracking Fixation	Started	510	850	-63609549126313
+2016-09-15 17:12:06.4570	EyeTracking AOI	NULL
+2016-09-15 15:12:06.4790	EyeTracking Fixation	Ended	495	849	166
+2016-09-15 17:12:06.5400	EyeTracking AOI	NULL
+2016-09-15 15:12:06.6950	EyeTracking Fixation	Started	1528	947	-63609549126695
+2016-09-15 17:12:06.8391	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:06.8290	EyeTracking Fixation	Ended	1513	946	134
+2016-09-15 17:12:06.8931	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:06.8460	EyeTracking Fixation	Started	1505	965	-63609549126846
+2016-09-15 17:12:06.9911	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:06.9450	EyeTracking Fixation	Ended	1515	958	99
+2016-09-15 17:12:07.0081	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:07.0620	EyeTracking Fixation	Started	1498	906	-63609549127062
+2016-09-15 17:12:07.2081	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:07.2110	EyeTracking Fixation	Ended	1497	916	149
+2016-09-15 17:12:07.2741	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:07.2290	EyeTracking Fixation	Started	1517	903	-63609549127229
+2016-09-15 15:12:07.3270	EyeTracking Fixation	Ended	1502	911	98
+2016-09-15 17:12:07.3761	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 17:12:07.3921	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 17:12:07.6062	GAME Move	(0.2, 0.0, -0.2)
+2016-09-15 17:12:07.6062	IDEAL PATH Gaze Factor	-0.00374118482730377	=	0.0539286172905552	*	-0.0693729046889355	(none)	2016-09-15 15:12:04.3800
+2016-09-15 17:12:07.6062	IDEAL PATH Gaze Factor	-0.000141702385978864	=	0.0317227160532678	*	-0.0044669058519744	(none)	2016-09-15 15:12:06.1790
+2016-09-15 17:12:07.6062	IDEAL PATH Gaze Factor	-0.014241771861454	=	0.0526597086484245	*	-0.270449119962614	(none)	2016-09-15 15:12:06.3130
+2016-09-15 17:12:07.6062	IDEAL PATH Gaze Factor	-0.0425084395113788	=	0.0425084395113788	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:12:06.6950
+2016-09-15 17:12:07.6062	IDEAL PATH Gaze Factor	-0.0314054888927351	=	0.0314054888927351	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:12:06.8460
+2016-09-15 17:12:07.6062	IDEAL PATH Gaze Factor	-0.047266846919369	=	0.047266846919369	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:12:07.0620
+2016-09-15 17:12:07.6062	IDEAL PATH Gaze Factor	-0.0310882617322024	=	0.0310882617322024	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:12:07.2290
+2016-09-15 17:12:07.6062	IDEAL PATH Gaze Factor	-0.0310882617322024	=	0.0310882617322024	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:12:07.2290
+2016-09-15 17:12:07.6062	IDEAL PATH moveDistanceFactor	0.466447265856857
+2016-09-15 17:12:07.6062	IDEAL PATH eyeMovementsFactor	-0.201481957862624
+2016-09-15 17:12:07.6062	IDEAL PATH SCORE	0.299464959926987
+2016-09-15 17:12:07.6072	TargetDistance	0.587310373783112
+2016-09-15 17:12:07.6072	GAME DoubleClick	(1423.0, 303.0, 0.0)
+2016-09-15 15:12:07.5100	EyeTracking Fixation	Started	1346	1127	-63609549127510
+2016-09-15 17:12:07.6582	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:07.7780	EyeTracking Fixation	Ended	1337	1126	268
+2016-09-15 17:12:07.8412	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:07.7940	EyeTracking Fixation	Started	1318	1120	-63609549127794
+2016-09-15 17:12:07.9412	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:07.8940	EyeTracking Fixation	Ended	1309	1111	100
+2016-09-15 17:12:07.9742	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:08.7420	EyeTracking Fixation	Started	1267	262	-63609549128742
+2016-09-15 17:12:08.8923	EyeTracking AOI	NULL
+2016-09-15 15:12:08.9750	EyeTracking Fixation	Ended	1254	261	233
+2016-09-15 17:12:09.0423	EyeTracking AOI	NULL
+2016-09-15 15:12:09.0440	EyeTracking Fixation	Started	1570	759	-63609549129044
+2016-09-15 17:12:09.1773	EyeTracking AOI	NULL
+2016-09-15 15:12:09.1590	EyeTracking Fixation	Ended	1577	779	115
+2016-09-15 17:12:09.2283	EyeTracking AOI	NULL
+2016-09-15 15:12:09.3930	EyeTracking Fixation	Started	1588	729	-63609549129393
+2016-09-15 17:12:09.5263	EyeTracking AOI	NULL
+2016-09-15 15:12:09.5960	EyeTracking Fixation	Ended	1565	723	203
+2016-09-15 17:12:09.6434	EyeTracking AOI	NULL
+2016-09-15 15:12:09.6610	EyeTracking Fixation	Started	1169	193	-63609549129661
+2016-09-15 17:12:09.7954	EyeTracking AOI	NULL
+2016-09-15 15:12:09.9950	EyeTracking Fixation	Ended	1174	190	334
+2016-09-15 17:12:10.0444	EyeTracking AOI	NULL
+2016-09-15 17:12:10.0914	GAME Move	(0.4, 0.0, -0.3)
+2016-09-15 17:12:10.0914	IDEAL PATH Gaze Factor	-0.107879711223725	=	0.107879711223725	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:12:07.5100
+2016-09-15 17:12:10.0914	IDEAL PATH Gaze Factor	-0.040253623590942	=	0.040253623590942	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:12:07.7940
+2016-09-15 17:12:10.0914	IDEAL PATH Gaze Factor	-0.00158481128197559	=	0.0937909429668949	*	-0.0168972742126601	(none)	2016-09-15 15:12:08.7420
+2016-09-15 17:12:10.0914	IDEAL PATH Gaze Factor	0.0240863689593425	=	0.0462916671295833	*	0.52031759607875	(none)	2016-09-15 15:12:09.0440
+2016-09-15 17:12:10.0914	IDEAL PATH Gaze Factor	0.0387955554256254	=	0.0817148558896123	*	0.474767470409957	(none)	2016-09-15 15:12:09.3930
+2016-09-15 17:12:10.0914	IDEAL PATH Gaze Factor	-0.0146736686256685	=	0.134447102793746	*	-0.109140831752836	(none)	2016-09-15 15:12:09.6610
+2016-09-15 17:12:10.0914	IDEAL PATH moveDistanceFactor	0.623531731731485
+2016-09-15 17:12:10.0914	IDEAL PATH eyeMovementsFactor	-0.101509890337343
+2016-09-15 17:12:10.0914	IDEAL PATH SCORE	0.442271326214278
+2016-09-15 17:12:10.0924	TargetDistance	0.451330602169037
+2016-09-15 17:12:10.0924	GAME DoubleClick	(1744.0, 406.0, 0.0)
+2016-09-15 15:12:10.0610	EyeTracking Fixation	Started	1689	751	-63609549130061
+2016-09-15 17:12:10.1954	EyeTracking AOI	NULL
+2016-09-15 15:12:10.1750	EyeTracking Fixation	Ended	1696	749	114
+2016-09-15 17:12:10.2274	EyeTracking AOI	NULL
+2016-09-15 15:12:10.4420	EyeTracking Fixation	Started	1590	743	-63609549130442
+2016-09-15 17:12:10.5774	EyeTracking AOI	NULL
+2016-09-15 15:12:10.5420	EyeTracking Fixation	Ended	1577	737	100
+2016-09-15 17:12:10.5925	EyeTracking AOI	NULL
+2016-09-15 15:12:10.7260	EyeTracking Fixation	Started	827	580	-63609549130726
+2016-09-15 17:12:10.8605	EyeTracking AOI	NULL
+2016-09-15 15:12:10.8250	EyeTracking Fixation	Ended	817	573	99
+2016-09-15 17:12:10.8765	EyeTracking AOI	NULL
+2016-09-15 15:12:11.5920	EyeTracking Fixation	Started	1497	775	-63609549131592
+2016-09-15 17:12:11.7286	EyeTracking AOI	NULL
+2016-09-15 15:12:11.6910	EyeTracking Fixation	Ended	1479	782	99
+2016-09-15 17:12:11.7586	EyeTracking AOI	NULL
+2016-09-15 15:12:11.7240	EyeTracking Fixation	Started	1456	786	-63609549131724
+2016-09-15 17:12:11.8606	EyeTracking AOI	NULL
+2016-09-15 15:12:11.8410	EyeTracking Fixation	Ended	1454	783	117
+2016-09-15 17:12:11.8946	EyeTracking AOI	NULL
+2016-09-15 15:12:12.0740	EyeTracking Fixation	Started	1680	733	-63609549132074
+2016-09-15 17:12:12.2126	EyeTracking AOI	NULL
+2016-09-15 15:12:12.2230	EyeTracking Fixation	Ended	1680	738	149
+2016-09-15 17:12:12.2786	EyeTracking AOI	NULL
+2016-09-15 17:12:12.3096	GAME Move	(0.5, 0.0, -0.3)
+2016-09-15 17:12:12.3096	IDEAL PATH Gaze Factor	0.0285452633722218	=	0.051415697401843	*	0.555185766500923	(none)	2016-09-15 15:12:10.0610
+2016-09-15 17:12:12.3096	IDEAL PATH Gaze Factor	0.0221455305472474	=	0.0451014889489851	*	0.491015508873697	(none)	2016-09-15 15:12:10.4420
+2016-09-15 17:12:12.3096	IDEAL PATH Gaze Factor	-0.00539069156854626	=	0.0446504740594953	*	-0.120730892159473	(none)	2016-09-15 15:12:10.7260
+2016-09-15 17:12:12.3096	IDEAL PATH Gaze Factor	0.0206851327838416	=	0.0446504740594953	*	0.463267932077929	(none)	2016-09-15 15:12:11.5920
+2016-09-15 17:12:12.3096	IDEAL PATH Gaze Factor	0.0236203990902938	=	0.0527687420703126	*	0.44762103782615	(none)	2016-09-15 15:12:11.7240
+2016-09-15 17:12:12.3096	IDEAL PATH Gaze Factor	0.0362967865174481	=	0.0672012185339878	*	0.540120957763446	(none)	2016-09-15 15:12:12.0740
+2016-09-15 17:12:12.3096	IDEAL PATH moveDistanceFactor	0.508333183198687
+2016-09-15 17:12:12.3096	IDEAL PATH eyeMovementsFactor	0.125902420742506
+2016-09-15 17:12:12.3096	IDEAL PATH SCORE	0.412725492584642
+2016-09-15 17:12:12.3106	TargetDistance	0.334027200937271
+2016-09-15 17:12:12.3106	GAME DoubleClick	(1699.0, 420.0, 0.0)
+2016-09-15 15:12:13.5400	EyeTracking Fixation	Started	1413	744	-63609549133540
+2016-09-15 17:12:13.6788	EyeTracking AOI	NULL
+2016-09-15 15:12:13.6400	EyeTracking Fixation	Ended	1394	737	100
+2016-09-15 17:12:13.6998	EyeTracking AOI	NULL
+2016-09-15 15:12:13.6740	EyeTracking Fixation	Started	1359	528	-63609549133674
+2016-09-15 17:12:13.8088	EyeTracking AOI	NULL
+2016-09-15 15:12:13.8070	EyeTracking Fixation	Ended	1351	540	133
+2016-09-15 17:12:13.8658	EyeTracking AOI	NULL
+2016-09-15 15:12:13.8230	EyeTracking Fixation	Started	1405	605	-63609549133823
+2016-09-15 17:12:13.9638	EyeTracking AOI	NULL
+2016-09-15 15:12:13.9720	EyeTracking Fixation	Ended	1393	614	149
+2016-09-15 17:12:14.0348	EyeTracking AOI	NULL
+2016-09-15 15:12:13.9910	EyeTracking Fixation	Started	1707	575	-63609549133991
+2016-09-15 17:12:14.1308	EyeTracking AOI	NULL
+2016-09-15 15:12:14.2060	EyeTracking Fixation	Ended	1714	586	215
+2016-09-15 17:12:14.2658	EyeTracking AOI	NULL
+2016-09-15 15:12:14.5380	EyeTracking Fixation	Started	1112	631	-63609549134538
+2016-09-15 17:12:14.6819	EyeTracking AOI	NULL
+2016-09-15 15:12:14.6550	EyeTracking Fixation	Ended	1109	646	117
+2016-09-15 17:12:14.7119	EyeTracking AOI	NULL
+2016-09-15 17:12:14.8289	GAME Move	(0.6, 0.0, -0.3)
+2016-09-15 17:12:14.8289	IDEAL PATH Gaze Factor	0.0151298977182138	=	0.0397100877680302	*	0.381008921627077	(none)	2016-09-15 15:12:13.5400
+2016-09-15 17:12:14.8289	IDEAL PATH Gaze Factor	0.012160689586209	=	0.0528144167314802	*	0.230253221351219	(none)	2016-09-15 15:12:13.6740
+2016-09-15 17:12:14.8289	IDEAL PATH Gaze Factor	0.0179772164409526	=	0.059168030774365	*	0.303833272895427	(none)	2016-09-15 15:12:13.8230
+2016-09-15 17:12:14.8289	IDEAL PATH Gaze Factor	0.0365346462600107	=	0.0853766887012649	*	0.427922970728536	(none)	2016-09-15 15:12:13.9910
+2016-09-15 17:12:14.8299	IDEAL PATH Gaze Factor	0.00615269486719335	=	0.0464608026885953	*	0.132427648924448	(none)	2016-09-15 15:12:14.5380
+2016-09-15 17:12:14.8299	IDEAL PATH moveDistanceFactor	0.195848726250289
+2016-09-15 17:12:14.8299	IDEAL PATH eyeMovementsFactor	0.0879551448725795
+2016-09-15 17:12:14.8299	IDEAL PATH SCORE	0.168875330905862
+2016-09-15 17:12:14.8299	TargetDistance	0.289180010557175
+2016-09-15 17:12:14.8309	GAME DoubleClick	(1152.0, 567.0, 0.0)
+2016-09-15 15:12:15.4720	EyeTracking Fixation	Started	1544	610	-63609549135472
+2016-09-15 17:12:15.6140	EyeTracking AOI	NULL
+2016-09-15 15:12:15.5730	EyeTracking Fixation	Ended	1531	611	101
+2016-09-15 17:12:15.6340	EyeTracking AOI	NULL
+2016-09-15 15:12:15.6060	EyeTracking Fixation	Started	1403	385	-63609549135606
+2016-09-15 17:12:15.7470	EyeTracking AOI	NULL
+2016-09-15 15:12:15.7730	EyeTracking Fixation	Ended	1397	373	167
+2016-09-15 17:12:15.8290	EyeTracking AOI	NULL
+2016-09-15 15:12:15.7890	EyeTracking Fixation	Started	1545	425	-63609549135789
+2016-09-15 17:12:15.9350	EyeTracking AOI	NULL
+2016-09-15 15:12:15.9720	EyeTracking Fixation	Ended	1530	418	183
+2016-09-15 17:12:16.0300	EyeTracking AOI	NULL
+2016-09-15 15:12:16.0230	EyeTracking Fixation	Started	847	193	-63609549136023
+2016-09-15 17:12:16.1640	EyeTracking AOI	NULL
+2016-09-15 15:12:16.2890	EyeTracking Fixation	Ended	833	190	266
+2016-09-15 17:12:16.3480	EyeTracking AOI	NULL
+2016-09-15 15:12:16.4770	EyeTracking Fixation	Started	686	782	-63609549136477
+2016-09-15 17:12:16.6141	EyeTracking AOI	NULL
+2016-09-15 15:12:16.5740	EyeTracking Fixation	Ended	694	784	97
+2016-09-15 17:12:16.6331	EyeTracking AOI	NULL
+2016-09-15 15:12:16.6560	EyeTracking Fixation	Started	661	987	-63609549136656
+2016-09-15 17:12:16.7981	EyeTracking AOI	NULL
+2016-09-15 15:12:16.7560	EyeTracking Fixation	Ended	654	983	100
+2016-09-15 17:12:16.8151	EyeTracking AOI	NULL
+2016-09-15 15:12:16.9410	EyeTracking Fixation	Started	657	965	-63609549136941
+2016-09-15 17:12:17.0821	EyeTracking AOI	NULL
+2016-09-15 15:12:17.0400	EyeTracking Fixation	Ended	656	971	99
+2016-09-15 17:12:17.1001	EyeTracking AOI	NULL
+2016-09-15 15:12:17.2070	EyeTracking Fixation	Started	706	844	-63609549137207
+2016-09-15 17:12:17.3491	EyeTracking AOI	NULL
+2016-09-15 15:12:17.4060	EyeTracking Fixation	Ended	711	848	199
+2016-09-15 17:12:17.4661	EyeTracking AOI	NULL
+2016-09-15 15:12:17.5050	EyeTracking Fixation	Started	702	789	-63609549137505
+2016-09-15 17:12:17.6492	EyeTracking AOI	NULL
+2016-09-15 15:12:17.6420	EyeTracking Fixation	Ended	704	774	137
+2016-09-15 17:12:17.6992	EyeTracking AOI	NULL
+2016-09-15 17:12:17.7142	GAME Move	(0.6, 0.0, -0.4)
+2016-09-15 17:12:17.7142	IDEAL PATH Gaze Factor	0.0133799956718411	=	0.0350173027080094	*	0.382096696122194	(none)	2016-09-15 15:12:15.4720
+2016-09-15 17:12:17.7142	IDEAL PATH Gaze Factor	0.00817050126853021	=	0.0578998965568076	*	0.141114263658724	(none)	2016-09-15 15:12:15.6060
+2016-09-15 17:12:17.7142	IDEAL PATH Gaze Factor	0.0147597018111356	=	0.0634471920353041	*	0.232629708859658	(none)	2016-09-15 15:12:15.7890
+2016-09-15 17:12:17.7142	IDEAL PATH Gaze Factor	-0.0279599448375781	=	0.0922237873300049	*	-0.303174979547618	(none)	2016-09-15 15:12:16.0230
+2016-09-15 17:12:17.7152	IDEAL PATH Gaze Factor	-0.00450078065009442	=	0.0336188218266562	*	-0.133876810832371	(none)	2016-09-15 15:12:16.4770
+2016-09-15 17:12:17.7152	IDEAL PATH Gaze Factor	-0.00431404523178723	=	0.0346585792027383	*	-0.124472650957555	(none)	2016-09-15 15:12:16.6560
+2016-09-15 17:12:17.7152	IDEAL PATH Gaze Factor	-0.00427493757539785	=	0.0343119934107109	*	-0.124590184085993	(none)	2016-09-15 15:12:16.9410
+2016-09-15 17:12:17.7152	IDEAL PATH Gaze Factor	-0.00706409147931893	=	0.0689705726134492	*	-0.102421818634306	(none)	2016-09-15 15:12:17.2070
+2016-09-15 17:12:17.7152	IDEAL PATH Gaze Factor	-0.0060985585886704	=	0.0474822535077515	*	-0.128438693156693	(none)	2016-09-15 15:12:17.5050
+2016-09-15 17:12:17.7152	IDEAL PATH moveDistanceFactor	-0.19998031652081
+2016-09-15 17:12:17.7152	IDEAL PATH eyeMovementsFactor	-0.01790215961134
+2016-09-15 17:12:17.7152	IDEAL PATH SCORE	-0.154460777293442
+2016-09-15 17:12:17.7162	TargetDistance	0.32961705327034
+2016-09-15 17:12:17.7162	GAME DoubleClick	(703.0, 325.0, 0.0)
+2016-09-15 15:12:17.6750	EyeTracking Fixation	Started	703	779	-63609549137675
+2016-09-15 17:12:17.8152	EyeTracking AOI	NULL
+2016-09-15 15:12:17.8380	EyeTracking Fixation	Ended	697	767	163
+2016-09-15 17:12:17.9012	EyeTracking AOI	NULL
+2016-09-15 15:12:17.9740	EyeTracking Fixation	Started	839	849	-63609549137974
+2016-09-15 17:12:18.1182	EyeTracking AOI	NULL
+2016-09-15 15:12:18.0740	EyeTracking Fixation	Ended	841	829	100
+2016-09-15 17:12:18.1332	EyeTracking AOI	NULL
+2016-09-15 15:12:18.1540	EyeTracking Fixation	Started	733	665	-63609549138154
+2016-09-15 17:12:18.3002	EyeTracking AOI	NULL
+2016-09-15 15:12:18.3560	EyeTracking Fixation	Ended	737	667	202
+2016-09-15 17:12:18.4162	EyeTracking AOI	NULL
+2016-09-15 15:12:18.5550	EyeTracking Fixation	Started	776	607	-63609549138555
+2016-09-15 17:12:18.6893	EyeTracking AOI	NULL
+2016-09-15 15:12:18.7710	EyeTracking Fixation	Ended	781	619	216
+2016-09-15 17:12:19.3043	EyeTracking AOI	NULL
+2016-09-15 15:12:19.2550	EyeTracking Fixation	Started	923	1109	-63609549139255
+2016-09-15 17:12:19.4023	EyeTracking AOI	NULL
+2016-09-15 15:12:19.3870	EyeTracking Fixation	Ended	913	1110	132
+2016-09-15 17:12:19.4363	EyeTracking AOI	NULL
+2016-09-15 15:12:19.4210	EyeTracking Fixation	Started	880	1001	-63609549139421
+2016-09-15 17:12:19.5693	EyeTracking AOI	NULL
+2016-09-15 15:12:19.5370	EyeTracking Fixation	Ended	886	1007	116
+2016-09-15 17:12:19.6014	EyeTracking AOI	NULL
+2016-09-15 17:12:19.6474	GAME Move	(0.6, 0.0, -0.4)
+2016-09-15 17:12:19.6474	IDEAL PATH Gaze Factor	-0.0123250250678446	=	0.0844037812686882	*	-0.146024560542015	(none)	2016-09-15 15:12:17.6750
+2016-09-15 17:12:19.6474	IDEAL PATH Gaze Factor	-0.000408127414166712	=	0.0517814609010357	*	-0.00788172846159596	(none)	2016-09-15 15:12:17.9740
+2016-09-15 17:12:19.6474	IDEAL PATH Gaze Factor	-0.0152867813403864	=	0.104598551020092	*	-0.146147161612688	(none)	2016-09-15 15:12:18.1540
+2016-09-15 17:12:19.6474	IDEAL PATH Gaze Factor	-0.0144786956488903	=	0.111847955546237	*	-0.12944980154693	(none)	2016-09-15 15:12:18.5550
+2016-09-15 17:12:19.6474	IDEAL PATH Gaze Factor	0.00730948275757315	=	0.0683515283893672	*	0.106939565651472	(none)	2016-09-15 15:12:19.2550
+2016-09-15 17:12:19.6474	IDEAL PATH Gaze Factor	0.00425635524674196	=	0.0600664946452015	*	0.070860723134973	(none)	2016-09-15 15:12:19.4210
+2016-09-15 17:12:19.6474	IDEAL PATH moveDistanceFactor	-0.0797587667010128
+2016-09-15 17:12:19.6474	IDEAL PATH eyeMovementsFactor	-0.0309327914669729
+2016-09-15 17:12:19.6474	IDEAL PATH SCORE	-0.0675522728925028
+2016-09-15 17:12:19.6484	TargetDistance	0.348526149988174
+2016-09-15 17:12:19.6484	GAME DoubleClick	(924.0, 72.0, 0.0)
+2016-09-15 15:12:19.6200	EyeTracking Fixation	Started	773	709	-63609549139620
+2016-09-15 17:12:19.7524	EyeTracking AOI	NULL
+2016-09-15 15:12:19.8030	EyeTracking Fixation	Ended	766	690	183
+2016-09-15 17:12:19.8634	EyeTracking AOI	NULL
+2016-09-15 15:12:19.8170	EyeTracking Fixation	Started	750	614	-63609549139817
+2016-09-15 17:12:19.9514	EyeTracking AOI	NULL
+2016-09-15 15:12:20.0030	EyeTracking Fixation	Ended	748	618	186
+2016-09-15 17:12:20.0704	EyeTracking AOI	NULL
+2016-09-15 15:12:20.0200	EyeTracking Fixation	Started	740	601	-63609549140020
+2016-09-15 17:12:20.1694	EyeTracking AOI	NULL
+2016-09-15 15:12:20.1360	EyeTracking Fixation	Ended	736	601	116
+2016-09-15 17:12:20.2024	EyeTracking AOI	NULL
+2016-09-15 15:12:20.3030	EyeTracking Fixation	Started	917	636	-63609549140303
+2016-09-15 15:12:20.4040	EyeTracking Fixation	Ended	905	633	101
+2016-09-15 17:12:20.4514	EyeTracking AOI	NULL
+2016-09-15 17:12:20.4714	EyeTracking AOI	NULL
+2016-09-15 15:12:21.6200	EyeTracking Fixation	Started	532	488	-63609549141620
+2016-09-15 17:12:21.7536	EyeTracking AOI	NULL
+2016-09-15 15:12:21.7840	EyeTracking Fixation	Ended	529	481	164
+2016-09-15 17:12:21.8506	EyeTracking AOI	NULL
+2016-09-15 15:12:21.8510	EyeTracking Fixation	Started	532	476	-63609549141851
+2016-09-15 17:12:21.9866	EyeTracking AOI	NULL
+2016-09-15 15:12:22.0180	EyeTracking Fixation	Ended	532	474	167
+2016-09-15 17:12:22.0736	EyeTracking AOI	NULL
+2016-09-15 15:12:22.0700	EyeTracking Fixation	Started	887	847	-63609549142070
+2016-09-15 17:12:22.2056	EyeTracking AOI	NULL
+2016-09-15 15:12:22.1840	EyeTracking Fixation	Ended	882	842	114
+2016-09-15 17:12:22.2376	EyeTracking AOI	NULL
+2016-09-15 15:12:22.2180	EyeTracking Fixation	Started	1355	789	-63609549142218
+2016-09-15 17:12:22.3496	EyeTracking AOI	NULL
+2016-09-15 15:12:22.3350	EyeTracking Fixation	Ended	1335	792	117
+2016-09-15 17:12:22.3866	EyeTracking AOI	NULL
+2016-09-15 15:12:22.3510	EyeTracking Fixation	Started	1540	697	-63609549142351
+2016-09-15 17:12:22.4866	EyeTracking AOI	NULL
+2016-09-15 15:12:22.5000	EyeTracking Fixation	Ended	1559	700	149
+2016-09-15 17:12:22.5506	EyeTracking AOI	NULL
+2016-09-15 15:12:22.6330	EyeTracking Fixation	Started	1020	497	-63609549142633
+2016-09-15 17:12:22.7737	EyeTracking AOI	NULL
+2016-09-15 15:12:22.8830	EyeTracking Fixation	Ended	1024	484	250
+2016-09-15 17:12:22.9537	EyeTracking AOI	NULL
+2016-09-15 15:12:23.0030	EyeTracking Fixation	Started	1449	1140	-63609549143003
+2016-09-15 17:12:23.1367	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:23.1500	EyeTracking Fixation	Ended	1435	1142	147
+2016-09-15 17:12:23.2227	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:23.3680	EyeTracking Fixation	Started	690	707	-63609549143368
+2016-09-15 17:12:23.5057	EyeTracking AOI	NULL
+2016-09-15 15:12:23.4990	EyeTracking Fixation	Ended	686	724	131
+2016-09-15 17:12:23.5617	EyeTracking AOI	NULL
+2016-09-15 15:12:23.8840	EyeTracking Fixation	Started	1376	1102	-63609549143884
+2016-09-15 17:12:24.0218	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:24.0330	EyeTracking Fixation	Ended	1397	1105	149
+2016-09-15 17:12:24.0898	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:24.0910	EyeTracking Fixation	Started	1522	1179	-63609549144091
+2016-09-15 17:12:24.2188	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:24.1820	EyeTracking Fixation	Ended	1521	1180	91
+2016-09-15 17:12:24.2368	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp","definition":{"name":{"en-US":"VirtualAssistantHelp"}}}
+2016-09-15 15:12:24.4150	EyeTracking Fixation	Started	1819	223	-63609549144415
+2016-09-15 17:12:24.5538	EyeTracking AOI	NULL
+2016-09-15 15:12:24.6330	EyeTracking Fixation	Ended	1813	239	218
+2016-09-15 17:12:24.6889	EyeTracking AOI	NULL
+2016-09-15 15:12:25.8990	EyeTracking Fixation	Started	732	563	-63609549145899
+2016-09-15 17:12:26.0410	EyeTracking AOI	NULL
+2016-09-15 15:12:26.0300	EyeTracking Fixation	Ended	730	578	131
+2016-09-15 17:12:26.0900	EyeTracking AOI	NULL
+2016-09-15 17:12:26.1660	GAME Move	(0.6, 0.0, -0.5)
+2016-09-15 17:12:26.1660	IDEAL PATH Gaze Factor	0.0053507172692519	=	0.0280775973346351	*	0.190568915334202	(none)	2016-09-15 15:12:19.6200
+2016-09-15 17:12:26.1660	IDEAL PATH Gaze Factor	0.00401913125901462	=	0.0285378858155308	*	0.140834933778708	(none)	2016-09-15 15:12:19.8170
+2016-09-15 17:12:26.1660	IDEAL PATH Gaze Factor	0.00219514812285113	=	0.0177978212612988	*	0.123338024953901	(none)	2016-09-15 15:12:20.0200
+2016-09-15 17:12:26.1660	IDEAL PATH Gaze Factor	0.00412127992480384	=	0.0154963788568205	*	0.265951159485878	(none)	2016-09-15 15:12:20.3030
+2016-09-15 17:12:26.1660	IDEAL PATH Gaze Factor	0.00397248664519034	=	0.0154963788568205	*	0.256349349863883	(none)	2016-09-15 15:12:20.3030
+2016-09-15 17:12:26.1660	IDEAL PATH Gaze Factor	-0.00218248637509908	=	0.0251624369556293	*	-0.0867358904444595	(none)	2016-09-15 15:12:21.6200
+2016-09-15 17:12:26.1660	IDEAL PATH Gaze Factor	-0.00226041306684685	=	0.0256227254365249	*	-0.0882190722624945	(none)	2016-09-15 15:12:21.8510
+2016-09-15 17:12:26.1660	IDEAL PATH Gaze Factor	0.00608934369290784	=	0.017490962274035	*	0.348142291859343	(none)	2016-09-15 15:12:22.0700
+2016-09-15 17:12:26.1660	IDEAL PATH Gaze Factor	0.0107990457005344	=	0.0179512507549306	*	0.601576227080905	(none)	2016-09-15 15:12:22.2180
+2016-09-15 17:12:26.1660	IDEAL PATH Gaze Factor	0.0127438029695958	=	0.022860994551151	*	0.557447443552019	(none)	2016-09-15 15:12:22.3510
+2016-09-15 17:12:26.1660	IDEAL PATH Gaze Factor	0.00870377074574417	=	0.0383573734079715	*	0.226912584789639	(none)	2016-09-15 15:12:22.6330
+2016-09-15 17:12:26.1660	IDEAL PATH Gaze Factor	-0.0225541355638872	=	0.0225541355638872	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:12:23.0030
+2016-09-15 17:12:26.1660	IDEAL PATH Gaze Factor	0.00293752727350743	=	0.020099263665777	*	0.146150989526504	(none)	2016-09-15 15:12:23.3680
+2016-09-15 17:12:26.1660	IDEAL PATH Gaze Factor	-0.022860994551151	=	0.022860994551151	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:12:23.8840
+2016-09-15 17:12:26.1660	IDEAL PATH Gaze Factor	-0.0139620839205016	=	0.0139620839205016	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/VirtualAssistantHelp)	2016-09-15 15:12:24.0910
+2016-09-15 17:12:26.1670	IDEAL PATH Gaze Factor	0.00382636401040985	=	0.0334476296117511	*	0.114398660079204	(none)	2016-09-15 15:12:24.4150
+2016-09-15 17:12:26.1670	IDEAL PATH Gaze Factor	0.00214537670793726	=	0.0200961800107194	*	0.106755448388346	(none)	2016-09-15 15:12:25.8990
+2016-09-15 17:12:26.1670	IDEAL PATH moveDistanceFactor	-0.451591980056463
+2016-09-15 17:12:26.1670	IDEAL PATH eyeMovementsFactor	0.00308388084426282
+2016-09-15 17:12:26.1670	IDEAL PATH SCORE	-0.337923014831282
+2016-09-15 17:12:26.1680	TargetDistance	0.421564310789108
+2016-09-15 17:12:26.1680	GAME DoubleClick	(578.0, 66.0, 0.0)
+2016-09-15 15:12:26.1320	EyeTracking Fixation	Started	723	566	-63609549146132
+2016-09-15 17:12:26.2740	EyeTracking AOI	NULL
+2016-09-15 15:12:26.2640	EyeTracking Fixation	Ended	735	589	132
+2016-09-15 17:12:26.3290	EyeTracking AOI	NULL
+2016-09-15 15:12:26.2810	EyeTracking Fixation	Started	738	600	-63609549146281
+2016-09-15 17:12:26.4200	EyeTracking AOI	NULL
+2016-09-15 15:12:26.3980	EyeTracking Fixation	Ended	736	588	117
+2016-09-15 17:12:26.4570	EyeTracking AOI	NULL
+2016-09-15 15:12:27.0980	EyeTracking Fixation	Started	319	565	-63609549147098
+2016-09-15 17:12:27.2391	EyeTracking AOI	NULL
+2016-09-15 15:12:27.3150	EyeTracking Fixation	Ended	331	573	217
+2016-09-15 17:12:27.3751	EyeTracking AOI	NULL
+2016-09-15 15:12:27.3970	EyeTracking Fixation	Started	278	899	-63609549147397
+2016-09-15 17:12:27.5361	EyeTracking AOI	NULL
+2016-09-15 15:12:27.5140	EyeTracking Fixation	Ended	285	900	117
+2016-09-15 17:12:27.5741	EyeTracking AOI	NULL
+2016-09-15 15:12:27.7480	EyeTracking Fixation	Started	719	854	-63609549147748
+2016-09-15 17:12:27.8982	EyeTracking AOI	NULL
+2016-09-15 15:12:27.8650	EyeTracking Fixation	Ended	724	844	117
+2016-09-15 17:12:27.9252	EyeTracking AOI	NULL
+2016-09-15 15:12:28.0310	EyeTracking Fixation	Started	1579	746	-63609549148031
+2016-09-15 17:12:28.1722	EyeTracking AOI	NULL
+2016-09-15 15:12:28.1790	EyeTracking Fixation	Ended	1567	744	148
+2016-09-15 17:12:28.2422	EyeTracking AOI	NULL
+2016-09-15 15:12:28.5970	EyeTracking Fixation	Started	1322	422	-63609549148597
+2016-09-15 15:12:28.6960	EyeTracking Fixation	Ended	1324	430	99
+2016-09-15 17:12:28.7423	EyeTracking AOI	NULL
+2016-09-15 17:12:28.7613	EyeTracking AOI	NULL
+2016-09-15 15:12:28.7950	EyeTracking Fixation	Started	1679	415	-63609549148795
+2016-09-15 17:12:28.9563	EyeTracking AOI	NULL
+2016-09-15 15:12:28.9630	EyeTracking Fixation	Ended	1681	402	168
+2016-09-15 17:12:29.0253	EyeTracking AOI	NULL
+2016-09-15 15:12:30.0450	EyeTracking Fixation	Started	1001	856	-63609549150045
+2016-09-15 15:12:30.1460	EyeTracking Fixation	Ended	999	863	101
+2016-09-15 17:12:30.1984	EyeTracking AOI	NULL
+2016-09-15 17:12:30.2104	EyeTracking AOI	NULL
+2016-09-15 15:12:30.1780	EyeTracking Fixation	Started	1004	856	-63609549150178
+2016-09-15 15:12:30.2800	EyeTracking Fixation	Ended	998	860	102
+2016-09-15 17:12:30.3414	EyeTracking AOI	NULL
+2016-09-15 17:12:30.3424	EyeTracking AOI	NULL
+2016-09-15 15:12:30.7950	EyeTracking Fixation	Started	600	649	-63609549150795
+2016-09-15 17:12:30.9285	EyeTracking AOI	NULL
+2016-09-15 15:12:30.8960	EyeTracking Fixation	Ended	599	639	101
+2016-09-15 17:12:30.9545	EyeTracking AOI	NULL
+2016-09-15 15:12:30.9100	EyeTracking Fixation	Started	604	661	-63609549150910
+2016-09-15 17:12:31.0445	EyeTracking AOI	NULL
+2016-09-15 15:12:31.0120	EyeTracking Fixation	Ended	601	647	102
+2016-09-15 17:12:31.0635	EyeTracking AOI	NULL
+2016-09-15 15:12:31.3630	EyeTracking Fixation	Started	351	801	-63609549151363
+2016-09-15 17:12:31.4965	EyeTracking AOI	NULL
+2016-09-15 15:12:31.4610	EyeTracking Fixation	Ended	348	786	98
+2016-09-15 17:12:31.5115	EyeTracking AOI	NULL
+2016-09-15 17:12:31.7536	GAME Move	(0.6, 0.0, -0.6)
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	0.00179893332551224	=	0.0236323726624652	*	0.0761215706609707	(none)	2016-09-15 15:12:26.1320
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	0.0015987011781192	=	0.0209468757690032	*	0.0763217004649891	(none)	2016-09-15 15:12:26.2810
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	-0.00922908768568074	=	0.0388501883920829	*	-0.237555802626725	(none)	2016-09-15 15:12:27.0980
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	-0.00371898831094683	=	0.0209468757690032	*	-0.177543818560767	(none)	2016-09-15 15:12:27.3970
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	0.00372689366089218	=	0.0209468757690032	*	0.177921218514465	(none)	2016-09-15 15:12:27.7480
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	0.0158166654666057	=	0.0264969026821579	*	0.596925069180107	(none)	2016-09-15 15:12:28.0310
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	0.00487205970032811	=	0.0177242794968489	*	0.274880550218941	(none)	2016-09-15 15:12:28.5970
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	0.00500075210829612	=	0.0177242794968489	*	0.282141347928144	(none)	2016-09-15 15:12:28.5970
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	0.00871947774734055	=	0.0300775652067739	*	0.28989972051916	(none)	2016-09-15 15:12:28.7950
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	0.00727175692893613	=	0.0180823457493105	*	0.402146769548051	(none)	2016-09-15 15:12:30.0450
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	0.00730048615788789	=	0.0180823457493105	*	0.403735569438842	(none)	2016-09-15 15:12:30.0450
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	0.00738540193281684	=	0.0182613788755413	*	0.40442739746825	(none)	2016-09-15 15:12:30.1780
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	0.00733457950943925	=	0.0182613788755413	*	0.40164434238112	(none)	2016-09-15 15:12:30.1780
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	-2.18688813276911E-05	=	0.0180823457493105	*	-0.0012094051087661	(none)	2016-09-15 15:12:30.7950
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	6.95662687139432E-05	=	0.0182613788755413	*	0.00380947513263186	(none)	2016-09-15 15:12:30.9100
+2016-09-15 17:12:31.7536	IDEAL PATH Gaze Factor	-0.00265480515897316	=	0.0175452463706181	*	-0.15131193389333	(none)	2016-09-15 15:12:31.3630
+2016-09-15 17:12:31.7536	IDEAL PATH moveDistanceFactor	-0.437396091974586
+2016-09-15 17:12:31.7536	IDEAL PATH eyeMovementsFactor	0.0552705239479597
+2016-09-15 17:12:31.7536	IDEAL PATH SCORE	-0.31422943799395
+2016-09-15 17:12:31.7546	TargetDistance	0.487724304199219
+2016-09-15 17:12:31.7546	GAME DoubleClick	(649.0, 174.0, 0.0)
+2016-09-15 15:12:32.2950	EyeTracking Fixation	Started	718	691	-63609549152295
+2016-09-15 17:12:32.4306	EyeTracking AOI	NULL
+2016-09-15 15:12:32.3960	EyeTracking Fixation	Ended	721	675	101
+2016-09-15 17:12:32.4616	EyeTracking AOI	NULL
+2016-09-15 15:12:32.6630	EyeTracking Fixation	Started	803	374	-63609549152663
+2016-09-15 17:12:32.7957	EyeTracking AOI	NULL
+2016-09-15 15:12:32.7780	EyeTracking Fixation	Ended	801	375	115
+2016-09-15 17:12:32.8297	EyeTracking AOI	NULL
+2016-09-15 15:12:32.7940	EyeTracking Fixation	Started	781	407	-63609549152794
+2016-09-15 17:12:32.9297	EyeTracking AOI	NULL
+2016-09-15 15:12:33.0770	EyeTracking Fixation	Ended	775	421	283
+2016-09-15 17:12:33.1307	EyeTracking AOI	NULL
+2016-09-15 15:12:33.2260	EyeTracking Fixation	Started	203	178	-63609549153226
+2016-09-15 17:12:33.3637	EyeTracking AOI	NULL
+2016-09-15 15:12:33.3910	EyeTracking Fixation	Ended	193	160	165
+2016-09-15 17:12:33.4477	EyeTracking AOI	NULL
+2016-09-15 17:12:33.4957	GAME HELP	VirtualAssistant2D activated	In this mission you have to find a tank of type T42. The sensor took a shot from Karlsruhe (Germany)
+2016-09-15 15:12:33.4430	EyeTracking Fixation	Started	810	414	-63609549153443
+2016-09-15 17:12:33.5837	EyeTracking AOI	NULL
+2016-09-15 15:12:33.6100	EyeTracking Fixation	Ended	816	417	167
+2016-09-15 17:12:33.6638	EyeTracking AOI	NULL
+2016-09-15 15:12:33.6430	EyeTracking Fixation	Started	813	420	-63609549153643
+2016-09-15 17:12:33.7848	EyeTracking AOI	NULL
+2016-09-15 15:12:33.8250	EyeTracking Fixation	Ended	815	421	182
+2016-09-15 17:12:33.8848	EyeTracking AOI	NULL
+2016-09-15 15:12:33.8920	EyeTracking Fixation	Started	1398	908	-63609549153892
+2016-09-15 17:12:34.0308	EyeTracking AOI	NULL
+2016-09-15 15:12:33.9920	EyeTracking Fixation	Ended	1393	906	100
+2016-09-15 17:12:34.0488	EyeTracking AOI	NULL
+2016-09-15 17:12:34.1738	GAME HELP	User requested help
+2016-09-15 17:12:34.1788	GAME HELP	VirtualAssistant2D activated	Your target is 4.84km away and in cardinal direction NORTH-EAST
+2016-09-15 15:12:34.1400	EyeTracking Fixation	Started	1506	956	-63609549154140
+2016-09-15 17:12:34.2828	EyeTracking AOI	NULL
+2016-09-15 15:12:34.2740	EyeTracking Fixation	Ended	1493	956	134
+2016-09-15 17:12:34.3338	EyeTracking AOI	NULL
+2016-09-15 15:12:34.5080	EyeTracking Fixation	Started	1513	875	-63609549154508
+2016-09-15 17:12:34.6479	EyeTracking AOI	NULL
+2016-09-15 15:12:34.6410	EyeTracking Fixation	Ended	1504	890	133
+2016-09-15 17:12:34.6999	EyeTracking AOI	NULL
+2016-09-15 15:12:34.8090	EyeTracking Fixation	Started	1556	901	-63609549154809
+2016-09-15 15:12:34.9080	EyeTracking Fixation	Ended	1565	902	99
+2016-09-15 17:12:34.9649	EyeTracking AOI	NULL
+2016-09-15 17:12:34.9659	EyeTracking AOI	NULL
+2016-09-15 15:12:35.9070	EyeTracking Fixation	Started	333	70	-63609549155907
+2016-09-15 17:12:36.0490	EyeTracking AOI	NULL
+2016-09-15 15:12:36.0240	EyeTracking Fixation	Ended	321	70	117
+2016-09-15 17:12:36.0840	EyeTracking AOI	NULL
+2016-09-15 15:12:36.0400	EyeTracking Fixation	Started	308	68	-63609549156040
+2016-09-15 17:12:36.1810	EyeTracking AOI	NULL
+2016-09-15 15:12:36.1580	EyeTracking Fixation	Ended	306	74	118
+2016-09-15 17:12:36.2150	EyeTracking AOI	NULL
+2016-09-15 15:12:36.1910	EyeTracking Fixation	Started	131	152	-63609549156191
+2016-09-15 17:12:36.3490	EyeTracking AOI	NULL
+2016-09-15 15:12:36.6090	EyeTracking Fixation	Ended	125	164	418
+2016-09-15 17:12:36.6661	EyeTracking AOI	NULL
+2016-09-15 15:12:36.6250	EyeTracking Fixation	Started	109	165	-63609549156625
+2016-09-15 17:12:36.7651	EyeTracking AOI	NULL
+2016-09-15 15:12:36.8560	EyeTracking Fixation	Ended	117	163	231
+2016-09-15 17:12:36.9161	EyeTracking AOI	NULL
+2016-09-15 15:12:36.9100	EyeTracking Fixation	Started	31	96	-63609549156910
+2016-09-15 17:12:37.0501	EyeTracking AOI	NULL
+2016-09-15 15:12:37.0750	EyeTracking Fixation	Ended	39	116	165
+2016-09-15 17:12:37.1481	EyeTracking AOI	NULL
+2016-09-15 15:12:37.0910	EyeTracking Fixation	Started	-27	64	-63609549157091
+2016-09-15 17:12:37.2321	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:12:37.3060	EyeTracking Fixation	Ended	-4	66	215
+2016-09-15 17:12:37.3711	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:12:37.3250	EyeTracking Fixation	Started	-2	79	-63609549157325
+2016-09-15 17:12:37.4661	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 17:12:37.6132	GAME Move	(0.5, 0.0, -0.5)
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	0.00157157421625185	=	0.0172396553448103	*	0.0911604196730617	(none)	2016-09-15 15:12:32.2950
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	-0.000355275585851232	=	0.0196293105411207	*	-0.0180992391509105	(none)	2016-09-15 15:12:32.6630
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	-0.000292279709429371	=	0.0483051728968448	*	-0.00605069171480932	(none)	2016-09-15 15:12:32.7940
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	-0.0154809194443191	=	0.0281637933850862	*	-0.549674514105647	(none)	2016-09-15 15:12:33.2260
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	0.000500891683231737	=	0.0285051726988448	*	0.0175719575013147	(none)	2016-09-15 15:12:33.4430
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	0.0006035144023691	=	0.0310655175520345	*	0.0194271478451379	(none)	2016-09-15 15:12:33.6430
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	0.011596373796375	=	0.017068965687931	*	0.679383508549349	(none)	2016-09-15 15:12:33.8920
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	0.0174409173230016	=	0.0228724140218276	*	0.762530675876951	(none)	2016-09-15 15:12:34.1400
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	0.0161583152739817	=	0.0227017243649483	*	0.711765988090767	(none)	2016-09-15 15:12:34.5080
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	0.0123735597542706	=	0.0168982760310517	*	0.732237994664859	(none)	2016-09-15 15:12:34.8090
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	0.01240849292089	=	0.0168982760310517	*	0.734305256825521	(none)	2016-09-15 15:12:34.8090
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	-0.0102137711968477	=	0.0199706898548793	*	-0.511438076053854	(none)	2016-09-15 15:12:35.9070
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	-0.010455328127226	=	0.0201413795117586	*	-0.519096922885652	(none)	2016-09-15 15:12:36.0400
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	-0.0425533333324605	=	0.0713482765755517	*	-0.596417115799569	(none)	2016-09-15 15:12:36.1910
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	-0.0237647286084553	=	0.0394293107391207	*	-0.602717322798052	(none)	2016-09-15 15:12:36.6250
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	-0.0192356309001286	=	0.0281637933850862	*	-0.682991479063845	(none)	2016-09-15 15:12:36.9100
+2016-09-15 17:12:37.6132	IDEAL PATH Gaze Factor	-0.0366982762290517	=	0.0366982762290517	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:12:37.0910
+2016-09-15 17:12:37.6142	IDEAL PATH moveDistanceFactor	0.0847222098343695
+2016-09-15 17:12:37.6142	IDEAL PATH eyeMovementsFactor	-0.086395903763398
+2016-09-15 17:12:37.6142	IDEAL PATH SCORE	0.0419426814349276
+2016-09-15 17:12:37.6152	TargetDistance	0.474985420703888
+2016-09-15 17:12:37.6152	GAME DoubleClick	(0.0, 1096.0, 0.0)
+2016-09-15 15:12:37.6740	EyeTracking Fixation	Ended	-3	73	349
+2016-09-15 17:12:37.7472	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:12:37.7240	EyeTracking Fixation	Started	15	81	-63609549157724
+2016-09-15 17:12:37.8692	EyeTracking AOI	NULL
+2016-09-15 15:12:37.8390	EyeTracking Fixation	Ended	15	79	115
+2016-09-15 17:12:37.9022	EyeTracking AOI	NULL
+2016-09-15 15:12:38.9900	EyeTracking Fixation	Started	411	445	-63609549158990
+2016-09-15 17:12:39.1363	EyeTracking AOI	NULL
+2016-09-15 15:12:39.1070	EyeTracking Fixation	Ended	430	452	117
+2016-09-15 17:12:39.1703	EyeTracking AOI	NULL
+2016-09-15 15:12:39.1240	EyeTracking Fixation	Started	453	453	-63609549159124
+2016-09-15 17:12:39.2683	EyeTracking AOI	NULL
+2016-09-15 15:12:39.2230	EyeTracking Fixation	Ended	453	460	99
+2016-09-15 17:12:39.2863	EyeTracking AOI	NULL
+2016-09-15 15:12:39.4710	EyeTracking Fixation	Started	466	442	-63609549159471
+2016-09-15 17:12:39.6184	EyeTracking AOI	NULL
+2016-09-15 15:12:39.8060	EyeTracking Fixation	Ended	478	445	335
+2016-09-15 17:12:39.8704	EyeTracking AOI	NULL
+2016-09-15 15:12:39.9060	EyeTracking Fixation	Started	315	744	-63609549159906
+2016-09-15 17:12:40.0524	EyeTracking AOI	NULL
+2016-09-15 15:12:40.0380	EyeTracking Fixation	Ended	315	729	132
+2016-09-15 17:12:40.1004	GAME Move	(0.5, 0.0, -0.4)
+2016-09-15 17:12:40.1004	IDEAL PATH Gaze Factor	-0.140428613074306	=	0.140428613074306	*	-1	(http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow)	2016-09-15 15:12:37.3250
+2016-09-15 17:12:40.1004	IDEAL PATH Gaze Factor	-0.0440739422012729	=	0.0462730386921066	*	-0.952475641259131	(none)	2016-09-15 15:12:37.7240
+2016-09-15 17:12:40.1014	IDEAL PATH Gaze Factor	-0.0222448664826068	=	0.0470588500281106	*	-0.472703146577505	(none)	2016-09-15 15:12:38.9900
+2016-09-15 17:12:40.1014	IDEAL PATH Gaze Factor	-0.0179734413504335	=	0.0398190269468628	*	-0.451378216108056	(none)	2016-09-15 15:12:39.1240
+2016-09-15 17:12:40.1014	IDEAL PATH Gaze Factor	-0.0589888352921754	=	0.134741151789889	*	-0.43779375868896	(none)	2016-09-15 15:12:39.4710
+2016-09-15 17:12:40.1014	IDEAL PATH moveDistanceFactor	-0.0808695654753676
+2016-09-15 17:12:40.1014	IDEAL PATH eyeMovementsFactor	-0.283709698400795
+2016-09-15 17:12:40.1014	IDEAL PATH SCORE	-0.131579598706724
+2016-09-15 17:12:40.1014	TargetDistance	0.491232961416245
+2016-09-15 17:12:40.1024	GAME DoubleClick	(499.0, 742.0, 0.0)
+2016-09-15 17:12:40.1034	EyeTracking AOI	NULL
+2016-09-15 17:12:40.1854	GAME HELP	VirtualAssistant2D deactivated
+2016-09-15 15:12:40.1720	EyeTracking Fixation	Started	546	601	-63609549160172
+2016-09-15 17:12:40.3204	EyeTracking AOI	NULL
+2016-09-15 15:12:40.2890	EyeTracking Fixation	Ended	546	600	117
+2016-09-15 17:12:40.3664	EyeTracking AOI	NULL
+2016-09-15 15:12:40.6390	EyeTracking Fixation	Started	557	851	-63609549160639
+2016-09-15 17:12:40.7875	EyeTracking AOI	NULL
+2016-09-15 15:12:40.7900	EyeTracking Fixation	Ended	572	859	151
+2016-09-15 17:12:40.8535	EyeTracking AOI	NULL
+2016-09-15 15:12:41.1060	EyeTracking Fixation	Started	278	164	-63609549161106
+2016-09-15 17:12:41.2535	EyeTracking AOI	NULL
+2016-09-15 15:12:41.2720	EyeTracking Fixation	Ended	268	162	166
+2016-09-15 17:12:41.3205	EyeTracking AOI	NULL
+2016-09-15 15:12:41.3050	EyeTracking Fixation	Started	109	112	-63609549161305
+2016-09-15 17:12:41.4375	EyeTracking AOI	NULL
+2016-09-15 15:12:41.4360	EyeTracking Fixation	Ended	99	103	131
+2016-09-15 17:12:41.5055	EyeTracking AOI	NULL
+2016-09-15 15:12:41.4880	EyeTracking Fixation	Started	366	217	-63609549161488
+2016-09-15 15:12:41.5880	EyeTracking Fixation	Ended	355	222	100
+2016-09-15 17:12:41.6366	EyeTracking AOI	NULL
+2016-09-15 17:12:41.6386	EyeTracking AOI	NULL
+2016-09-15 15:12:41.7350	EyeTracking Fixation	Started	655	593	-63609549161735
+2016-09-15 17:12:41.8716	EyeTracking AOI	NULL
+2016-09-15 15:12:41.8380	EyeTracking Fixation	Ended	651	594	103
+2016-09-15 17:12:41.8866	EyeTracking AOI	NULL
+2016-09-15 15:12:41.9040	EyeTracking Fixation	Started	326	579	-63609549161904
+2016-09-15 17:12:42.0386	EyeTracking AOI	NULL
+2016-09-15 15:12:42.1060	EyeTracking Fixation	Ended	321	568	202
+2016-09-15 17:12:42.1656	EyeTracking AOI	NULL
+2016-09-15 15:12:42.1560	EyeTracking Fixation	Started	679	516	-63609549162156
+2016-09-15 17:12:42.2876	EyeTracking AOI	NULL
+2016-09-15 15:12:42.2730	EyeTracking Fixation	Ended	675	532	117
+2016-09-15 17:12:42.3216	EyeTracking AOI	NULL
+2016-09-15 15:12:42.5050	EyeTracking Fixation	Started	130	588	-63609549162505
+2016-09-15 17:12:42.6397	EyeTracking AOI	NULL
+2016-09-15 15:12:42.8040	EyeTracking Fixation	Ended	119	591	299
+2016-09-15 17:12:42.8547	EyeTracking AOI	NULL
+2016-09-15 15:12:42.9060	EyeTracking Fixation	Started	617	555	-63609549162906
+2016-09-15 17:12:43.0387	EyeTracking AOI	NULL
+2016-09-15 15:12:43.0870	EyeTracking Fixation	Ended	610	562	181
+2016-09-15 17:12:43.1537	EyeTracking AOI	NULL
+2016-09-15 15:12:43.1210	EyeTracking Fixation	Started	581	556	-63609549163121
+2016-09-15 17:12:43.2567	EyeTracking AOI	NULL
+2016-09-15 15:12:43.2200	EyeTracking Fixation	Ended	585	558	99
+2016-09-15 17:12:43.2747	EyeTracking AOI	NULL
+2016-09-15 15:12:43.2380	EyeTracking Fixation	Started	580	537	-63609549163238
+2016-09-15 17:12:43.3737	EyeTracking AOI	NULL
+2016-09-15 15:12:43.3380	EyeTracking Fixation	Ended	583	548	100
+2016-09-15 17:12:43.3887	EyeTracking AOI	NULL
+2016-09-15 15:12:43.3710	EyeTracking Fixation	Started	51	586	-63609549163371
+2016-09-15 17:12:43.5047	EyeTracking AOI	NULL
+2016-09-15 15:12:43.5870	EyeTracking Fixation	Ended	50	569	216
+2016-09-15 17:12:43.6388	EyeTracking AOI	NULL
+2016-09-15 15:12:43.6030	EyeTracking Fixation	Started	37	569	-63609549163603
+2016-09-15 17:12:43.7568	EyeTracking AOI	NULL
+2016-09-15 17:12:43.9868	GAME Move	(0.3, 0.0, -0.4)
+2016-09-15 17:12:43.9878	IDEAL PATH Gaze Factor	-0.0162192623874623	=	0.0339646941121637	*	-0.47753300335638	(none)	2016-09-15 15:12:39.9060
+2016-09-15 17:12:43.9878	IDEAL PATH Gaze Factor	-0.00976523596578105	=	0.030105069781236	*	-0.324371809689927	(none)	2016-09-15 15:12:40.1720
+2016-09-15 17:12:43.9878	IDEAL PATH Gaze Factor	-0.00886789932653777	=	0.0388535515980054	*	-0.22823909171261	(none)	2016-09-15 15:12:40.6390
+2016-09-15 17:12:43.9878	IDEAL PATH Gaze Factor	-0.030899274028396	=	0.0427131759289331	*	-0.72341317067611	(none)	2016-09-15 15:12:41.1060
+2016-09-15 17:12:43.9878	IDEAL PATH Gaze Factor	-0.0295908529008678	=	0.0337073858234352	*	-0.877874453268774	(none)	2016-09-15 15:12:41.3050
+2016-09-15 17:12:43.9878	IDEAL PATH Gaze Factor	-0.0160631062894477	=	0.0257308288728513	*	-0.62427473163898	(none)	2016-09-15 15:12:41.4880
+2016-09-15 17:12:43.9878	IDEAL PATH Gaze Factor	-0.0162142759124109	=	0.0257308288728513	*	-0.630149770632482	(none)	2016-09-15 15:12:41.4880
+2016-09-15 17:12:43.9878	IDEAL PATH Gaze Factor	-0.00641905212179964	=	0.0265027537390368	*	-0.242203213485126	(none)	2016-09-15 15:12:41.7350
+2016-09-15 17:12:43.9878	IDEAL PATH Gaze Factor	-0.0269638208116226	=	0.0519762743231596	*	-0.518771711954122	(none)	2016-09-15 15:12:41.9040
+2016-09-15 17:12:43.9878	IDEAL PATH Gaze Factor	-0.00746748469280324	=	0.030105069781236	*	-0.248047413510983	(none)	2016-09-15 15:12:42.1560
+2016-09-15 17:12:43.9878	IDEAL PATH Gaze Factor	-0.0522675643278912	=	0.0769351783298253	*	-0.67937145870797	(none)	2016-09-15 15:12:42.5050
+2016-09-15 17:12:43.9878	IDEAL PATH Gaze Factor	-0.0133712119304	=	0.0465728002598608	*	-0.28710345643365	(none)	2016-09-15 15:12:42.9060
+2016-09-15 17:12:43.9878	IDEAL PATH Gaze Factor	-0.00785910535341621	=	0.0254735205841228	*	-0.308520580320361	(none)	2016-09-15 15:12:43.1210
+2016-09-15 17:12:43.9878	IDEAL PATH Gaze Factor	-0.00807846747260648	=	0.0257308288728513	*	-0.313960638910086	(none)	2016-09-15 15:12:43.2380
+2016-09-15 17:12:43.9878	IDEAL PATH Gaze Factor	-0.0413135194600361	=	0.0555785903653587	*	-0.743335143774825	(none)	2016-09-15 15:12:43.3710
+2016-09-15 17:12:43.9878	IDEAL PATH moveDistanceFactor	-0.410386464483551
+2016-09-15 17:12:43.9888	IDEAL PATH eyeMovementsFactor	-0.291360132981479
+2016-09-15 17:12:43.9888	IDEAL PATH SCORE	-0.380629881608033
+2016-09-15 17:12:43.9908	TargetDistance	0.578409254550934
+2016-09-15 17:12:43.9908	GAME DoubleClick	(23.0, 653.0, 0.0)
+2016-09-15 15:12:44.1380	EyeTracking Fixation	Ended	46	577	535
+2016-09-15 17:12:44.1908	EyeTracking AOI	NULL
+2016-09-15 15:12:44.1700	EyeTracking Fixation	Started	77	588	-63609549164170
+2016-09-15 17:12:44.3098	EyeTracking AOI	NULL
+2016-09-15 15:12:44.2860	EyeTracking Fixation	Ended	91	589	116
+2016-09-15 17:12:44.3558	EyeTracking AOI	NULL
+2016-09-15 15:12:44.9700	EyeTracking Fixation	Started	368	101	-63609549164970
+2016-09-15 17:12:45.1079	EyeTracking AOI	NULL
+2016-09-15 15:12:45.0700	EyeTracking Fixation	Ended	390	105	100
+2016-09-15 17:12:45.1239	EyeTracking AOI	NULL
+2016-09-15 15:12:45.1030	EyeTracking Fixation	Started	152	131	-63609549165103
+2016-09-15 17:12:45.2419	EyeTracking AOI	NULL
+2016-09-15 15:12:45.2020	EyeTracking Fixation	Ended	160	139	99
+2016-09-15 17:12:45.2619	EyeTracking AOI	NULL
+2016-09-15 15:12:45.2530	EyeTracking Fixation	Started	207	641	-63609549165253
+2016-09-15 17:12:45.3909	EyeTracking AOI	NULL
+2016-09-15 15:12:45.4200	EyeTracking Fixation	Ended	222	655	167
+2016-09-15 17:12:45.4739	EyeTracking AOI	NULL
+2016-09-15 15:12:45.4350	EyeTracking Fixation	Started	226	573	-63609549165435
+2016-09-15 17:12:45.5749	EyeTracking AOI	NULL
+2016-09-15 15:12:45.6360	EyeTracking Fixation	Ended	230	552	201
+2016-09-15 17:12:45.6900	EyeTracking AOI	NULL
+2016-09-15 15:12:46.0190	EyeTracking Fixation	Started	215	534	-63609549166019
+2016-09-15 17:12:46.1540	EyeTracking AOI	NULL
+2016-09-15 15:12:46.2020	EyeTracking Fixation	Ended	213	557	183
+2016-09-15 17:12:46.2570	EyeTracking AOI	NULL
+2016-09-15 15:12:46.2170	EyeTracking Fixation	Started	216	584	-63609549166217
+2016-09-15 17:12:46.3550	EyeTracking AOI	NULL
+2016-09-15 17:12:46.4060	GAME Move	(0.2, 0.0, -0.4)
+2016-09-15 17:12:46.4060	IDEAL PATH Gaze Factor	-0.16490111261897	=	0.221509940103298	*	-0.744441141296278	(none)	2016-09-15 15:12:43.6030
+2016-09-15 17:12:46.4060	IDEAL PATH Gaze Factor	-0.0337821064541542	=	0.0480283234616497	*	-0.70337884021975	(none)	2016-09-15 15:12:44.1700
+2016-09-15 17:12:46.4060	IDEAL PATH Gaze Factor	-0.0274076448557928	=	0.0414037271221118	*	-0.661960812729722	(none)	2016-09-15 15:12:44.9700
+2016-09-15 17:12:46.4060	IDEAL PATH Gaze Factor	-0.0334193020473267	=	0.0409896898508907	*	-0.815309951573116	(none)	2016-09-15 15:12:45.1030
+2016-09-15 17:12:46.4060	IDEAL PATH Gaze Factor	-0.0397760830929314	=	0.0691442242939267	*	-0.575262554452074	(none)	2016-09-15 15:12:45.2530
+2016-09-15 17:12:46.4060	IDEAL PATH Gaze Factor	-0.0498335870760931	=	0.0832214915154447	*	-0.598806704477829	(none)	2016-09-15 15:12:45.4350
+2016-09-15 17:12:46.4060	IDEAL PATH Gaze Factor	-0.0463155634813225	=	0.0757688206334646	*	-0.611274705005326	(none)	2016-09-15 15:12:46.0190
+2016-09-15 17:12:46.4070	IDEAL PATH moveDistanceFactor	-0.345795899504321
+2016-09-15 17:12:46.4070	IDEAL PATH eyeMovementsFactor	-0.39543539962659
+2016-09-15 17:12:46.4070	IDEAL PATH SCORE	-0.358205774534889
+2016-09-15 17:12:46.4070	TargetDistance	0.656189441680908
+2016-09-15 17:12:46.4080	GAME DoubleClick	(157.0, 637.0, 0.0)
+2016-09-15 15:12:46.5030	EyeTracking Fixation	Ended	218	570	286
+2016-09-15 17:12:46.5550	EyeTracking AOI	NULL
+2016-09-15 15:12:47.3680	EyeTracking Fixation	Started	239	574	-63609549167368
+2016-09-15 17:12:47.5091	EyeTracking AOI	NULL
+2016-09-15 15:12:47.5500	EyeTracking Fixation	Ended	243	584	182
+2016-09-15 17:12:47.6082	EyeTracking AOI	NULL
+2016-09-15 15:12:47.5850	EyeTracking Fixation	Started	336	528	-63609549167585
+2016-09-15 17:12:47.7262	EyeTracking AOI	NULL
+2016-09-15 15:12:47.9020	EyeTracking Fixation	Ended	344	527	317
+2016-09-15 17:12:47.9592	EyeTracking AOI	NULL
+2016-09-15 15:12:47.9190	EyeTracking Fixation	Started	330	521	-63609549167919
+2016-09-15 17:12:48.0592	EyeTracking AOI	NULL
+2016-09-15 15:12:48.0700	EyeTracking Fixation	Ended	341	533	151
+2016-09-15 17:12:48.1442	EyeTracking AOI	NULL
+2016-09-15 15:12:48.1850	EyeTracking Fixation	Started	341	250	-63609549168185
+2016-09-15 17:12:48.3292	EyeTracking AOI	NULL
+2016-09-15 15:12:48.3170	EyeTracking Fixation	Ended	341	227	132
+2016-09-15 17:12:48.3742	EyeTracking AOI	NULL
+2016-09-15 15:12:48.4340	EyeTracking Fixation	Started	717	583	-63609549168434
+2016-09-15 17:12:48.5722	EyeTracking AOI	NULL
+2016-09-15 15:12:48.5350	EyeTracking Fixation	Ended	710	581	101
+2016-09-15 17:12:48.5943	EyeTracking AOI	NULL
+2016-09-15 17:12:48.6593	GAME Move	(0.2, 0.0, -0.4)
+2016-09-15 17:12:48.6593	IDEAL PATH Gaze Factor	-0.0765875042271215	=	0.126985525248541	*	-0.603119954634369	(none)	2016-09-15 15:12:46.2170
+2016-09-15 17:12:48.6593	IDEAL PATH Gaze Factor	-0.0467174398425302	=	0.0808089706127078	*	-0.57812195215841	(none)	2016-09-15 15:12:47.3680
+2016-09-15 17:12:48.6593	IDEAL PATH Gaze Factor	-0.0723100360819749	=	0.140749690572683	*	-0.513749165541745	(none)	2016-09-15 15:12:47.5850
+2016-09-15 17:12:48.6593	IDEAL PATH Gaze Factor	-0.0344688286895754	=	0.0670448052885653	*	-0.514116321782415	(none)	2016-09-15 15:12:47.9190
+2016-09-15 17:12:48.6603	IDEAL PATH Gaze Factor	-0.0374116226390827	=	0.058608703960865	*	-0.638328782429034	(none)	2016-09-15 15:12:48.1850
+2016-09-15 17:12:48.6603	IDEAL PATH Gaze Factor	-0.00899052344491686	=	0.0448246342698176	*	-0.200571038478513	(none)	2016-09-15 15:12:48.4340
+2016-09-15 17:12:48.6603	IDEAL PATH moveDistanceFactor	-0.236027766370661
+2016-09-15 17:12:48.6603	IDEAL PATH eyeMovementsFactor	-0.276485954925202
+2016-09-15 17:12:48.6603	IDEAL PATH SCORE	-0.246142313509296
+2016-09-15 17:12:48.6613	TargetDistance	0.710951209068298
+2016-09-15 17:12:48.6613	GAME DoubleClick	(311.0, 658.0, 0.0)
+2016-09-15 15:12:48.5510	EyeTracking Fixation	Started	682	508	-63609549168551
+2016-09-15 17:12:48.6933	EyeTracking AOI	NULL
+2016-09-15 15:12:48.7500	EyeTracking Fixation	Ended	687	515	199
+2016-09-15 17:12:48.8103	EyeTracking AOI	NULL
+2016-09-15 15:12:49.3490	EyeTracking Fixation	Started	757	512	-63609549169349
+2016-09-15 17:12:49.4943	EyeTracking AOI	NULL
+2016-09-15 15:12:49.4500	EyeTracking Fixation	Ended	765	512	101
+2016-09-15 17:12:49.5183	EyeTracking AOI	NULL
+2016-09-15 15:12:49.5830	EyeTracking Fixation	Started	1041	506	-63609549169583
+2016-09-15 17:12:49.7284	EyeTracking AOI	NULL
+2016-09-15 15:12:49.6990	EyeTracking Fixation	Ended	1034	528	116
+2016-09-15 17:12:49.7604	EyeTracking AOI	NULL
+2016-09-15 15:12:49.7840	EyeTracking Fixation	Started	686	53	-63609549169784
+2016-09-15 17:12:49.9294	EyeTracking AOI	NULL
+2016-09-15 15:12:49.9500	EyeTracking Fixation	Ended	688	75	166
+2016-09-15 17:12:50.0114	EyeTracking AOI	NULL
+2016-09-15 15:12:49.9670	EyeTracking Fixation	Started	688	92	-63609549169967
+2016-09-15 17:12:50.1124	EyeTracking AOI	NULL
+2016-09-15 15:12:50.1150	EyeTracking Fixation	Ended	684	86	148
+2016-09-15 17:12:50.1804	EyeTracking AOI	NULL
+2016-09-15 15:12:50.1320	EyeTracking Fixation	Started	768	65	-63609549170132
+2016-09-15 17:12:50.2864	EyeTracking AOI	NULL
+2016-09-15 15:12:50.3830	EyeTracking Fixation	Ended	751	68	251
+2016-09-15 17:12:50.4304	EyeTracking AOI	NULL
+2016-09-15 15:12:50.4320	EyeTracking Fixation	Started	360	204	-63609549170432
+2016-09-15 17:12:50.5774	EyeTracking AOI	NULL
+2016-09-15 15:12:50.5800	EyeTracking Fixation	Ended	353	215	148
+2016-09-15 17:12:50.6445	EyeTracking AOI	NULL
+2016-09-15 15:12:50.5990	EyeTracking Fixation	Started	216	154	-63609549170599
+2016-09-15 17:12:50.7445	EyeTracking AOI	NULL
+2016-09-15 15:12:50.7480	EyeTracking Fixation	Ended	211	127	149
+2016-09-15 17:12:50.8115	EyeTracking AOI	NULL
+2016-09-15 15:12:50.9660	EyeTracking Fixation	Started	358	53	-63609549170966
+2016-09-15 17:12:51.1125	EyeTracking AOI	NULL
+2016-09-15 17:12:51.1965	GAME Move	(0.2, 0.0, -0.3)
+2016-09-15 17:12:51.1965	IDEAL PATH Gaze Factor	-0.0193046284308003	=	0.0784931368796059	*	-0.245940335655206	(none)	2016-09-15 15:12:48.5510
+2016-09-15 17:12:51.1965	IDEAL PATH Gaze Factor	-0.00747114307533809	=	0.0398382252504533	*	-0.187537045849026	(none)	2016-09-15 15:12:49.3490
+2016-09-15 17:12:51.1965	IDEAL PATH Gaze Factor	0.000810819620986459	=	0.0457547933569562	*	0.0177209765687465	(none)	2016-09-15 15:12:49.5830
+2016-09-15 17:12:51.1965	IDEAL PATH Gaze Factor	-0.0310177059983662	=	0.0654766870452994	*	-0.473721371652584	(none)	2016-09-15 15:12:49.7840
+2016-09-15 17:12:51.1965	IDEAL PATH Gaze Factor	-0.0274259816417951	=	0.0583768053174959	*	-0.469809567218221	(none)	2016-09-15 15:12:49.9670
+2016-09-15 17:12:51.1965	IDEAL PATH Gaze Factor	-0.0433055759112858	=	0.0990039063154829	*	-0.437412800392841	(none)	2016-09-15 15:12:50.1320
+2016-09-15 17:12:51.1965	IDEAL PATH Gaze Factor	-0.037065211712811	=	0.0583768053174959	*	-0.634930457588818	(none)	2016-09-15 15:12:50.4320
+2016-09-15 17:12:51.1965	IDEAL PATH Gaze Factor	-0.045988167422124	=	0.0587712431912627	*	-0.78249437862769	(none)	2016-09-15 15:12:50.5990
+2016-09-15 17:12:51.1965	IDEAL PATH moveDistanceFactor	0.173204061394573
+2016-09-15 17:12:51.1965	IDEAL PATH eyeMovementsFactor	-0.210767594571534
+2016-09-15 17:12:51.1965	IDEAL PATH SCORE	0.0772111474030465
+2016-09-15 15:12:51.1490	EyeTracking Fixation	Ended	369	46	183
+2016-09-15 17:12:51.1975	TargetDistance	0.671151757240295
+2016-09-15 17:12:51.1975	GAME DoubleClick	(761.0, 1141.0, 0.0)
+2016-09-15 17:12:51.2005	EyeTracking AOI	NULL
+2016-09-15 15:12:51.1660	EyeTracking Fixation	Started	425	34	-63609549171166
+2016-09-15 17:12:51.3115	EyeTracking AOI	NULL
+2016-09-15 15:12:51.4150	EyeTracking Fixation	Ended	441	29	249
+2016-09-15 17:12:51.4665	EyeTracking AOI	NULL
+2016-09-15 15:12:51.4330	EyeTracking Fixation	Started	456	48	-63609549171433
+2016-09-15 17:12:51.5685	EyeTracking AOI	NULL
+2016-09-15 15:12:51.5330	EyeTracking Fixation	Ended	460	46	100
+2016-09-15 17:12:51.5815	EyeTracking AOI	NULL
+2016-09-15 15:12:51.5810	EyeTracking Fixation	Started	612	14	-63609549171581
+2016-09-15 17:12:51.7136	EyeTracking AOI	NULL
+2016-09-15 15:12:51.6800	EyeTracking Fixation	Ended	630	13	99
+2016-09-15 17:12:51.7636	EyeTracking AOI	NULL
+2016-09-15 15:12:52.0310	EyeTracking Fixation	Started	791	164	-63609549172031
+2016-09-15 15:12:52.1320	EyeTracking Fixation	Ended	791	177	101
+2016-09-15 17:12:52.1806	EyeTracking AOI	NULL
+2016-09-15 17:12:52.1996	EyeTracking AOI	NULL
+2016-09-15 15:12:52.7820	EyeTracking Fixation	Started	915	944	-63609549172782
+2016-09-15 17:12:52.9177	EyeTracking AOI	NULL
+2016-09-15 15:12:52.8820	EyeTracking Fixation	Ended	897	947	100
+2016-09-15 17:12:52.9497	EyeTracking AOI	NULL
+2016-09-15 15:12:53.0800	EyeTracking Fixation	Started	731	653	-63609549173080
+2016-09-15 17:12:53.2287	EyeTracking AOI	NULL
+2016-09-15 15:12:53.2990	EyeTracking Fixation	Ended	731	638	219
+2016-09-15 17:12:53.3487	EyeTracking AOI	NULL
+2016-09-15 15:12:53.4640	EyeTracking Fixation	Started	468	261	-63609549173464
+2016-09-15 17:12:53.5978	EyeTracking AOI	NULL
+2016-09-15 15:12:53.6650	EyeTracking Fixation	Ended	471	274	201
+2016-09-15 17:12:53.7148	EyeTracking AOI	NULL
+2016-09-15 15:12:53.6810	EyeTracking Fixation	Started	182	455	-63609549173681
+2016-09-15 17:12:53.8168	EyeTracking AOI	NULL
+2016-09-15 15:12:53.8960	EyeTracking Fixation	Ended	174	469	215
+2016-09-15 17:12:53.9478	EyeTracking AOI	NULL
+2016-09-15 15:12:53.9310	EyeTracking Fixation	Started	178	111	-63609549173931
+2016-09-15 17:12:54.0648	EyeTracking AOI	NULL
+2016-09-15 15:12:54.1300	EyeTracking Fixation	Ended	184	107	199
+2016-09-15 17:12:54.1818	EyeTracking AOI	NULL
+2016-09-15 15:12:54.1610	EyeTracking Fixation	Started	368	41	-63609549174161
+2016-09-15 17:12:54.2988	EyeTracking AOI	NULL
+2016-09-15 15:12:54.3460	EyeTracking Fixation	Ended	381	39	185
+2016-09-15 17:12:54.4078	EyeTracking AOI	NULL
+2016-09-15 15:12:54.3710	EyeTracking Fixation	Started	493	54	-63609549174371
+2016-09-15 17:12:54.4978	EyeTracking AOI	NULL
+2016-09-15 17:12:54.4988	GAME HELP	User requested help
+2016-09-15 17:12:54.5248	GAME HELP	VirtualAssistant2D activated	Your target is 6.68km away and in cardinal direction NORTH-EAST
+2016-09-15 15:12:54.6950	EyeTracking Fixation	Ended	468	54	324
+2016-09-15 17:12:54.7669	EyeTracking AOI	NULL
+2016-09-15 15:12:54.7110	EyeTracking Fixation	Started	465	64	-63609549174711
+2016-09-15 17:12:54.8489	EyeTracking AOI	NULL
+2016-09-15 15:12:54.8270	EyeTracking Fixation	Ended	468	59	116
+2016-09-15 17:12:54.8829	EyeTracking AOI	NULL
+2016-09-15 17:12:55.0009	GAME HELP	User requested help
+2016-09-15 15:12:55.1450	EyeTracking Fixation	Started	591	540	-63609549175145
+2016-09-15 17:12:55.2829	EyeTracking AOI	NULL
+2016-09-15 15:12:55.2770	EyeTracking Fixation	Ended	602	539	132
+2016-09-15 17:12:55.3469	EyeTracking AOI	NULL
+2016-09-15 17:12:55.5149	GAME HELP	User requested help
+2016-09-15 15:12:55.4620	EyeTracking Fixation	Started	1473	995	-63609549175462
+2016-09-15 17:12:55.5990	EyeTracking AOI	NULL
+2016-09-15 15:12:55.5800	EyeTracking Fixation	Ended	1482	998	118
+2016-09-15 17:12:55.6330	EyeTracking AOI	NULL
+2016-09-15 15:12:55.5960	EyeTracking Fixation	Started	1401	926	-63609549175596
+2016-09-15 17:12:55.7370	EyeTracking AOI	NULL
+2016-09-15 15:12:55.8120	EyeTracking Fixation	Ended	1411	928	216
+2016-09-15 17:12:55.8680	EyeTracking AOI	NULL
+2016-09-15 15:12:55.8280	EyeTracking Fixation	Started	1457	898	-63609549175828
+2016-09-15 17:12:55.9680	EyeTracking AOI	NULL
+2016-09-15 17:12:56.0150	GAME HELP	User requested help
+2016-09-15 15:12:56.0460	EyeTracking Fixation	Ended	1463	902	218
+2016-09-15 17:12:56.0990	EyeTracking AOI	NULL
+2016-09-15 15:12:56.0970	EyeTracking Fixation	Started	1549	905	-63609549176097
+2016-09-15 17:12:56.2350	EyeTracking AOI	NULL
+2016-09-15 15:12:56.2280	EyeTracking Fixation	Ended	1554	903	131
+2016-09-15 17:12:56.2840	EyeTracking AOI	NULL
+2016-09-15 15:12:56.2440	EyeTracking Fixation	Started	1537	939	-63609549176244
+2016-09-15 17:12:56.3830	EyeTracking AOI	NULL
+2016-09-15 15:12:56.3780	EyeTracking Fixation	Ended	1530	936	134
+2016-09-15 17:12:56.4340	EyeTracking AOI	NULL
+2016-09-15 17:12:56.5170	GAME HELP	User requested help
+2016-09-15 15:12:56.3950	EyeTracking Fixation	Started	1612	919	-63609549176395
+2016-09-15 15:12:56.4950	EyeTracking Fixation	Ended	1599	925	100
+2016-09-15 17:12:56.5540	EyeTracking AOI	NULL
+2016-09-15 17:12:56.5570	EyeTracking AOI	NULL
+2016-09-15 15:12:56.6120	EyeTracking Fixation	Started	1441	914	-63609549176612
+2016-09-15 17:12:56.7651	EyeTracking AOI	NULL
+2016-09-15 15:12:56.7610	EyeTracking Fixation	Ended	1445	902	149
+2016-09-15 17:12:56.8171	EyeTracking AOI	NULL
+2016-09-15 15:12:56.7790	EyeTracking Fixation	Started	1505	902	-63609549176779
+2016-09-15 17:12:56.9171	EyeTracking AOI	NULL
+2016-09-15 15:12:56.9430	EyeTracking Fixation	Ended	1509	902	164
+2016-09-15 17:12:57.0001	EyeTracking AOI	NULL
+2016-09-15 17:12:57.0341	GAME HELP	User requested help
+2016-09-15 15:12:56.9610	EyeTracking Fixation	Started	1465	915	-63609549176961
+2016-09-15 17:12:57.1011	EyeTracking AOI	NULL
+2016-09-15 15:12:57.1110	EyeTracking Fixation	Ended	1454	917	150
+2016-09-15 17:12:57.1681	EyeTracking AOI	NULL
+2016-09-15 15:12:57.1270	EyeTracking Fixation	Started	1466	900	-63609549177127
+2016-09-15 17:12:57.2731	EyeTracking AOI	NULL
+2016-09-15 15:12:57.2430	EyeTracking Fixation	Ended	1456	911	116
+2016-09-15 17:12:57.3071	EyeTracking AOI	NULL
+2016-09-15 15:12:57.2630	EyeTracking Fixation	Started	1538	911	-63609549177263
+2016-09-15 17:12:57.4041	EyeTracking AOI	NULL
+2016-09-15 15:12:57.3600	EyeTracking Fixation	Ended	1519	914	97
+2016-09-15 17:12:57.4181	EyeTracking AOI	NULL
+2016-09-15 15:12:57.4440	EyeTracking Fixation	Started	1526	907	-63609549177444
+2016-09-15 17:12:57.5841	EyeTracking AOI	NULL
+2016-09-15 15:12:57.5760	EyeTracking Fixation	Ended	1521	903	132
+2016-09-15 17:12:57.6372	EyeTracking AOI	NULL
+2016-09-15 15:12:57.9450	EyeTracking Fixation	Started	1552	919	-63609549177945
+2016-09-15 17:12:58.0852	EyeTracking AOI	NULL
+2016-09-15 15:12:58.0600	EyeTracking Fixation	Ended	1542	917	115
+2016-09-15 17:12:58.1182	EyeTracking AOI	NULL
+2016-09-15 15:12:58.1420	EyeTracking Fixation	Started	1614	957	-63609549178142
+2016-09-15 17:12:58.2852	EyeTracking AOI	NULL
+2016-09-15 15:12:58.2780	EyeTracking Fixation	Ended	1606	957	136
+2016-09-15 17:12:58.3502	EyeTracking AOI	NULL
+2016-09-15 15:12:58.2940	EyeTracking Fixation	Started	1609	941	-63609549178294
+2016-09-15 17:12:58.4352	EyeTracking AOI	NULL
+2016-09-15 15:12:58.4440	EyeTracking Fixation	Ended	1612	941	150
+2016-09-15 17:12:58.5022	EyeTracking AOI	NULL
+2016-09-15 15:12:58.4760	EyeTracking Fixation	Started	1462	911	-63609549178476
+2016-09-15 17:12:58.6183	EyeTracking AOI	NULL
+2016-09-15 15:12:58.6260	EyeTracking Fixation	Ended	1456	900	150
+2016-09-15 17:12:58.6853	EyeTracking AOI	NULL
+2016-09-15 15:12:58.8760	EyeTracking Fixation	Started	1578	936	-63609549178876
+2016-09-15 17:12:59.0193	EyeTracking AOI	NULL
+2016-09-15 15:12:58.9760	EyeTracking Fixation	Ended	1583	934	100
+2016-09-15 17:12:59.0363	EyeTracking AOI	NULL
+2016-09-15 15:12:58.9920	EyeTracking Fixation	Started	1599	927	-63609549178992
+2016-09-15 17:12:59.1513	EyeTracking AOI	NULL
+2016-09-15 15:12:59.1090	EyeTracking Fixation	Ended	1589	938	117
+2016-09-15 17:12:59.1653	EyeTracking AOI	NULL
+2016-09-15 15:12:59.2430	EyeTracking Fixation	Started	1601	943	-63609549179243
+2016-09-15 17:12:59.3863	EyeTracking AOI	NULL
+2016-09-15 15:12:59.4760	EyeTracking Fixation	Ended	1603	938	233
+2016-09-15 17:12:59.5523	EyeTracking AOI	NULL
+2016-09-15 15:12:59.5090	EyeTracking Fixation	Started	1584	943	-63609549179509
+2016-09-15 17:12:59.6534	EyeTracking AOI	NULL
+2016-09-15 15:12:59.6600	EyeTracking Fixation	Ended	1595	936	151
+2016-09-15 17:12:59.7224	EyeTracking AOI	NULL
+2016-09-15 15:13:00.4260	EyeTracking Fixation	Started	1691	583	-63609549180426
+2016-09-15 17:13:00.5744	EyeTracking AOI	NULL
+2016-09-15 15:13:00.5430	EyeTracking Fixation	Ended	1691	593	117
+2016-09-15 17:13:00.6045	EyeTracking AOI	NULL
+2016-09-15 15:13:00.5920	EyeTracking Fixation	Started	1549	577	-63609549180592
+2016-09-15 17:13:00.7525	EyeTracking AOI	NULL
+2016-09-15 15:13:00.7910	EyeTracking Fixation	Ended	1561	570	199
+2016-09-15 17:13:00.8435	EyeTracking AOI	NULL
+2016-09-15 15:13:00.8080	EyeTracking Fixation	Started	1552	591	-63609549180808
+2016-09-15 17:13:00.9535	EyeTracking AOI	NULL
+2016-09-15 15:13:00.9250	EyeTracking Fixation	Ended	1554	580	117
+2016-09-15 17:13:00.9895	EyeTracking AOI	NULL
+2016-09-15 15:13:00.9590	EyeTracking Fixation	Started	1553	587	-63609549180959
+2016-09-15 17:13:01.1045	EyeTracking AOI	NULL
+2016-09-15 17:13:01.3725	GAME Move	(0.3, 0.0, -0.3)
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	-0.0127275880390008	=	0.0179852272291937	*	-0.707669015064836	(none)	2016-09-15 15:12:50.9660
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	-0.0163069163176018	=	0.0244717026233292	*	-0.666358061333099	(none)	2016-09-15 15:12:51.1660
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	-0.00632803661002214	=	0.00982799302141734	*	-0.643878826148123	(none)	2016-09-15 15:12:51.4330
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	-0.00533670191053673	=	0.00972971309120317	*	-0.548495300993177	(none)	2016-09-15 15:12:51.5810
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	-0.00350920690955814	=	0.00992627295163151	*	-0.35352714222727	(none)	2016-09-15 15:12:52.0310
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	-0.00343240390102089	=	0.00992627295163151	*	-0.345789796205103	(none)	2016-09-15 15:12:52.0310
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	0.000679379160056104	=	0.00982799302141734	*	0.0691269477476825	(none)	2016-09-15 15:12:52.7820
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	-0.00348021456747335	=	0.021523304716904	*	-0.161695177076597	(none)	2016-09-15 15:12:53.0800
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	-0.0102522762974185	=	0.0197542659730489	*	-0.518990496098709	(none)	2016-09-15 15:12:53.4640
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	-0.014199761758107	=	0.0211301849960473	*	-0.672013130067875	(none)	2016-09-15 15:12:53.6810
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	-0.0158825875470347	=	0.0195577061126205	*	-0.812088465568346	(none)	2016-09-15 15:12:53.9310
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	-0.01277985611318	=	0.0181817870896221	*	-0.702893288222178	(none)	2016-09-15 15:12:54.1610
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	-0.0201867835747377	=	0.0318426973893922	*	-0.633953315194413	(none)	2016-09-15 15:12:54.3710
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	-0.00719621289896758	=	0.0114004719048441	*	-0.631220616043962	(none)	2016-09-15 15:12:54.7110
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	-0.00392355068793182	=	0.0129729507882709	*	-0.302440882723396	(none)	2016-09-15 15:12:55.1450
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	0.00665597051819292	=	0.0115970317652725	*	0.57393742234322	(none)	2016-09-15 15:12:55.4620
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	0.0104064819568225	=	0.0212284649262615	*	0.490213587886367	(none)	2016-09-15 15:12:55.5960
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	0.0110997831005058	=	0.0214250247866898	*	0.518075624696665	(none)	2016-09-15 15:12:55.8280
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	0.00751426484270417	=	0.0128746708580567	*	0.583647141394834	(none)	2016-09-15 15:12:56.0970
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	0.00769090240696997	=	0.0131695106486992	*	0.583993028452398	(none)	2016-09-15 15:12:56.2440
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	0.00620852541607042	=	0.00982799302141734	*	0.631718541368588	(none)	2016-09-15 15:12:56.3950
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	0.00615847053118562	=	0.00982799302141734	*	0.626625448122009	(none)	2016-09-15 15:12:56.3950
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	0.00739040120810605	=	0.0146437096019118	*	0.504680945540001	(none)	2016-09-15 15:12:56.6120
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	0.0088900323814088	=	0.0161179085551244	*	0.551562403459744	(none)	2016-09-15 15:12:56.7790
+2016-09-15 17:13:01.3725	IDEAL PATH Gaze Factor	0.00764233678823882	=	0.014741989532126	*	0.518406065313267	(none)	2016-09-15 15:12:56.9610
+2016-09-15 17:13:01.3735	IDEAL PATH Gaze Factor	0.00589499542827001	=	0.0113993514653449	*	0.517134281383583	(none)	2016-09-15 15:12:57.1270
+2016-09-15 17:13:01.3735	IDEAL PATH Gaze Factor	0.0053849649786739	=	0.00953221631153838	*	0.564922658349203	(none)	2016-09-15 15:12:57.2630
+2016-09-15 17:13:01.3735	IDEAL PATH Gaze Factor	0.00727228477522781	=	0.0129716758053924	*	0.560628008618952	(none)	2016-09-15 15:12:57.4440
+2016-09-15 17:13:01.3735	IDEAL PATH Gaze Factor	0.00658729509522967	=	0.0113010811940919	*	0.582890697101924	(none)	2016-09-15 15:12:57.9450
+2016-09-15 17:13:01.3735	IDEAL PATH Gaze Factor	0.00867743349386911	=	0.0133647568904043	*	0.649277316828663	(none)	2016-09-15 15:12:58.1420
+2016-09-15 17:13:01.3735	IDEAL PATH Gaze Factor	0.00950066549760788	=	0.0147405406879459	*	0.644526255768693	(none)	2016-09-15 15:12:58.2940
+2016-09-15 17:13:01.3735	IDEAL PATH Gaze Factor	0.00754608908338357	=	0.0147405406879459	*	0.511927563793801	(none)	2016-09-15 15:12:58.4760
+2016-09-15 17:13:01.3735	IDEAL PATH Gaze Factor	0.00610021058110771	=	0.0098270271252973	*	0.620758496270372	(none)	2016-09-15 15:12:58.8760
+2016-09-15 17:13:01.3735	IDEAL PATH Gaze Factor	0.00721024446370235	=	0.0114976217365978	*	0.627107468734301	(none)	2016-09-15 15:12:58.9920
+2016-09-15 17:13:01.3735	IDEAL PATH Gaze Factor	0.0145790294575354	=	0.0228969732019427	*	0.636722999540327	(none)	2016-09-15 15:12:59.2430
+2016-09-15 17:13:01.3735	IDEAL PATH Gaze Factor	0.00935048611682981	=	0.0148388109591989	*	0.630137154691173	(none)	2016-09-15 15:12:59.5090
+2016-09-15 17:13:01.3735	IDEAL PATH Gaze Factor	0.00490867381075014	=	0.0114976217365978	*	0.426929492307565	(none)	2016-09-15 15:13:00.4260
+2016-09-15 17:13:01.3735	IDEAL PATH Gaze Factor	0.00703010049630629	=	0.0195557839793416	*	0.359489576267193	(none)	2016-09-15 15:13:00.5920
+2016-09-15 17:13:01.3735	IDEAL PATH Gaze Factor	0.0041854596481241	=	0.0114976217365978	*	0.364028295938928	(none)	2016-09-15 15:13:00.8080
+2016-09-15 17:13:01.3735	IDEAL PATH moveDistanceFactor	0.561521733179004
+2016-09-15 17:13:01.3735	IDEAL PATH eyeMovementsFactor	0.0490223841042881
+2016-09-15 17:13:01.3735	IDEAL PATH SCORE	0.433396895910325
+2016-09-15 17:13:01.3745	TargetDistance	0.542172491550446
+2016-09-15 17:13:01.3745	GAME DoubleClick	(1616.0, 639.0, 0.0)
+2016-09-15 15:13:01.4240	EyeTracking Fixation	Ended	1554	582	465
+2016-09-15 17:13:01.4875	EyeTracking AOI	NULL
+2016-09-15 15:13:01.4400	EyeTracking Fixation	Started	1537	594	-63609549181440
+2016-09-15 17:13:01.5885	EyeTracking AOI	NULL
+2016-09-15 15:13:01.5900	EyeTracking Fixation	Ended	1541	580	150
+2016-09-15 17:13:01.6566	EyeTracking AOI	NULL
+2016-09-15 15:13:02.6070	EyeTracking Fixation	Started	1618	296	-63609549182607
+2016-09-15 17:13:02.7557	EyeTracking AOI	NULL
+2016-09-15 15:13:02.7380	EyeTracking Fixation	Ended	1609	295	131
+2016-09-15 17:13:02.8057	EyeTracking AOI	NULL
+2016-09-15 15:13:02.7570	EyeTracking Fixation	Started	1594	316	-63609549182757
+2016-09-15 17:13:02.8927	EyeTracking AOI	NULL
+2016-09-15 15:13:02.9750	EyeTracking Fixation	Ended	1592	306	218
+2016-09-15 17:13:03.0257	EyeTracking AOI	NULL
+2016-09-15 15:13:02.9890	EyeTracking Fixation	Started	1573	319	-63609549182989
+2016-09-15 17:13:03.1457	EyeTracking AOI	NULL
+2016-09-15 17:13:03.1557	GAME Move	(0.5, 0.0, -0.3)
+2016-09-15 17:13:03.1557	IDEAL PATH Gaze Factor	0.0954313810473393	=	0.261063169370879	*	0.365549002095217	(none)	2016-09-15 15:13:00.9590
+2016-09-15 17:13:03.1557	IDEAL PATH Gaze Factor	0.0301582272355656	=	0.0842139256035093	*	0.358114492578753	(none)	2016-09-15 15:13:01.4400
+2016-09-15 17:13:03.1557	IDEAL PATH Gaze Factor	0.0113776399389258	=	0.0735468283603981	*	0.154699260220611	(none)	2016-09-15 15:13:02.6070
+2016-09-15 17:13:03.1557	IDEAL PATH Gaze Factor	0.0194392233911358	=	0.122390905210433	*	0.158828986171095	(none)	2016-09-15 15:13:02.7570
+2016-09-15 17:13:03.1557	IDEAL PATH moveDistanceFactor	0.657314223132282
+2016-09-15 17:13:03.1557	IDEAL PATH eyeMovementsFactor	0.156406471612966
+2016-09-15 17:13:03.1557	IDEAL PATH SCORE	0.532087285252453
+2016-09-15 17:13:03.1577	TargetDistance	0.392441064119339
+2016-09-15 17:13:03.1577	GAME DoubleClick	(1663.0, 857.0, 0.0)
+2016-09-15 15:13:03.1730	EyeTracking Fixation	Ended	1590	312	184
+2016-09-15 17:13:03.2407	EyeTracking AOI	NULL
+2016-09-15 15:13:03.2080	EyeTracking Fixation	Started	1593	314	-63609549183208
+2016-09-15 17:13:03.3397	EyeTracking AOI	NULL
+2016-09-15 15:13:03.3390	EyeTracking Fixation	Ended	1585	309	131
+2016-09-15 17:13:03.3897	EyeTracking AOI	NULL
+2016-09-15 17:13:03.5027	GAME HELP	VirtualAssistant2D deactivated
+2016-09-15 15:13:04.3390	EyeTracking Fixation	Started	934	229	-63609549184339
+2016-09-15 17:13:04.4778	EyeTracking AOI	NULL
+2016-09-15 15:13:04.4400	EyeTracking Fixation	Ended	915	232	101
+2016-09-15 17:13:04.4898	EyeTracking AOI	NULL
+2016-09-15 15:13:04.5060	EyeTracking Fixation	Started	872	232	-63609549184506
+2016-09-15 17:13:04.6409	EyeTracking AOI	NULL
+2016-09-15 15:13:04.6070	EyeTracking Fixation	Ended	866	246	101
+2016-09-15 17:13:04.6579	EyeTracking AOI	NULL
+2016-09-15 15:13:04.7730	EyeTracking Fixation	Started	1405	364	-63609549184773
+2016-09-15 17:13:04.9099	EyeTracking AOI	NULL
+2016-09-15 15:13:04.8710	EyeTracking Fixation	Ended	1400	380	98
+2016-09-15 17:13:04.9239	EyeTracking AOI	NULL
+2016-09-15 15:13:04.8870	EyeTracking Fixation	Started	1389	411	-63609549184887
+2016-09-15 17:13:05.0239	EyeTracking AOI	NULL
+2016-09-15 15:13:04.9880	EyeTracking Fixation	Ended	1387	410	101
+2016-09-15 17:13:05.0429	EyeTracking AOI	NULL
+2016-09-15 15:13:05.0540	EyeTracking Fixation	Started	862	142	-63609549185054
+2016-09-15 17:13:05.1919	EyeTracking AOI	NULL
+2016-09-15 15:13:05.2380	EyeTracking Fixation	Ended	854	156	184
+2016-09-15 17:13:05.2909	EyeTracking AOI	NULL
+2016-09-15 15:13:05.3210	EyeTracking Fixation	Started	1557	618	-63609549185321
+2016-09-15 17:13:05.4579	EyeTracking AOI	NULL
+2016-09-15 15:13:05.5370	EyeTracking Fixation	Ended	1562	618	216
+2016-09-15 17:13:05.5919	EyeTracking AOI	NULL
+2016-09-15 15:13:05.6400	EyeTracking Fixation	Started	1761	634	-63609549185640
+2016-09-15 17:13:05.7760	EyeTracking AOI	NULL
+2016-09-15 15:13:05.7730	EyeTracking Fixation	Ended	1783	630	133
+2016-09-15 17:13:05.8240	EyeTracking AOI	NULL
+2016-09-15 15:13:05.9750	EyeTracking Fixation	Started	1426	429	-63609549185975
+2016-09-15 17:13:06.1090	GAME Move	(0.6, 0.0, -0.3)
+2016-09-15 17:13:06.1090	IDEAL PATH Gaze Factor	0.0101740969248293	=	0.0623455106200664	*	0.163188926093336	(none)	2016-09-15 15:13:02.9890
+2016-09-15 17:13:06.1090	IDEAL PATH Gaze Factor	0.00706469198920394	=	0.0443872928871125	*	0.159160235501884	(none)	2016-09-15 15:13:03.2080
+2016-09-15 17:13:06.1090	IDEAL PATH Gaze Factor	-0.00795912816759253	=	0.0342222639816669	*	-0.232571643181068	(none)	2016-09-15 15:13:04.3390
+2016-09-15 17:13:06.1090	IDEAL PATH Gaze Factor	-0.0087530501552334	=	0.0342222639816669	*	-0.255770633992026	(none)	2016-09-15 15:13:04.5060
+2016-09-15 17:13:06.1090	IDEAL PATH Gaze Factor	0.00472530334477698	=	0.0332057610911223	*	0.142303720484224	(none)	2016-09-15 15:13:04.7730
+2016-09-15 17:13:06.1090	IDEAL PATH Gaze Factor	0.00541376734404865	=	0.0342222639816669	*	0.158194307277533	(none)	2016-09-15 15:13:04.8870
+2016-09-15 17:13:06.1090	IDEAL PATH Gaze Factor	-0.0198257583748806	=	0.0623455106200664	*	-0.31799817144331	(none)	2016-09-15 15:13:05.0540
+2016-09-15 17:13:06.1090	IDEAL PATH Gaze Factor	0.0290137504821699	=	0.0731882081192084	*	0.396426572364123	(none)	2016-09-15 15:13:05.3210
+2016-09-15 17:13:06.1090	IDEAL PATH Gaze Factor	0.02172861085483	=	0.0450649614808089	*	0.482161975531328	(none)	2016-09-15 15:13:05.6400
+2016-09-15 17:13:06.1090	IDEAL PATH moveDistanceFactor	0.449620097789788
+2016-09-15 17:13:06.1090	IDEAL PATH eyeMovementsFactor	0.0415822842421522
+2016-09-15 17:13:06.1090	IDEAL PATH SCORE	0.347610644402879
+2016-09-15 17:13:06.1100	TargetDistance	0.289737492799759
+2016-09-15 17:13:06.1100	GAME DoubleClick	(1605.0, 583.0, 0.0)
+2016-09-15 17:13:06.1120	EyeTracking AOI	NULL
+2016-09-15 15:13:06.1230	EyeTracking Fixation	Ended	1407	421	148
+2016-09-15 17:13:06.1770	EyeTracking AOI	NULL
+2016-09-15 15:13:07.3360	EyeTracking Fixation	Started	1570	444	-63609549187336
+2016-09-15 17:13:07.4761	EyeTracking AOI	NULL
+2016-09-15 15:13:07.4890	EyeTracking Fixation	Ended	1564	439	153
+2016-09-15 17:13:07.5421	EyeTracking AOI	NULL
+2016-09-15 15:13:07.5370	EyeTracking Fixation	Started	848	157	-63609549187537
+2016-09-15 17:13:07.6902	EyeTracking AOI	NULL
+2016-09-15 15:13:07.7400	EyeTracking Fixation	Ended	830	146	203
+2016-09-15 17:13:07.7932	EyeTracking AOI	NULL
+2016-09-15 15:13:07.7880	EyeTracking Fixation	Started	712	97	-63609549187788
+2016-09-15 17:13:07.9272	EyeTracking AOI	NULL
+2016-09-15 15:13:08.0870	EyeTracking Fixation	Ended	717	99	299
+2016-09-15 17:13:08.1442	EyeTracking AOI	NULL
+2016-09-15 15:13:08.2050	EyeTracking Fixation	Started	1070	849	-63609549188205
+2016-09-15 17:13:08.3582	EyeTracking AOI	NULL
+2016-09-15 15:13:08.3230	EyeTracking Fixation	Ended	1069	855	118
+2016-09-15 17:13:08.3762	EyeTracking AOI	NULL
+2016-09-15 15:13:08.5190	EyeTracking Fixation	Started	1289	616	-63609549188519
+2016-09-15 17:13:08.6603	EyeTracking AOI	NULL
+2016-09-15 15:13:08.6530	EyeTracking Fixation	Ended	1305	623	134
+2016-09-15 17:13:08.7143	EyeTracking AOI	NULL
+2016-09-15 15:13:08.7220	EyeTracking Fixation	Started	715	103	-63609549188722
+2016-09-15 17:13:08.8583	GAME Move	(0.6, 0.0, -0.2)
+2016-09-15 17:13:08.8593	IDEAL PATH Gaze Factor	0.0096986706170982	=	0.0538323759475635	*	0.180164268182132	(none)	2016-09-15 15:13:05.9750
+2016-09-15 17:13:08.8593	IDEAL PATH Gaze Factor	0.014525007499704	=	0.0556510372971433	*	0.261001559093123	(none)	2016-09-15 15:13:07.3360
+2016-09-15 17:13:08.8593	IDEAL PATH Gaze Factor	-0.0246610854423819	=	0.0738376507929418	*	-0.333990656224118	(none)	2016-09-15 15:13:07.5370
+2016-09-15 17:13:08.8593	IDEAL PATH Gaze Factor	-0.0473096147760864	=	0.108755948704875	*	-0.435007145259409	(none)	2016-09-15 15:13:07.7880
+2016-09-15 17:13:08.8593	IDEAL PATH Gaze Factor	0.00840295513403363	=	0.0429204078500844	*	0.195779946066312	(none)	2016-09-15 15:13:08.2050
+2016-09-15 17:13:08.8593	IDEAL PATH Gaze Factor	0.0126977060398484	=	0.0487401241687399	*	0.260518541066668	(none)	2016-09-15 15:13:08.5190
+2016-09-15 17:13:08.8593	IDEAL PATH moveDistanceFactor	0.268849053703355
+2016-09-15 17:13:08.8593	IDEAL PATH eyeMovementsFactor	-0.0266463609277841
+2016-09-15 17:13:08.8593	IDEAL PATH SCORE	0.19497520004557
+2016-09-15 17:13:08.8603	TargetDistance	0.234409868717194
+2016-09-15 17:13:08.8603	GAME DoubleClick	(762.0, 1141.0, 0.0)
+2016-09-15 17:13:08.8623	EyeTracking AOI	NULL
+2016-09-15 15:13:09.1510	EyeTracking Fixation	Ended	711	107	429
+2016-09-15 17:13:09.2123	EyeTracking AOI	NULL
+2016-09-15 15:13:09.2690	EyeTracking Fixation	Started	1055	104	-63609549189269
+2016-09-15 17:13:09.4113	EyeTracking AOI	NULL
+2016-09-15 15:13:09.3690	EyeTracking Fixation	Ended	1050	125	100
+2016-09-15 17:13:09.4283	EyeTracking AOI	NULL
+2016-09-15 15:13:09.5550	EyeTracking Fixation	Started	776	156	-63609549189555
+2016-09-15 17:13:09.6944	EyeTracking AOI	NULL
+2016-09-15 15:13:09.6700	EyeTracking Fixation	Ended	776	176	115
+2016-09-15 17:13:09.7294	EyeTracking AOI	NULL
+2016-09-15 15:13:09.8030	EyeTracking Fixation	Started	767	192	-63609549189803
+2016-09-15 17:13:09.9634	EyeTracking AOI	NULL
+2016-09-15 15:13:10.0540	EyeTracking Fixation	Ended	760	209	251
+2016-09-15 17:13:10.1114	EyeTracking AOI	NULL
+2016-09-15 15:13:10.1370	EyeTracking Fixation	Started	1246	142	-63609549190137
+2016-09-15 17:13:10.2794	EyeTracking AOI	NULL
+2016-09-15 15:13:10.5860	EyeTracking Fixation	Ended	1242	147	449
+2016-09-15 17:13:10.6455	EyeTracking AOI	NULL
+2016-09-15 15:13:10.6370	EyeTracking Fixation	Started	1328	168	-63609549190637
+2016-09-15 17:13:10.7785	EyeTracking AOI	NULL
+2016-09-15 15:13:10.8030	EyeTracking Fixation	Ended	1329	173	166
+2016-09-15 17:13:10.8645	EyeTracking AOI	NULL
+2016-09-15 15:13:10.8370	EyeTracking Fixation	Started	1323	173	-63609549190837
+2016-09-15 17:13:10.9745	EyeTracking AOI	NULL
+2016-09-15 17:13:10.9945	GAME Move	(0.7, 0.0, -0.1)
+2016-09-15 17:13:10.9945	IDEAL PATH Gaze Factor	-0.0772512589625404	=	0.201010826752376	*	-0.384313920850172	(none)	2016-09-15 15:13:08.7220
+2016-09-15 17:13:10.9945	IDEAL PATH Gaze Factor	-0.0073562694605469	=	0.0468556705716495	*	-0.1569984885671	(none)	2016-09-15 15:13:09.2690
+2016-09-15 17:13:10.9945	IDEAL PATH Gaze Factor	-0.0162342069705823	=	0.0538840211573969	*	-0.30128053960861	(none)	2016-09-15 15:13:09.5550
+2016-09-15 17:13:10.9945	IDEAL PATH Gaze Factor	-0.034609006045871	=	0.11760773313484	*	-0.294274918182386	(none)	2016-09-15 15:13:09.8030
+2016-09-15 17:13:10.9945	IDEAL PATH Gaze Factor	-0.00759418277302724	=	0.210381960866706	*	-0.0360971194571134	(none)	2016-09-15 15:13:10.1370
+2016-09-15 17:13:10.9945	IDEAL PATH Gaze Factor	0.00200755901421643	=	0.0777804131489381	*	0.0258105984905511	(none)	2016-09-15 15:13:10.6370
+2016-09-15 17:13:10.9945	IDEAL PATH moveDistanceFactor	0.529041167662649
+2016-09-15 17:13:10.9945	IDEAL PATH eyeMovementsFactor	-0.141037365198351
+2016-09-15 17:13:10.9945	IDEAL PATH SCORE	0.361521534447399
+2016-09-15 17:13:10.9955	TargetDistance	0.122743621468544
+2016-09-15 17:13:10.9955	GAME DoubleClick	(1322.0, 1049.0, 0.0)
+2016-09-15 15:13:10.9850	EyeTracking Fixation	Ended	1322	175	148
+2016-09-15 17:13:11.0465	EyeTracking AOI	NULL
+2016-09-15 15:13:11.0190	EyeTracking Fixation	Started	1211	156	-63609549191019
+2016-09-15 17:13:11.1595	EyeTracking AOI	NULL
+2016-09-15 15:13:11.1670	EyeTracking Fixation	Ended	1200	163	148
+2016-09-15 17:13:11.2315	EyeTracking AOI	NULL
+2016-09-15 15:13:11.2370	EyeTracking Fixation	Started	1182	195	-63609549191237
+2016-09-15 17:13:11.3795	EyeTracking AOI	NULL
+2016-09-15 15:13:11.3360	EyeTracking Fixation	Ended	1167	199	99
+2016-09-15 17:13:11.3965	EyeTracking AOI	NULL
+2016-09-15 15:13:11.4030	EyeTracking Fixation	Started	1218	76	-63609549191403
+2016-09-15 17:13:11.5605	EyeTracking AOI	NULL
+2016-09-15 15:13:11.5180	EyeTracking Fixation	Ended	1218	86	115
+2016-09-15 17:13:11.5795	EyeTracking AOI	NULL
+2016-09-15 15:13:12.5660	EyeTracking Fixation	Started	1484	487	-63609549192566
+2016-09-15 17:13:12.7157	EyeTracking AOI	NULL
+2016-09-15 15:13:12.6860	EyeTracking Fixation	Ended	1476	490	120
+2016-09-15 17:13:12.7497	EyeTracking AOI	NULL
+2016-09-15 15:13:12.7670	EyeTracking Fixation	Started	990	967	-63609549192767
+2016-09-15 17:13:12.9147	EyeTracking AOI	NULL
+2016-09-15 15:13:12.8670	EyeTracking Fixation	Ended	989	952	100
+2016-09-15 17:13:12.9307	EyeTracking AOI	NULL
+2016-09-15 15:13:12.9150	EyeTracking Fixation	Started	1546	549	-63609549192915
+2016-09-15 17:13:13.0637	EyeTracking AOI	NULL
+2016-09-15 15:13:13.0840	EyeTracking Fixation	Ended	1540	529	169
+2016-09-15 17:13:13.1477	EyeTracking AOI	NULL
+2016-09-15 15:13:13.1170	EyeTracking Fixation	Started	1468	528	-63609549193117
+2016-09-15 17:13:13.2647	EyeTracking AOI	NULL
+2016-09-15 15:13:13.2500	EyeTracking Fixation	Ended	1492	524	133
+2016-09-15 17:13:13.3167	EyeTracking AOI	NULL
+2016-09-15 15:13:13.2670	EyeTracking Fixation	Started	1497	537	-63609549193267
+2016-09-15 17:13:13.4147	EyeTracking AOI	NULL
+2016-09-15 15:13:13.5000	EyeTracking Fixation	Ended	1496	530	233
+2016-09-15 17:13:13.5647	EyeTracking AOI	NULL
+2016-09-15 15:13:13.5170	EyeTracking Fixation	Started	1506	531	-63609549193517
+2016-09-15 17:13:13.6648	EyeTracking AOI	NULL
+2016-09-15 15:13:13.6830	EyeTracking Fixation	Ended	1494	535	166
+2016-09-15 17:13:13.7328	EyeTracking AOI	NULL
+2016-09-15 17:13:13.7978	GAME Move	(0.8, 0.0, -0.1)
+2016-09-15 17:13:13.7978	IDEAL PATH Gaze Factor	0.0279133659431723	=	0.052814133290454	*	0.528520761472339	(none)	2016-09-15 15:13:10.8370
+2016-09-15 17:13:13.7978	IDEAL PATH Gaze Factor	0.0246990948506252	=	0.052814133290454	*	0.467660705796141	(none)	2016-09-15 15:13:11.0190
+2016-09-15 17:13:13.7978	IDEAL PATH Gaze Factor	0.0168295605225553	=	0.0353283729442902	*	0.476375194212712	(none)	2016-09-15 15:13:11.2370
+2016-09-15 17:13:13.7978	IDEAL PATH Gaze Factor	0.0171350433374035	=	0.0410380089756906	*	0.417540805830851	(none)	2016-09-15 15:13:11.4030
+2016-09-15 17:13:13.7978	IDEAL PATH Gaze Factor	0.0358507895503686	=	0.0428222702355032	*	0.837199647594706	(none)	2016-09-15 15:13:12.5660
+2016-09-15 17:13:13.7978	IDEAL PATH Gaze Factor	0.0162986943620103	=	0.0356852251962527	*	0.45673508496513	(none)	2016-09-15 15:13:12.7670
+2016-09-15 17:13:13.7978	IDEAL PATH Gaze Factor	0.0530407525051088	=	0.060308030581667	*	0.879497340462526	(none)	2016-09-15 15:13:12.9150
+2016-09-15 17:13:13.7978	IDEAL PATH Gaze Factor	0.0412945734233807	=	0.0474613495110161	*	0.870067409562301	(none)	2016-09-15 15:13:13.1170
+2016-09-15 17:13:13.7978	IDEAL PATH Gaze Factor	0.0728470809761505	=	0.0831465747072687	*	0.876128466297268	(none)	2016-09-15 15:13:13.2670
+2016-09-15 17:13:13.7978	IDEAL PATH Gaze Factor	0.0521222571341147	=	0.0592374738257794	*	0.879886561121917	(none)	2016-09-15 15:13:13.5170
+2016-09-15 17:13:13.7978	IDEAL PATH moveDistanceFactor	0.999994528405725
+2016-09-15 17:13:13.7978	IDEAL PATH eyeMovementsFactor	0.35803121260489
+2016-09-15 17:13:13.7978	IDEAL PATH SCORE	0.839503699455517
+2016-09-15 17:13:13.7988	TargetDistance	0.0233412571251392
+2016-09-15 17:13:13.7988	GAME DoubleClick	(1541.0, 698.0, 0.0)
+2016-09-15 15:13:13.6990	EyeTracking Fixation	Started	1523	524	-63609549193699
+2016-09-15 17:13:13.8318	EyeTracking AOI	NULL
+2016-09-15 15:13:13.8150	EyeTracking Fixation	Ended	1511	518	116
+2016-09-15 17:13:13.8678	EyeTracking AOI	NULL
+2016-09-15 15:13:13.8330	EyeTracking Fixation	Started	1512	505	-63609549193833
+2016-09-15 17:13:13.9698	EyeTracking AOI	NULL
+2016-09-15 15:13:13.9660	EyeTracking Fixation	Ended	1506	518	133
+2016-09-15 17:13:14.0168	EyeTracking AOI	NULL
+2016-09-15 15:13:14.9660	EyeTracking Fixation	Started	823	436	-63609549194966
+2016-09-15 17:13:15.0999	EyeTracking AOI	NULL
+2016-09-15 15:13:15.0830	EyeTracking Fixation	Ended	805	426	117
+2016-09-15 17:13:15.1359	EyeTracking AOI	NULL
+2016-09-15 15:13:15.1660	EyeTracking Fixation	Started	760	438	-63609549195166
+2016-09-15 17:13:15.2999	EyeTracking AOI	NULL
+2016-09-15 15:13:15.2640	EyeTracking Fixation	Ended	757	454	98
+2016-09-15 17:13:15.3159	EyeTracking AOI	NULL
+2016-09-15 17:13:15.4999	GAME HELP	VirtualAssistant2D activated	Congratulations. You reached the target! 	 (Click on close-Button to go back to menu)
+2016-09-15 15:13:15.4310	EyeTracking Fixation	Started	744	472	-63609549195431
+2016-09-15 17:13:15.5669	EyeTracking AOI	NULL
+2016-09-15 15:13:15.7660	EyeTracking Fixation	Ended	740	466	335
+2016-09-15 17:13:15.8210	EyeTracking AOI	NULL
+2016-09-15 15:13:15.8840	EyeTracking Fixation	Started	1458	919	-63609549195884
+2016-09-15 17:13:16.0170	EyeTracking AOI	NULL
+2016-09-15 15:13:15.9990	EyeTracking Fixation	Ended	1464	918	115
+2016-09-15 17:13:16.0500	EyeTracking AOI	NULL
+2016-09-15 15:13:16.0500	EyeTracking Fixation	Started	1344	916	-63609549196050
+2016-09-15 17:13:16.1930	EyeTracking AOI	NULL
+2016-09-15 15:13:16.1480	EyeTracking Fixation	Ended	1338	913	98
+2016-09-15 17:13:16.2010	EyeTracking AOI	NULL
+2016-09-15 15:13:16.6320	EyeTracking Fixation	Started	1510	901	-63609549196632
+2016-09-15 17:13:16.7651	EyeTracking AOI	NULL
+2016-09-15 15:13:16.8490	EyeTracking Fixation	Ended	1506	912	217
+2016-09-15 17:13:16.9021	EyeTracking AOI	NULL
+2016-09-15 15:13:16.8640	EyeTracking Fixation	Started	1659	899	-63609549196864
+2016-09-15 17:13:17.0161	EyeTracking AOI	NULL
+2016-09-15 15:13:16.9980	EyeTracking Fixation	Ended	1641	908	134
+2016-09-15 17:13:17.0511	EyeTracking AOI	NULL
+2016-09-15 15:13:17.0480	EyeTracking Fixation	Started	1310	964	-63609549197048
+2016-09-15 17:13:17.1841	EyeTracking AOI	NULL
+2016-09-15 15:13:17.1640	EyeTracking Fixation	Ended	1317	957	116
+2016-09-15 17:13:17.2171	EyeTracking AOI	NULL
+2016-09-15 15:13:17.1810	EyeTracking Fixation	Started	1326	972	-63609549197181
+2016-09-15 17:13:17.3191	EyeTracking AOI	NULL
+2016-09-15 15:13:17.2810	EyeTracking Fixation	Ended	1322	963	100
+2016-09-15 17:13:17.3501	EyeTracking AOI	NULL
+2016-09-15 15:13:17.3140	EyeTracking Fixation	Started	1684	855	-63609549197314
+2016-09-15 17:13:17.4511	EyeTracking AOI	NULL
+2016-09-15 15:13:17.4630	EyeTracking Fixation	Ended	1700	861	149
+2016-09-15 17:13:17.5181	EyeTracking AOI	NULL
+2016-09-15 15:13:17.5660	EyeTracking Fixation	Started	1699	858	-63609549197566
+2016-09-15 17:13:17.7032	EyeTracking AOI	NULL
+2016-09-15 15:13:17.7310	EyeTracking Fixation	Ended	1699	858	165
+2016-09-15 17:13:17.7852	EyeTracking AOI	NULL
+2016-09-15 15:13:17.8140	EyeTracking Fixation	Started	1688	864	-63609549197814
+2016-09-15 17:13:17.9512	EyeTracking AOI	NULL
+2016-09-15 15:13:17.9470	EyeTracking Fixation	Ended	1691	866	133
+2016-09-15 17:13:18.0002	EyeTracking AOI	NULL
+2016-09-15 15:13:18.0470	EyeTracking Fixation	Started	502	642	-63609549198047
+2016-09-15 17:13:18.1892	EyeTracking AOI	NULL
+2016-09-15 15:13:18.1640	EyeTracking Fixation	Ended	511	634	117
+2016-09-15 17:13:18.2182	EyeTracking AOI	NULL
+2016-09-15 17:13:18.2342	GAME HELP	VirtualAssistant2D deactivated
+2016-09-15 15:13:18.2960	EyeTracking Fixation	Started	278	725	-63609549198296
+2016-09-15 15:13:18.3960	EyeTracking Fixation	Ended	269	728	100
+2016-09-15 15:13:18.4140	EyeTracking Fixation	Started	276	743	-63609549198414
+2016-09-15 15:13:18.5470	EyeTracking Fixation	Ended	262	732	133
+2016-09-15 15:13:18.8460	EyeTracking Fixation	Started	562	419	-63609549198846
+2016-09-15 15:13:19.1800	EyeTracking Fixation	Ended	556	411	334
+2016-09-15 15:13:19.2470	EyeTracking Fixation	Started	983	6	-63609549199247
+2016-09-15 15:13:19.3800	EyeTracking Fixation	Ended	975	4	133
+2016-09-15 15:13:19.4280	EyeTracking Fixation	Started	397	233	-63609549199428
+2016-09-15 15:13:19.5790	EyeTracking Fixation	Ended	382	232	151

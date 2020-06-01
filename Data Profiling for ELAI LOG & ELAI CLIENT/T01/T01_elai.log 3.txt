@@ -1,0 +1,807 @@
+2016-09-15 17:10:26.1960	GAME SCENE	TaskControlScene
+2016-09-15 17:10:26.1980	EyeTracking AOI	NULL
+2016-09-15 17:10:26.1980	EyeTracking AOI	NULL
+2016-09-15 17:10:26.1980	EyeTracking AOI	NULL
+2016-09-15 17:10:26.1980	EyeTracking AOI	NULL
+2016-09-15 17:10:26.1980	EyeTracking AOI	NULL
+2016-09-15 17:10:26.1990	EyeTracking AOI	NULL
+2016-09-15 17:10:26.1990	EyeTracking AOI	NULL
+2016-09-15 17:10:26.1990	EyeTracking AOI	NULL
+2016-09-15 17:10:26.1990	EyeTracking AOI	NULL
+2016-09-15 17:10:26.1990	EyeTracking AOI	NULL
+2016-09-15 17:10:26.1990	EyeTracking AOI	NULL
+2016-09-15 15:10:26.1800	EyeTracking Fixation	Ended	405	374	184
+2016-09-15 17:10:26.2270	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:26.1950	EyeTracking Fixation	Started	392	372	-63609549026195
+2016-09-15 17:10:26.3260	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:26.4280	EyeTracking Fixation	Ended	402	377	233
+2016-09-15 17:10:26.4790	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:26.4620	EyeTracking Fixation	Started	604	461	-63609549026462
+2016-09-15 17:10:26.5971	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:26.5940	EyeTracking Fixation	Ended	624	470	132
+2016-09-15 17:10:26.6451	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:27.6600	EyeTracking Fixation	Started	859	559	-63609549027660
+2016-09-15 17:10:27.7912	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:27.7600	EyeTracking Fixation	Ended	854	563	100
+2016-09-15 17:10:27.8082	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:27.8440	EyeTracking Fixation	Started	1045	564	-63609549027844
+2016-09-15 17:10:27.9742	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:27.9430	EyeTracking Fixation	Ended	1050	564	99
+2016-09-15 17:10:27.9922	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:28.0760	EyeTracking Fixation	Started	1147	464	-63609549028076
+2016-09-15 17:10:28.2072	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:28.1760	EyeTracking Fixation	Ended	1142	467	100
+2016-09-15 17:10:28.2262	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:28.2430	EyeTracking Fixation	Started	1248	463	-63609549028243
+2016-09-15 17:10:28.3732	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:28.3600	EyeTracking Fixation	Ended	1247	454	117
+2016-09-15 17:10:28.4092	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:28.4590	EyeTracking Fixation	Started	1372	458	-63609549028459
+2016-09-15 17:10:28.5913	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:28.5600	EyeTracking Fixation	Ended	1374	462	101
+2016-09-15 17:10:28.6123	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:28.6600	EyeTracking Fixation	Started	1428	462	-63609549028660
+2016-09-15 17:10:28.7903	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:28.7590	EyeTracking Fixation	Ended	1425	461	99
+2016-09-15 17:10:28.8083	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:28.8240	EyeTracking Fixation	Started	870	518	-63609549028824
+2016-09-15 17:10:28.9563	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:28.9250	EyeTracking Fixation	Ended	860	524	101
+2016-09-15 17:10:28.9763	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:29.3750	EyeTracking Fixation	Started	453	555	-63609549029375
+2016-09-15 17:10:29.5073	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:29.5740	EyeTracking Fixation	Ended	453	546	199
+2016-09-15 17:10:29.6234	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:29.8920	EyeTracking Fixation	Started	495	546	-63609549029892
+2016-09-15 17:10:30.0234	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:30.0090	EyeTracking Fixation	Ended	493	550	117
+2016-09-15 17:10:30.0564	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:30.1420	EyeTracking Fixation	Started	823	509	-63609549030142
+2016-09-15 17:10:30.5244	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:30.4930	EyeTracking Fixation	Ended	820	512	351
+2016-09-15 17:10:30.5424	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:30.6590	EyeTracking Fixation	Started	418	555	-63609549030659
+2016-09-15 17:10:30.7885	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:30.7580	EyeTracking Fixation	Ended	423	564	99
+2016-09-15 17:10:30.8055	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:30.8740	EyeTracking Fixation	Started	556	529	-63609549030874
+2016-09-15 17:10:31.0045	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:31.0410	EyeTracking Fixation	Ended	562	540	167
+2016-09-15 17:10:31.0885	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:31.2910	EyeTracking Fixation	Started	1186	536	-63609549031291
+2016-09-15 17:10:31.4225	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:31.4220	EyeTracking Fixation	Ended	1181	533	131
+2016-09-15 17:10:31.4735	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:31.4570	EyeTracking Fixation	Started	1131	511	-63609549031457
+2016-09-15 17:10:31.5906	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:31.5900	EyeTracking Fixation	Ended	1131	524	133
+2016-09-15 17:10:31.6386	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:31.9080	EyeTracking Fixation	Started	1428	538	-63609549031908
+2016-09-15 17:10:32.0396	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:32.2400	EyeTracking Fixation	Ended	1416	550	332
+2016-09-15 17:10:32.2916	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:32.3080	EyeTracking Fixation	Started	1465	551	-63609549032308
+2016-09-15 17:10:32.4386	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:32.4910	EyeTracking Fixation	Ended	1459	546	183
+2016-09-15 17:10:32.5396	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:32.7730	EyeTracking Fixation	Started	1014	516	-63609549032773
+2016-09-15 17:10:32.9017	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:32.9240	EyeTracking Fixation	Ended	1008	531	151
+2016-09-15 17:10:32.9727	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:33.1560	EyeTracking Fixation	Started	1015	557	-63609549033156
+2016-09-15 17:10:33.2857	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:33.2730	EyeTracking Fixation	Ended	1023	544	117
+2016-09-15 17:10:33.3207	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:33.5070	EyeTracking Fixation	Started	457	562	-63609549033507
+2016-09-15 17:10:33.6378	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:33.6230	EyeTracking Fixation	Ended	452	562	116
+2016-09-15 17:10:33.6708	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:33.6560	EyeTracking Fixation	Started	938	535	-63609549033656
+2016-09-15 17:10:33.7868	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:33.7880	EyeTracking Fixation	Ended	949	529	132
+2016-09-15 17:10:33.8388	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:34.1730	EyeTracking Fixation	Started	1012	527	-63609549034173
+2016-09-15 17:10:34.3038	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:34.2890	EyeTracking Fixation	Ended	1015	534	116
+2016-09-15 17:10:34.3418	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:34.4370	EyeTracking Fixation	Started	442	553	-63609549034437
+2016-09-15 17:10:34.5698	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:34.5380	EyeTracking Fixation	Ended	434	542	101
+2016-09-15 17:10:34.5869	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:35.0410	EyeTracking Fixation	Started	1381	522	-63609549035041
+2016-09-15 17:10:35.1699	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:35.2380	EyeTracking Fixation	Ended	1375	541	197
+2016-09-15 17:10:35.2879	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:35.5720	EyeTracking Fixation	Started	1466	522	-63609549035572
+2016-09-15 17:10:35.7020	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:35.6880	EyeTracking Fixation	Ended	1464	544	116
+2016-09-15 17:10:35.7360	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:35.7880	EyeTracking Fixation	Started	1034	511	-63609549035788
+2016-09-15 17:10:35.9210	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:35.9210	EyeTracking Fixation	Ended	1027	520	133
+2016-09-15 17:10:35.9720	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:36.0380	EyeTracking Fixation	Started	1022	513	-63609549036038
+2016-09-15 17:10:36.1700	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:36.1380	EyeTracking Fixation	Ended	1023	514	100
+2016-09-15 17:10:36.1870	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:36.3880	EyeTracking Fixation	Started	1054	554	-63609549036388
+2016-09-15 17:10:36.5190	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:36.5390	EyeTracking Fixation	Ended	1059	548	151
+2016-09-15 17:10:36.5861	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:36.6720	EyeTracking Fixation	Started	1025	549	-63609549036672
+2016-09-15 17:10:36.8021	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:36.7870	EyeTracking Fixation	Ended	1033	549	115
+2016-09-15 17:10:36.8361	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:37.1370	EyeTracking Fixation	Started	427	663	-63609549037137
+2016-09-15 17:10:37.2681	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:37.3370	EyeTracking Fixation	Ended	422	652	200
+2016-09-15 17:10:37.3861	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:37.7200	EyeTracking Fixation	Started	749	443	-63609549037720
+2016-09-15 17:10:37.8522	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:37.8700	EyeTracking Fixation	Ended	743	423	150
+2016-09-15 17:10:37.9182	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:37.8870	EyeTracking Fixation	Started	784	452	-63609549037887
+2016-09-15 17:10:38.0172	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:38.0030	EyeTracking Fixation	Ended	771	444	116
+2016-09-15 17:10:38.0522	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:38.1540	EyeTracking Fixation	Started	928	443	-63609549038154
+2016-09-15 17:10:38.2832	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:38.2880	EyeTracking Fixation	Ended	934	455	134
+2016-09-15 17:10:38.3342	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:38.4690	EyeTracking Fixation	Started	1134	455	-63609549038469
+2016-09-15 17:10:38.6003	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:38.5690	EyeTracking Fixation	Ended	1141	447	100
+2016-09-15 17:10:38.6183	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:38.6700	EyeTracking Fixation	Started	858	453	-63609549038670
+2016-09-15 17:10:38.8003	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:38.7690	EyeTracking Fixation	Ended	841	458	99
+2016-09-15 17:10:38.8173	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:38.8520	EyeTracking Fixation	Started	910	468	-63609549038852
+2016-09-15 17:10:39.0503	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:39.0190	EyeTracking Fixation	Ended	908	459	167
+2016-09-15 17:10:39.0683	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:39.0360	EyeTracking Fixation	Started	917	481	-63609549039036
+2016-09-15 17:10:39.1723	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:39.1520	EyeTracking Fixation	Ended	913	460	116
+2016-09-15 17:10:39.2033	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:39.2350	EyeTracking Fixation	Started	799	484	-63609549039235
+2016-09-15 17:10:39.3703	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:39.3530	EyeTracking Fixation	Ended	803	476	118
+2016-09-15 17:10:39.4003	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:39.4690	EyeTracking Fixation	Started	943	504	-63609549039469
+2016-09-15 17:10:39.5984	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:39.5670	EyeTracking Fixation	Ended	944	504	98
+2016-09-15 17:10:39.6194	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:39.6520	EyeTracking Fixation	Started	1047	504	-63609549039652
+2016-09-15 17:10:39.7834	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:39.7520	EyeTracking Fixation	Ended	1048	506	100
+2016-09-15 17:10:39.8004	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:39.9880	EyeTracking Fixation	Started	908	501	-63609549039988
+2016-09-15 17:10:40.1174	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:40.1340	EyeTracking Fixation	Ended	905	514	146
+2016-09-15 17:10:40.1844	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:40.8670	EyeTracking Fixation	Started	1434	552	-63609549040867
+2016-09-15 17:10:40.9995	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:40.9680	EyeTracking Fixation	Ended	1419	552	101
+2016-09-15 17:10:41.0155	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:40.9840	EyeTracking Fixation	Started	1426	534	-63609549040984
+2016-09-15 17:10:41.1155	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:41.1000	EyeTracking Fixation	Ended	1421	538	116
+2016-09-15 17:10:41.1515	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:41.2680	EyeTracking Fixation	Started	549	527	-63609549041268
+2016-09-15 17:10:41.3995	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:41.4010	EyeTracking Fixation	Ended	554	544	133
+2016-09-15 17:10:41.4505	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:41.7360	EyeTracking Fixation	Started	792	495	-63609549041736
+2016-09-15 17:10:41.8676	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:41.8350	EyeTracking Fixation	Ended	789	505	99
+2016-09-15 17:10:41.8836	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:41.8840	EyeTracking Fixation	Started	874	488	-63609549041884
+2016-09-15 17:10:42.0146	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:42.0350	EyeTracking Fixation	Ended	884	487	151
+2016-09-15 17:10:42.0816	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:42.4010	EyeTracking Fixation	Started	924	524	-63609549042401
+2016-09-15 17:10:42.5326	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:42.5330	EyeTracking Fixation	Ended	925	511	132
+2016-09-15 17:10:42.5827	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:42.5500	EyeTracking Fixation	Started	919	516	-63609549042550
+2016-09-15 17:10:42.6817	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:42.6500	EyeTracking Fixation	Ended	918	521	100
+2016-09-15 17:10:42.6997	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:42.7000	EyeTracking Fixation	Started	915	515	-63609549042700
+2016-09-15 17:10:42.8317	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:42.8830	EyeTracking Fixation	Ended	917	515	183
+2016-09-15 17:10:42.9347	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:42.9330	EyeTracking Fixation	Started	927	533	-63609549042933
+2016-09-15 17:10:43.0637	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:43.0640	EyeTracking Fixation	Ended	923	519	131
+2016-09-15 17:10:43.1147	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:43.1180	EyeTracking Fixation	Started	497	558	-63609549043118
+2016-09-15 17:10:43.2517	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:43.2320	EyeTracking Fixation	Ended	492	557	114
+2016-09-15 17:10:43.2817	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:43.3660	EyeTracking Fixation	Started	966	538	-63609549043366
+2016-09-15 17:10:43.4977	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:43.4660	EyeTracking Fixation	Ended	966	541	100
+2016-09-15 17:10:43.5167	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:43.4830	EyeTracking Fixation	Started	916	563	-63609549043483
+2016-09-15 17:10:43.6168	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:43.5830	EyeTracking Fixation	Ended	907	553	100
+2016-09-15 17:10:43.6318	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:43.7510	EyeTracking Fixation	Started	914	550	-63609549043751
+2016-09-15 17:10:43.8818	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:43.8500	EyeTracking Fixation	Ended	901	549	99
+2016-09-15 17:10:43.8988	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:43.8820	EyeTracking Fixation	Started	892	541	-63609549043882
+2016-09-15 17:10:44.0158	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:43.9830	EyeTracking Fixation	Ended	901	552	101
+2016-09-15 17:10:44.0308	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:44.4990	EyeTracking Fixation	Started	725	353	-63609549044499
+2016-09-15 17:10:44.6279	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:44.6140	EyeTracking Fixation	Ended	719	335	115
+2016-09-15 17:10:44.6629	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:44.6980	EyeTracking Fixation	Started	858	340	-63609549044698
+2016-09-15 17:10:44.8289	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:44.9150	EyeTracking Fixation	Ended	849	337	217
+2016-09-15 17:10:44.9639	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:44.9310	EyeTracking Fixation	Started	887	350	-63609549044931
+2016-09-15 17:10:45.0639	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:45.0810	EyeTracking Fixation	Ended	906	343	150
+2016-09-15 17:10:45.1299	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:45.1650	EyeTracking Fixation	Started	1058	360	-63609549045165
+2016-09-15 17:10:45.2949	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:45.3140	EyeTracking Fixation	Ended	1056	338	149
+2016-09-15 17:10:45.3629	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:45.3300	EyeTracking Fixation	Started	1159	341	-63609549045330
+2016-09-15 17:10:45.4619	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:45.4470	EyeTracking Fixation	Ended	1144	342	117
+2016-09-15 17:10:45.4939	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:45.5300	EyeTracking Fixation	Started	1298	320	-63609549045530
+2016-09-15 17:10:45.6620	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:45.7480	EyeTracking Fixation	Ended	1297	328	218
+2016-09-15 17:10:45.7970	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:45.7650	EyeTracking Fixation	Started	1412	335	-63609549045765
+2016-09-15 17:10:45.8950	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:45.9980	EyeTracking Fixation	Ended	1426	336	233
+2016-09-15 17:10:46.0450	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:46.0130	EyeTracking Fixation	Started	1497	322	-63609549046013
+2016-09-15 17:10:46.1460	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:46.1150	EyeTracking Fixation	Ended	1522	324	102
+2016-09-15 17:10:46.1630	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:46.1980	EyeTracking Fixation	Started	1030	405	-63609549046198
+2016-09-15 17:10:46.3290	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:46.3140	EyeTracking Fixation	Ended	1017	417	116
+2016-09-15 17:10:46.3620	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:46.5140	EyeTracking Fixation	Started	965	387	-63609549046514
+2016-09-15 17:10:46.6451	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:46.6140	EyeTracking Fixation	Ended	974	391	100
+2016-09-15 17:10:46.6621	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:46.6300	EyeTracking Fixation	Started	851	389	-63609549046630
+2016-09-15 17:10:46.7621	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:46.7310	EyeTracking Fixation	Ended	863	383	101
+2016-09-15 17:10:46.7781	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:46.9150	EyeTracking Fixation	Started	445	446	-63609549046915
+2016-09-15 17:10:47.0451	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:47.0140	EyeTracking Fixation	Ended	443	432	99
+2016-09-15 17:10:47.0621	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:47.1470	EyeTracking Fixation	Started	487	421	-63609549047147
+2016-09-15 17:10:47.2781	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:47.2620	EyeTracking Fixation	Ended	498	431	115
+2016-09-15 17:10:47.3131	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:47.2810	EyeTracking Fixation	Started	567	420	-63609549047281
+2016-09-15 17:10:47.4111	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:47.3970	EyeTracking Fixation	Ended	554	419	116
+2016-09-15 17:10:47.4481	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:47.4470	EyeTracking Fixation	Started	717	390	-63609549047447
+2016-09-15 17:10:47.5791	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:47.5470	EyeTracking Fixation	Ended	716	408	100
+2016-09-15 17:10:47.7452	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:47.7140	EyeTracking Fixation	Started	798	386	-63609549047714
+2016-09-15 17:10:47.8442	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:47.8280	EyeTracking Fixation	Ended	800	394	114
+2016-09-15 17:10:47.8782	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:47.8470	EyeTracking Fixation	Started	807	414	-63609549047847
+2016-09-15 17:10:47.9782	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:47.9470	EyeTracking Fixation	Ended	805	401	100
+2016-09-15 17:10:47.9992	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:47.9820	EyeTracking Fixation	Started	674	425	-63609549047982
+2016-09-15 17:10:48.1112	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:48.1300	EyeTracking Fixation	Ended	655	414	148
+2016-09-15 17:10:48.1802	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:48.2290	EyeTracking Fixation	Started	687	428	-63609549048229
+2016-09-15 17:10:48.3622	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:48.3800	EyeTracking Fixation	Ended	680	416	151
+2016-09-15 17:10:48.4272	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:48.4630	EyeTracking Fixation	Started	791	407	-63609549048463
+2016-09-15 17:10:48.5943	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:48.7130	EyeTracking Fixation	Ended	790	404	250
+2016-09-15 17:10:48.7603	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:48.7290	EyeTracking Fixation	Started	794	384	-63609549048729
+2016-09-15 17:10:48.8603	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:48.8300	EyeTracking Fixation	Ended	796	403	101
+2016-09-15 17:10:48.8873	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:49.0620	EyeTracking Fixation	Started	806	449	-63609549049062
+2016-09-15 17:10:49.1943	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:49.1940	EyeTracking Fixation	Ended	800	429	132
+2016-09-15 17:10:49.2433	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:49.2460	EyeTracking Fixation	Started	806	437	-63609549049246
+2016-09-15 17:10:49.3763	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:49.3450	EyeTracking Fixation	Ended	806	433	99
+2016-09-15 17:10:49.3963	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:49.4950	EyeTracking Fixation	Started	483	548	-63609549049495
+2016-09-15 17:10:49.6274	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:49.6120	EyeTracking Fixation	Ended	471	559	117
+2016-09-15 17:10:49.6624	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:50.1440	EyeTracking Fixation	Started	897	242	-63609549050144
+2016-09-15 17:10:50.2754	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:50.3300	EyeTracking Fixation	Ended	895	224	186
+2016-09-15 17:10:50.3784	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:50.3620	EyeTracking Fixation	Started	848	238	-63609549050362
+2016-09-15 17:10:50.4924	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:50.4610	EyeTracking Fixation	Ended	856	220	99
+2016-09-15 17:10:50.5114	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:50.5280	EyeTracking Fixation	Started	1008	233	-63609549050528
+2016-09-15 17:10:50.6585	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:50.7940	EyeTracking Fixation	Ended	1009	221	266
+2016-09-15 17:10:50.8425	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:50.8110	EyeTracking Fixation	Started	974	233	-63609549050811
+2016-09-15 17:10:50.9415	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:50.9950	EyeTracking Fixation	Ended	975	226	184
+2016-09-15 17:10:51.0455	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:51.0600	EyeTracking Fixation	Started	1193	211	-63609549051060
+2016-09-15 17:10:51.1935	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:51.2110	EyeTracking Fixation	Ended	1198	216	151
+2016-09-15 17:10:51.2585	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:51.2270	EyeTracking Fixation	Started	1113	207	-63609549051227
+2016-09-15 17:10:51.3585	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:51.4440	EyeTracking Fixation	Ended	1121	219	217
+2016-09-15 17:10:51.4925	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:51.6110	EyeTracking Fixation	Started	809	252	-63609549051611
+2016-09-15 17:10:51.7426	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:51.8110	EyeTracking Fixation	Ended	802	262	200
+2016-09-15 17:10:51.8596	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:51.8620	EyeTracking Fixation	Started	490	295	-63609549051862
+2016-09-15 17:10:51.9916	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:51.9600	EyeTracking Fixation	Ended	480	281	98
+2016-09-15 17:10:52.0086	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:51.9940	EyeTracking Fixation	Started	458	307	-63609549051994
+2016-09-15 17:10:52.1256	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:52.1770	EyeTracking Fixation	Ended	443	316	183
+2016-09-15 17:10:52.2246	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:52.3610	EyeTracking Fixation	Started	769	292	-63609549052361
+2016-09-15 17:10:52.4916	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:52.4600	EyeTracking Fixation	Ended	782	293	99
+2016-09-15 17:10:52.5106	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:52.6600	EyeTracking Fixation	Started	844	265	-63609549052660
+2016-09-15 17:10:52.7917	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:52.7760	EyeTracking Fixation	Ended	837	264	116
+2016-09-15 17:10:52.8247	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:52.8270	EyeTracking Fixation	Started	910	262	-63609549052827
+2016-09-15 17:10:52.9587	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:53.0100	EyeTracking Fixation	Ended	910	274	183
+2016-09-15 17:10:53.0617	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:53.0420	EyeTracking Fixation	Started	1368	287	-63609549053042
+2016-09-15 17:10:53.1737	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:53.2090	EyeTracking Fixation	Ended	1365	290	167
+2016-09-15 17:10:53.2597	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:53.2430	EyeTracking Fixation	Started	1418	303	-63609549053243
+2016-09-15 17:10:53.3737	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:53.3920	EyeTracking Fixation	Ended	1424	309	149
+2016-09-15 17:10:53.4417	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:53.4430	EyeTracking Fixation	Started	1017	256	-63609549053443
+2016-09-15 17:10:53.5747	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:53.6760	EyeTracking Fixation	Ended	1010	251	233
+2016-09-15 17:10:53.7288	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:53.7270	EyeTracking Fixation	Started	863	275	-63609549053727
+2016-09-15 17:10:53.8598	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:53.8580	EyeTracking Fixation	Ended	857	272	131
+2016-09-15 17:10:53.9098	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:53.9420	EyeTracking Fixation	Started	925	297	-63609549053942
+2016-09-15 17:10:54.0738	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:54.0580	EyeTracking Fixation	Ended	921	266	116
+2016-09-15 17:10:54.1088	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:54.1750	EyeTracking Fixation	Started	926	275	-63609549054175
+2016-09-15 17:10:54.3088	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:54.3740	EyeTracking Fixation	Ended	922	281	199
+2016-09-15 17:10:54.4238	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:54.4240	EyeTracking Fixation	Started	458	332	-63609549054424
+2016-09-15 17:10:54.5578	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:54.5590	EyeTracking Fixation	Ended	457	330	135
+2016-09-15 17:10:54.6079	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:54.6420	EyeTracking Fixation	Started	504	304	-63609549054642
+2016-09-15 17:10:54.7759	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:54.7900	EyeTracking Fixation	Ended	505	312	148
+2016-09-15 17:10:54.8459	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:54.8410	EyeTracking Fixation	Started	875	284	-63609549054841
+2016-09-15 17:10:54.9779	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:55.0080	EyeTracking Fixation	Ended	881	295	167
+2016-09-15 17:10:55.0569	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:55.0780	EyeTracking Fixation	Started	923	285	-63609549055078
+2016-09-15 17:10:55.2059	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:55.2750	EyeTracking Fixation	Ended	917	276	197
+2016-09-15 17:10:55.3229	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:55.3070	EyeTracking Fixation	Started	924	237	-63609549055307
+2016-09-15 17:10:55.4399	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:55.6080	EyeTracking Fixation	Ended	920	226	301
+2016-09-15 17:10:55.6560	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:55.7270	EyeTracking Fixation	Started	497	324	-63609549055727
+2016-09-15 17:10:55.8550	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:55.8920	EyeTracking Fixation	Ended	483	320	165
+2016-09-15 17:10:55.9410	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:55.9090	EyeTracking Fixation	Started	487	340	-63609549055909
+2016-09-15 17:10:56.0400	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:56.0750	EyeTracking Fixation	Ended	483	324	166
+2016-09-15 17:10:56.1240	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:56.1080	EyeTracking Fixation	Started	869	300	-63609549056108
+2016-09-15 17:10:56.2380	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:56.2910	EyeTracking Fixation	Ended	881	306	183
+2016-09-15 17:10:56.3390	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:56.3070	EyeTracking Fixation	Started	886	280	-63609549056307
+2016-09-15 17:10:56.4390	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:56.5070	EyeTracking Fixation	Ended	882	301	200
+2016-09-15 17:10:56.5600	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:56.5430	EyeTracking Fixation	Started	829	289	-63609549056543
+2016-09-15 17:10:56.6751	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:56.7250	EyeTracking Fixation	Ended	822	304	182
+2016-09-15 17:10:56.7721	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:56.7410	EyeTracking Fixation	Started	782	297	-63609549056741
+2016-09-15 17:10:56.8731	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:56.9400	EyeTracking Fixation	Ended	782	301	199
+2016-09-15 17:10:57.1401	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:57.1080	EyeTracking Fixation	Started	795	317	-63609549057108
+2016-09-15 17:10:57.2371	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:57.2250	EyeTracking Fixation	Ended	789	315	117
+2016-09-15 17:10:57.2701	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:57.2390	EyeTracking Fixation	Started	795	342	-63609549057239
+2016-09-15 17:10:57.3711	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:57.3730	EyeTracking Fixation	Ended	790	321	134
+2016-09-15 17:10:57.4201	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:57.4750	EyeTracking Fixation	Started	809	277	-63609549057475
+2016-09-15 17:10:57.6032	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:57.9080	EyeTracking Fixation	Ended	800	268	433
+2016-09-15 17:10:57.9552	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:57.9230	EyeTracking Fixation	Started	794	252	-63609549057923
+2016-09-15 17:10:58.0552	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:58.0240	EyeTracking Fixation	Ended	799	265	101
+2016-09-15 17:10:58.0712	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:58.0390	EyeTracking Fixation	Started	804	322	-63609549058039
+2016-09-15 17:10:58.1722	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:58.3400	EyeTracking Fixation	Ended	806	320	301
+2016-09-15 17:10:58.3892	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:58.3740	EyeTracking Fixation	Started	552	502	-63609549058374
+2016-09-15 17:10:58.5032	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:58.5730	EyeTracking Fixation	Ended	547	499	199
+2016-09-15 17:10:58.6223	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:58.8070	EyeTracking Fixation	Started	727	254	-63609549058807
+2016-09-15 17:10:58.9423	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:58.9230	EyeTracking Fixation	Ended	725	246	116
+2016-09-15 17:10:58.9723	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:59.0070	EyeTracking Fixation	Started	800	275	-63609549059007
+2016-09-15 17:10:59.1393	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:59.1580	EyeTracking Fixation	Ended	797	286	151
+2016-09-15 17:10:59.2053	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:59.1890	EyeTracking Fixation	Started	888	323	-63609549059189
+2016-09-15 17:10:59.3203	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:59.3240	EyeTracking Fixation	Ended	883	321	135
+2016-09-15 17:10:59.3713	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:59.3550	EyeTracking Fixation	Started	962	314	-63609549059355
+2016-09-15 17:10:59.4893	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:59.5240	EyeTracking Fixation	Ended	972	312	169
+2016-09-15 17:10:59.5713	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:59.5560	EyeTracking Fixation	Started	923	314	-63609549059556
+2016-09-15 17:10:59.6864	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:59.8730	EyeTracking Fixation	Ended	915	313	317
+2016-09-15 17:10:59.9214	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:10:59.9050	EyeTracking Fixation	Started	804	320	-63609549059905
+2016-09-15 17:11:00.0364	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:00.1880	EyeTracking Fixation	Ended	798	333	283
+2016-09-15 17:11:00.2374	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:00.2550	EyeTracking Fixation	Started	492	372	-63609549060255
+2016-09-15 17:11:00.3864	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:00.5380	EyeTracking Fixation	Ended	490	379	283
+2016-09-15 17:11:00.5865	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:00.6550	EyeTracking Fixation	Started	897	375	-63609549060655
+2016-09-15 17:11:00.7865	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:00.7540	EyeTracking Fixation	Ended	886	374	99
+2016-09-15 17:11:00.8015	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:00.8550	EyeTracking Fixation	Started	1064	365	-63609549060855
+2016-09-15 17:11:00.9855	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:01.0710	EyeTracking Fixation	Ended	1056	372	216
+2016-09-15 17:11:01.1185	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:01.1070	EyeTracking Fixation	Started	895	356	-63609549061107
+2016-09-15 17:11:01.2365	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:01.2050	EyeTracking Fixation	Ended	882	369	98
+2016-09-15 17:11:01.2575	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:01.8380	EyeTracking Fixation	Started	918	395	-63609549061838
+2016-09-15 17:11:01.9686	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:02.0520	EyeTracking Fixation	Ended	917	378	214
+2016-09-15 17:11:02.1016	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:02.0690	EyeTracking Fixation	Started	910	368	-63609549062069
+2016-09-15 17:11:02.2006	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:02.2530	EyeTracking Fixation	Ended	916	374	184
+2016-09-15 17:11:02.3026	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:02.2840	EyeTracking Fixation	Started	1016	353	-63609549062284
+2016-09-15 17:11:02.4206	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:02.4360	EyeTracking Fixation	Ended	1031	368	152
+2016-09-15 17:11:02.4856	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:02.4530	EyeTracking Fixation	Started	1025	384	-63609549062453
+2016-09-15 17:11:02.5847	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:02.5530	EyeTracking Fixation	Ended	1031	367	100
+2016-09-15 17:11:02.6017	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:02.5850	EyeTracking Fixation	Started	1034	374	-63609549062585
+2016-09-15 17:11:02.7187	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:02.7010	EyeTracking Fixation	Ended	1032	361	116
+2016-09-15 17:11:02.7537	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:02.9380	EyeTracking Fixation	Started	915	360	-63609549062938
+2016-09-15 17:11:03.0677	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:03.1020	EyeTracking Fixation	Ended	929	374	164
+2016-09-15 17:11:03.1557	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:03.1380	EyeTracking Fixation	Started	1014	380	-63609549063138
+2016-09-15 17:11:03.2667	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:03.3020	EyeTracking Fixation	Ended	1027	386	164
+2016-09-15 17:11:03.3527	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:03.3200	EyeTracking Fixation	Started	1027	370	-63609549063320
+2016-09-15 17:11:03.4507	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:03.5200	EyeTracking Fixation	Ended	1031	380	200
+2016-09-15 17:11:03.5687	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:03.6530	EyeTracking Fixation	Started	1036	391	-63609549063653
+2016-09-15 17:11:03.7838	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:03.7850	EyeTracking Fixation	Ended	1032	385	132
+2016-09-15 17:11:03.8338	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:03.8340	EyeTracking Fixation	Started	1034	367	-63609549063834
+2016-09-15 17:11:03.9668	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:04.0180	EyeTracking Fixation	Ended	1032	385	184
+2016-09-15 17:11:04.0678	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:04.0360	EyeTracking Fixation	Started	1029	411	-63609549064036
+2016-09-15 17:11:04.1658	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:04.1350	EyeTracking Fixation	Ended	1029	392	99
+2016-09-15 17:11:04.1838	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:04.1690	EyeTracking Fixation	Started	1034	392	-63609549064169
+2016-09-15 17:11:04.2998	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:04.3340	EyeTracking Fixation	Ended	1032	382	165
+2016-09-15 17:11:04.3868	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:04.3680	EyeTracking Fixation	Started	1025	392	-63609549064368
+2016-09-15 17:11:04.4998	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:04.5520	EyeTracking Fixation	Ended	1027	385	184
+2016-09-15 17:11:04.6009	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:04.8010	EyeTracking Fixation	Started	728	465	-63609549064801
+2016-09-15 17:11:04.9339	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:04.9860	EyeTracking Fixation	Ended	730	448	185
+2016-09-15 17:11:05.0349	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:05.0860	EyeTracking Fixation	Started	775	478	-63609549065086
+2016-09-15 17:11:05.2159	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:05.1840	EyeTracking Fixation	Ended	786	475	98
+2016-09-15 17:11:05.2339	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:05.3170	EyeTracking Fixation	Started	876	488	-63609549065317
+2016-09-15 17:11:05.4509	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:05.5010	EyeTracking Fixation	Ended	862	479	184
+2016-09-15 17:11:05.5519	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:05.9010	EyeTracking Fixation	Started	1058	485	-63609549065901
+2016-09-15 17:11:06.0360	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:06.0190	EyeTracking Fixation	Ended	1063	494	118
+2016-09-15 17:11:06.0690	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:06.4680	EyeTracking Fixation	Started	866	482	-63609549066468
+2016-09-15 17:11:06.5981	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:06.6200	EyeTracking Fixation	Ended	874	482	152
+2016-09-15 17:11:06.6651	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:07.4330	EyeTracking Fixation	Started	1073	485	-63609549067433
+2016-09-15 17:11:07.5651	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:07.5840	EyeTracking Fixation	Ended	1065	487	151
+2016-09-15 17:11:07.6322	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:07.6340	EyeTracking Fixation	Started	529	573	-63609549067634
+2016-09-15 17:11:07.7652	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:07.7480	EyeTracking Fixation	Ended	515	573	114
+2016-09-15 17:11:07.7992	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:07.8650	EyeTracking Fixation	Started	482	560	-63609549067865
+2016-09-15 17:11:08.0002	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:08.0640	EyeTracking Fixation	Ended	487	570	199
+2016-09-15 17:11:08.1172	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:08.1330	EyeTracking Fixation	Started	578	546	-63609549068133
+2016-09-15 17:11:08.2642	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:08.2330	EyeTracking Fixation	Ended	581	558	100
+2016-09-15 17:11:08.2812	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:08.3670	EyeTracking Fixation	Started	713	538	-63609549068367
+2016-09-15 17:11:08.4962	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:08.4830	EyeTracking Fixation	Ended	721	541	116
+2016-09-15 17:11:08.5312	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:08.6000	EyeTracking Fixation	Started	1249	563	-63609549068600
+2016-09-15 17:11:08.7303	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:08.6990	EyeTracking Fixation	Ended	1249	559	99
+2016-09-15 17:11:08.7563	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:08.8990	EyeTracking Fixation	Started	1399	591	-63609549068899
+2016-09-15 17:11:09.0293	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:09.0160	EyeTracking Fixation	Ended	1405	583	117
+2016-09-15 17:11:09.0643	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:09.0490	EyeTracking Fixation	Started	1416	570	-63609549069049
+2016-09-15 17:11:09.1843	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:09.1820	EyeTracking Fixation	Ended	1409	582	133
+2016-09-15 17:11:09.2323	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:09.6160	EyeTracking Fixation	Started	1057	561	-63609549069616
+2016-09-15 17:11:09.7504	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:09.7170	EyeTracking Fixation	Ended	1059	549	101
+2016-09-15 17:11:09.7634	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:09.9660	EyeTracking Fixation	Started	1038	521	-63609549069966
+2016-09-15 17:11:10.0954	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:10.0980	EyeTracking Fixation	Ended	1031	537	132
+2016-09-15 17:11:10.1474	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:10.3640	EyeTracking Fixation	Started	1036	522	-63609549070364
+2016-09-15 17:11:10.4964	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:10.4650	EyeTracking Fixation	Ended	1030	518	101
+2016-09-15 17:11:10.5114	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:11.7460	EyeTracking Fixation	Started	419	673	-63609549071746
+2016-09-15 17:11:11.8786	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:11.8460	EyeTracking Fixation	Ended	423	670	100
+2016-09-15 17:11:11.8996	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:12.0300	EyeTracking Fixation	Started	553	632	-63609549072030
+2016-09-15 17:11:12.1626	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:12.1310	EyeTracking Fixation	Ended	553	622	101
+2016-09-15 17:11:12.1816	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:14.4280	EyeTracking Fixation	Started	539	696	-63609549074428
+2016-09-15 17:11:14.5588	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:14.5280	EyeTracking Fixation	Ended	542	703	100
+2016-09-15 17:11:14.5828	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:14.9950	EyeTracking Fixation	Started	481	746	-63609549074995
+2016-09-15 17:11:15.1269	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:15.1790	EyeTracking Fixation	Ended	489	755	184
+2016-09-15 17:11:15.2279	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:15.2440	EyeTracking Fixation	Started	1402	758	-63609549075244
+2016-09-15 17:11:15.3759	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:15.4430	EyeTracking Fixation	Ended	1388	764	199
+2016-09-15 17:11:15.4939	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:15.6620	EyeTracking Fixation	Started	780	719	-63609549075662
+2016-09-15 17:11:15.7920	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:15.7780	EyeTracking Fixation	Ended	786	714	116
+2016-09-15 17:11:15.8260	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:15.9280	EyeTracking Fixation	Started	1100	722	-63609549075928
+2016-09-15 17:11:16.0570	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:16.0270	EyeTracking Fixation	Ended	1099	716	99
+2016-09-15 17:11:16.0770	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:16.4250	EyeTracking Fixation	Started	804	688	-63609549076425
+2016-09-15 17:11:16.5590	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:16.5600	EyeTracking Fixation	Ended	812	685	135
+2016-09-15 17:11:16.6091	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:17.8770	EyeTracking Fixation	Started	515	740	-63609549077877
+2016-09-15 17:11:18.0072	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:18.0260	EyeTracking Fixation	Ended	499	741	149
+2016-09-15 17:11:18.0762	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:19.0580	EyeTracking Fixation	Started	699	798	-63609549079058
+2016-09-15 17:11:19.1903	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:19.1590	EyeTracking Fixation	Ended	708	815	101
+2016-09-15 17:11:19.2073	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:19.4080	EyeTracking Fixation	Started	668	732	-63609549079408
+2016-09-15 17:11:19.5403	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:19.5090	EyeTracking Fixation	Ended	670	725	101
+2016-09-15 17:11:19.5583	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:20.0760	EyeTracking Fixation	Started	504	946	-63609549080076
+2016-09-15 17:11:20.2064	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:20.1920	EyeTracking Fixation	Ended	487	952	116
+2016-09-15 17:11:20.3614	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:20.3280	EyeTracking Fixation	Started	558	497	-63609549080328
+2016-09-15 17:11:20.4554	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:20.4580	EyeTracking Fixation	Ended	557	502	130
+2016-09-15 17:11:20.5074	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:20.4910	EyeTracking Fixation	Started	454	520	-63609549080491
+2016-09-15 17:11:20.6225	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:20.6240	EyeTracking Fixation	Ended	444	511	133
+2016-09-15 17:11:20.6765	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:20.6430	EyeTracking Fixation	Started	407	449	-63609549080643
+2016-09-15 17:11:20.7735	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:21.0240	EyeTracking Fixation	Ended	411	454	381
+2016-09-15 17:11:21.0725	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:21.1570	EyeTracking Fixation	Started	74	535	-63609549081157
+2016-09-15 17:11:21.2905	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:21.3090	EyeTracking Fixation	Ended	65	537	152
+2016-09-15 17:11:21.3585	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:21.3580	EyeTracking Fixation	Started	55	559	-63609549081358
+2016-09-15 17:11:21.4885	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:21.6240	EyeTracking Fixation	Ended	54	581	266
+2016-09-15 17:11:21.6716	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:21.6400	EyeTracking Fixation	Started	69	597	-63609549081640
+2016-09-15 17:11:21.7726	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:21.7410	EyeTracking Fixation	Ended	53	584	101
+2016-09-15 17:11:21.7916	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:21.7590	EyeTracking Fixation	Started	37	572	-63609549081759
+2016-09-15 17:11:21.8906	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:21.8910	EyeTracking Fixation	Ended	48	588	132
+2016-09-15 17:11:21.9396	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:21.9740	EyeTracking Fixation	Started	452	518	-63609549081974
+2016-09-15 17:11:22.1046	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:22.2740	EyeTracking Fixation	Ended	445	511	300
+2016-09-15 17:11:22.3216	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:22.2900	EyeTracking Fixation	Started	416	446	-63609549082290
+2016-09-15 17:11:22.4206	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:22.6730	EyeTracking Fixation	Ended	407	450	383
+2016-09-15 17:11:22.7217	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:22.7070	EyeTracking Fixation	Started	99	543	-63609549082707
+2016-09-15 17:11:22.8377	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:22.8390	EyeTracking Fixation	Ended	102	553	132
+2016-09-15 17:11:22.8887	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:22.8730	EyeTracking Fixation	Started	59	569	-63609549082873
+2016-09-15 17:11:23.0037	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:23.0040	EyeTracking Fixation	Ended	39	573	131
+2016-09-15 17:11:23.0547	EyeTracking AOI	{"objectType":"Activity","id":"http://iosb.fraunhofer.de/ias/ibis/elai/xapidefinitions/activity/OutOfGameWindow","definition":{"name":{"en-US":"OutOfGameWindow"}}}
+2016-09-15 15:11:23.0570	EyeTracking Fixation	Started	474	462	-63609549083057
+2016-09-15 17:11:23.1907	EyeTracking AOI	NULL
+2016-09-15 15:11:23.1580	EyeTracking Fixation	Ended	488	463	101
+2016-09-15 17:11:23.2187	EyeTracking AOI	NULL
+2016-09-15 15:11:23.2880	EyeTracking Fixation	Started	875	517	-63609549083288
+2016-09-15 17:11:23.4337	EyeTracking AOI	NULL
+2016-09-15 15:11:23.3900	EyeTracking Fixation	Ended	886	535	102
+2016-09-15 17:11:23.4497	EyeTracking AOI	NULL
+2016-09-15 15:11:23.6550	EyeTracking Fixation	Started	970	655	-63609549083655
+2016-09-15 17:11:23.8008	EyeTracking AOI	NULL
+2016-09-15 15:11:23.7730	EyeTracking Fixation	Ended	973	644	118
+2016-09-15 17:11:23.8338	EyeTracking AOI	NULL
+2016-09-15 15:11:24.1230	EyeTracking Fixation	Started	827	619	-63609549084123
+2016-09-15 17:11:24.2678	EyeTracking AOI	NULL
+2016-09-15 15:11:24.2390	EyeTracking Fixation	Ended	832	630	116
+2016-09-15 17:11:24.3008	EyeTracking AOI	NULL
+2016-09-15 15:11:24.9530	EyeTracking Fixation	Started	862	543	-63609549084953
+2016-09-15 17:11:25.1019	EyeTracking AOI	NULL
+2016-09-15 15:11:25.1390	EyeTracking Fixation	Ended	866	556	186
+2016-09-15 17:11:25.2029	EyeTracking AOI	NULL
+2016-09-15 15:11:25.2400	EyeTracking Fixation	Started	1010	574	-63609549085240
+2016-09-15 17:11:25.3859	EyeTracking AOI	NULL
+2016-09-15 15:11:25.3710	EyeTracking Fixation	Ended	1008	563	131
+2016-09-15 17:11:25.4209	EyeTracking AOI	NULL
+2016-09-15 15:11:25.4710	EyeTracking Fixation	Started	1136	587	-63609549085471
+2016-09-15 17:11:25.6020	EyeTracking AOI	NULL
+2016-09-15 15:11:25.5710	EyeTracking Fixation	Ended	1136	573	100
+2016-09-15 17:11:25.6200	EyeTracking AOI	NULL
+2016-09-15 15:11:25.6880	EyeTracking Fixation	Started	950	964	-63609549085688
+2016-09-15 17:11:25.8200	EyeTracking AOI	NULL
+2016-09-15 15:11:25.7890	EyeTracking Fixation	Ended	949	956	101
+2016-09-15 17:11:25.8360	EyeTracking AOI	NULL
+2016-09-15 15:11:25.8730	EyeTracking Fixation	Started	908	1008	-63609549085873
+2016-09-15 17:11:26.0190	EyeTracking AOI	NULL
+2016-09-15 15:11:26.0260	EyeTracking Fixation	Ended	904	1012	153
+2016-09-15 17:11:26.0860	EyeTracking AOI	NULL
+2016-09-15 15:11:26.2560	EyeTracking Fixation	Started	649	553	-63609549086256
+2016-09-15 17:11:26.3880	EyeTracking AOI	NULL
+2016-09-15 15:11:26.3910	EyeTracking Fixation	Ended	649	577	135
+2016-09-15 17:11:26.4360	EyeTracking AOI	NULL
+2016-09-15 15:11:26.4880	EyeTracking Fixation	Started	586	581	-63609549086488
+2016-09-15 17:11:26.6221	EyeTracking AOI	NULL
+2016-09-15 15:11:26.6550	EyeTracking Fixation	Ended	589	574	167
+2016-09-15 17:11:26.7031	EyeTracking AOI	NULL
+2016-09-15 15:11:26.6710	EyeTracking Fixation	Started	600	592	-63609549086671
+2016-09-15 17:11:26.8051	EyeTracking AOI	NULL
+2016-09-15 15:11:26.7700	EyeTracking Fixation	Ended	593	588	99
+2016-09-15 17:11:26.8201	EyeTracking AOI	NULL
+2016-09-15 15:11:26.8040	EyeTracking Fixation	Started	624	559	-63609549086804
+2016-09-15 17:11:26.9361	EyeTracking AOI	NULL
+2016-09-15 15:11:26.9380	EyeTracking Fixation	Ended	627	563	134
+2016-09-15 17:11:26.9861	EyeTracking AOI	NULL
+2016-09-15 15:11:26.9720	EyeTracking Fixation	Started	640	574	-63609549086972
+2016-09-15 17:11:27.1041	EyeTracking AOI	NULL
+2016-09-15 15:11:27.0700	EyeTracking Fixation	Ended	624	564	98
+2016-09-15 17:11:27.1201	EyeTracking AOI	NULL
+2016-09-15 15:11:27.0880	EyeTracking Fixation	Started	636	548	-63609549087088
+2016-09-15 17:11:27.2201	EyeTracking AOI	NULL
+2016-09-15 15:11:27.2040	EyeTracking Fixation	Ended	629	562	116
+2016-09-15 17:11:27.2541	EyeTracking AOI	NULL
+2016-09-15 15:11:27.4870	EyeTracking Fixation	Started	959	1063	-63609549087487
+2016-09-15 17:11:27.6242	EyeTracking AOI	NULL
+2016-09-15 15:11:27.6560	EyeTracking Fixation	Ended	959	1054	169
+2016-09-15 17:11:27.7052	EyeTracking AOI	NULL
+2016-09-15 15:11:27.7210	EyeTracking Fixation	Started	752	554	-63609549087721
+2016-09-15 17:11:27.8542	EyeTracking AOI	NULL
+2016-09-15 15:11:27.8700	EyeTracking Fixation	Ended	747	545	149
+2016-09-15 17:11:28.0872	EyeTracking AOI	NULL
+2016-09-15 15:11:28.1040	EyeTracking Fixation	Started	1000	641	-63609549088104
+2016-09-15 17:11:28.2372	EyeTracking AOI	NULL
+2016-09-15 15:11:28.2210	EyeTracking Fixation	Ended	1006	627	117
+2016-09-15 17:11:28.2712	EyeTracking AOI	NULL
+2016-09-15 15:11:28.6700	EyeTracking Fixation	Started	951	1075	-63609549088670
+2016-09-15 17:11:28.8043	EyeTracking AOI	NULL
+2016-09-15 15:11:28.7870	EyeTracking Fixation	Ended	946	1075	117
+2016-09-15 17:11:28.8383	EyeTracking AOI	NULL
+2016-09-15 15:11:28.8030	EyeTracking Fixation	Started	953	1059	-63609549088803
+2016-09-15 17:11:28.9363	EyeTracking AOI	NULL
+2016-09-15 15:11:28.9040	EyeTracking Fixation	Ended	948	1064	101
+2016-09-15 17:11:28.9553	EyeTracking AOI	NULL
+2016-09-15 15:11:28.9710	EyeTracking Fixation	Started	908	637	-63609549088971
+2016-09-15 17:11:29.1063	EyeTracking AOI	NULL
+2016-09-15 15:11:29.1330	EyeTracking Fixation	Ended	904	619	162
+2016-09-15 15:11:29.1710	EyeTracking Fixation	Started	1003	644	-63609549089171
+2016-09-15 15:11:29.2870	EyeTracking Fixation	Ended	1003	645	116
